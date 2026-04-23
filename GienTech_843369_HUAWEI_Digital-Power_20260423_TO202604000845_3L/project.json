@@ -1,10 +1,10 @@
 {
-  "name": "Naam van het project",
-  "description": "Korte omschrijving",
+  "name": "HUAWEI Digital Power",
+  "description": "Technische vertaling HUAWEI Digital Power documentatie",
   "source_language": "en",
-  "target_languages": ["nl", "de"],
+  "target_languages": ["nl"],
   "format": "xliff",
   "status": "active",
-  "created": "YYYY-MM-DD",
+  "created": "2026-04-23",
   "contact": ""
 }

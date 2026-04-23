@@ -10,7 +10,7 @@ import json
 REPO = "Nofonex/translations"
 BASE_URL = f"https://api.github.com/repos/{REPO}/contents"
 # Optioneel: zet je GitHub token hier voor hogere rate limits
-GITHUB_TOKEN = ""  # bijv. "ghp_xxxx"
+GITHUB_TOKEN = ""
 
 headers = {}
 if GITHUB_TOKEN:
@@ -25,7 +25,8 @@ def get_projects():
     projects = []
     for item in items:
         # Sla systeemmappen en bestanden over
-        if item["type"] != "dir" or item["name"].startswith((".", "_")):
+        SKIP = {"scripts", "translation-termbase-en-nl"}
+if item["type"] != "dir" or item["name"].startswith((".", "_")) or item["name"] in SKIP:
             continue
 
         project_info = {"name": item["name"], "url": item["html_url"]}
