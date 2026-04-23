@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns="neotrans:xliff:export:2.0" version="1.2">
+  <file original="document name.xlsx.sdlxliff" datatype="x-neotrans-export" source-language="en-US" target-language="nl-NL" ns:projectId="2047222835169525761" ns:taskId="2047272237208764418" ns:wfId="2047222835224051714" ns:swfId="" ns:historyWfId="" ns:fileId="2047269827388178433" ns:vendorId="1525463126898159616" ns:vendorSubtype="T">
+    <body>
+      <trans-unit id="1" ns:sid="2047271440883970050" ns:tid="2047271709169364993" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="nl" ns:Status="New" ns:Origin="ICE" ns:MatchRate="101">
+        <source>en</source>
+        <target state="new" state-qualifier="exact-match">nl</target>
+      </trans-unit>
+      <trans-unit id="2" ns:sid="2047271440883970051" ns:tid="2047271709169364994" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="65">
+        <source>Charging Suggestions</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="3" ns:sid="2047271440883970052" ns:tid="2047271709169364995" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Slimme PV-assistent" ns:Status="New" ns:Origin="100" ns:MatchRate="100">
+        <source>Smart PV Assistant</source>
+        <target state="new" state-qualifier="tm-suggestion">Slimme PV-assistent</target>
+      </trans-unit>
+      <trans-unit id="4" ns:sid="2047271440883970053" ns:tid="2047271709169364996" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Wat gebeurt er" ns:Status="New" ns:Origin="100" ns:MatchRate="100">
+        <source>What's Happening</source>
+        <target state="new" state-qualifier="tm-suggestion">Wat gebeurt er</target>
+      </trans-unit>
+      <trans-unit id="5" ns:sid="2047271440883970054" ns:tid="2047271709169364997" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="59">
+        <source>Smart Charger Commissioning Manual (SmartCharger-7KS-S0, SmartCharger-22KT-S0)</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="6" ns:sid="2047271440883970055" ns:tid="2047271709169364998" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Slim opladen" ns:Status="New" ns:Origin="100" ns:MatchRate="100">
+        <source>Smart Charge</source>
+        <target state="new" state-qualifier="tm-suggestion">Slim opladen</target>
+      </trans-unit>
+      <trans-unit id="7" ns:sid="2047271440883970056" ns:tid="2047271709169364999" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="46">
+        <source>Commissioning Manual (SmartCharger-7KS-S0, SmartCharger-22KT-S0)</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

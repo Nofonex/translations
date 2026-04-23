@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns="neotrans:xliff:export:2.0" version="1.2">
+  <file original="en-us_topic_0000002523813602.xml.sdlxliff" datatype="x-neotrans-export" source-language="en-US" target-language="nl-NL" ns:projectId="2047222835169525761" ns:taskId="2047272237208764418" ns:wfId="2047222835224051714" ns:swfId="" ns:historyWfId="" ns:fileId="2047269827455287297" ns:vendorId="1525463126898159616" ns:vendorSubtype="T">
+    <body>
+      <trans-unit id="1" ns:sid="2047271443740291073" ns:tid="2047271758616014849" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Waarom is de batterij niet opgeladen?" ns:Status="New" ns:Origin="" ns:MatchRate="84">
+        <source>Why Is the Battery Not Charged at Noon?</source>
+        <target state="new" state-qualifier="fuzzy-match">Waarom is de batterij niet opgeladen?</target>
+      </trans-unit>
+      <trans-unit id="2" ns:sid="2047271443740291074" ns:tid="2047271758616014850" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="39">
+        <source>The battery is full</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="3" ns:sid="2047271443740291075" ns:tid="2047271758616014851" translate="no" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="REP" ns:MatchRate="100">
+        <source>If the SOC has reached the preset end-of-charge threshold (for example, 90%), the system stops charging to prevent overcharging.</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="4" ns:sid="2047271443740291076" ns:tid="2047271758616014852" translate="no" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="REP" ns:MatchRate="100">
+        <source>In this case, the PV power is fed to the grid or supplied to loads.</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="5" ns:sid="2047271443740291077" ns:tid="2047271758616014853" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="49">
+        <source>Intelligent scheduling policy prioritizes electricity sales</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="6" ns:sid="2047271443740291078" ns:tid="2047271758616014854" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="39">
+        <source>If the noon period is a <bpt id="g0">&lt;b class=&quot;+ topic/ph hi-d/b &quot; id=&quot;b1640811811199&quot;&gt;</bpt>high electricity price window<ept id="g0">&lt;/g&gt;</ept>, PV power is preferentially fed to the grid (as the revenue exceeds the net revenue from charging and then discharging the battery).</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="7" ns:sid="2047271443740291079" ns:tid="2047271758616014855" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="43">
+        <source>For example, if the electricity price is high at noon, the system may directly sell electricity instead of charging the battery.</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

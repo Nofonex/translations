@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns="neotrans:xliff:export:2.0" version="1.2">
+  <file original="en-us_topic_0000002554728695.xml.sdlxliff" datatype="x-neotrans-export" source-language="en-US" target-language="nl-NL" ns:projectId="2047222835169525761" ns:taskId="2047272237208764418" ns:wfId="2047222835224051714" ns:swfId="" ns:historyWfId="" ns:fileId="2047269827488841730" ns:vendorId="1525463126898159616" ns:vendorSubtype="T">
+    <body>
+      <trans-unit id="1" ns:sid="2047271446307205123" ns:tid="2047271784511647745" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="61">
+        <source>Why Is Energy Discharged from the Battery and Sold to the Power Grid?</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="2" ns:sid="2047271446307205124" ns:tid="2047271784511647746" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="64">
+        <source><bpt id="g0">&lt;b class=&quot;+ topic/ph hi-d/b &quot; id=&quot;b188301427131217&quot;&gt;</bpt>Function enabled<ept id="g0">&lt;/g&gt;</ept>:</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="3" ns:sid="2047271446307205125" ns:tid="2047271784511647747" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="De schakelaar &lt;f0/&gt; is ingeschakeld." ns:Status="New" ns:Origin="100" ns:MatchRate="100">
+        <source>The <ph id="f0">&lt;uicontrol class=&quot;+ topic/ph ui-d/uicontrol &quot; id=&quot;uicontrol350524810366&quot; conref=&quot;en-us_topic_0000207663920538.xml#568815&quot; idp:usecustomid=&quot;x-wc://file=ZH-CN_TOPIC_0000207663920538.xml#568815&quot; idp:conrefpath=&quot;200650494000#EN-US_BOOKMAP_0000002332266381#EN-US_TOPIC_0000207663920538&quot;/&gt;</ph> switch is turned on.</source>
+        <target state="new" state-qualifier="tm-suggestion">De schakelaar <ph id="f0">&lt;uicontrol class=&quot;+ topic/ph ui-d/uicontrol &quot; id=&quot;uicontrol350524810366&quot; conref=&quot;en-us_topic_0000207663920538.xml#568815&quot; idp:usecustomid=&quot;x-wc://file=ZH-CN_TOPIC_0000207663920538.xml#568815&quot; idp:conrefpath=&quot;200650494000#EN-US_BOOKMAP_0000002332266381#EN-US_TOPIC_0000207663920538&quot;/&gt;</ph> is ingeschakeld.</target>
+      </trans-unit>
+      <trans-unit id="4" ns:sid="2047271446307205126" ns:tid="2047271784511647748" translate="no" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="REP" ns:MatchRate="100">
+        <source><bpt id="g0">&lt;b class=&quot;+ topic/ph hi-d/b &quot; id=&quot;b2848996497&quot;&gt;</bpt>Intelligent scheduling policy<ept id="g0">&lt;/g&gt;</ept>:</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="5" ns:sid="2047271446307205127" ns:tid="2047271784511647749" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="41">
+        <source>The <ph id="f0">&lt;ph class=&quot;- topic/ph &quot; conref=&quot;en-us_topic_0000001645659009.xml#ph122067484595&quot; id=&quot;ph1959151418587&quot; idp:conrefpath=&quot;200650494000#EN-US_BOOKMAP_0000001596019118#EN-US_TOPIC_0000001645659009&quot; idp:userph=&quot;true&quot;/&gt;</ph> automatically schedules the battery to discharge and sell electricity to the grid during peak hours based on the real-time electricity price fluctuations.</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="6" ns:sid="2047271446307205128" ns:tid="2047271784511647750" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Economische voordelen" ns:Status="New" ns:Origin="" ns:MatchRate="79">
+        <source><bpt id="g0">&lt;b class=&quot;+ topic/ph hi-d/b &quot; id=&quot;b38482917497&quot;&gt;</bpt>Maximized economic benefits<ept id="g0">&lt;/g&gt;</ept>:</source>
+        <target state="new" state-qualifier="fuzzy-match">Economische voordelen</target>
+      </trans-unit>
+      <trans-unit id="7" ns:sid="2047271446307205129" ns:tid="2047271784511647751" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="59">
+        <source>The battery is charged during low electricity price periods and discharges energy to the grid during high electricity price periods, maximizing returns.</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

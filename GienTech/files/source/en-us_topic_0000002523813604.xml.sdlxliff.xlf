@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns="neotrans:xliff:export:2.0" version="1.2">
+  <file original="en-us_topic_0000002523813604.xml.sdlxliff" datatype="x-neotrans-export" source-language="en-US" target-language="nl-NL" ns:projectId="2047222835169525761" ns:taskId="2047272237208764418" ns:wfId="2047222835224051714" ns:swfId="" ns:historyWfId="" ns:fileId="2047269827459481603" ns:vendorId="1525463126898159616" ns:vendorSubtype="T">
+    <body>
+      <trans-unit id="1" ns:sid="2047271444642066433" ns:tid="2047271763192000514" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="65">
+        <source>Why Is the Battery Not Operating?</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="2" ns:sid="2047271444642066434" ns:tid="2047271763192000515" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="65">
+        <source>Intelligent scheduling policy intervention</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="3" ns:sid="2047271444642066435" ns:tid="2047271763192000516" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="&lt;f0/&gt;:" ns:Status="New" ns:Origin="100" ns:MatchRate="100">
+        <source><ph id="f0">&lt;ph class=&quot;- topic/ph &quot; conref=&quot;en-us_topic_0000001645659009.xml#ph122067484595&quot; id=&quot;ph1959151418587&quot; idp:conrefpath=&quot;200650494000#EN-US_BOOKMAP_0000001596019118#EN-US_TOPIC_0000001645659009&quot; idp:userph=&quot;true&quot;/&gt;</ph>:</source>
+        <target state="new" state-qualifier="tm-suggestion"><ph id="f0">&lt;ph class=&quot;- topic/ph &quot; conref=&quot;en-us_topic_0000001645659009.xml#ph122067484595&quot; id=&quot;ph1959151418587&quot; idp:conrefpath=&quot;200650494000#EN-US_BOOKMAP_0000001596019118#EN-US_TOPIC_0000001645659009&quot; idp:userph=&quot;true&quot;/&gt;</ph>:</target>
+      </trans-unit>
+      <trans-unit id="4" ns:sid="2047271444642066436" ns:tid="2047271763192000517" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="31">
+        <source>If this function is enabled, the system dynamically adjusts battery usage based on the electricity price curve and load prediction, and may temporarily not take action to reserve energy for higher-yield periods.</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="5" ns:sid="2047271444642066437" ns:tid="2047271763192000518" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="49">
+        <source>Load demand met:</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="6" ns:sid="2047271444642066438" ns:tid="2047271763192000519" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="49">
+        <source>If the PV power is just enough to meet the load demand, the system may prioritize the load, and there is no surplus power for charging the battery.</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="7" ns:sid="2047271444642066439" ns:tid="2047271763192000520" translate="no" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="REP" ns:MatchRate="100">
+        <source>SOC (energy) limit</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="8" ns:sid="2047271444642066440" ns:tid="2047271763192000521" translate="no" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="REP" ns:MatchRate="100">
+        <source><bpt id="g0">&lt;b class=&quot;+ topic/ph hi-d/b &quot; id=&quot;b59078853111285&quot;&gt;</bpt>Backup power SOC protection mechanism<ept id="g0">&lt;/g&gt;</ept>:</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="9" ns:sid="2047271444642066441" ns:tid="2047271763192000522" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="41">
+        <source>To ensure the power supply capability in the event of unexpected power outages, the system sets the peak shaving backup power SOC (for example, 20%) or off-grid backup power SOC (for example, 5%).</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="10" ns:sid="2047271444642066442" ns:tid="2047271763192000523" translate="no" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="REP" ns:MatchRate="100">
+        <source>If the battery SOC is lower than this threshold at night, the system prevents the battery from discharging.</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="11" ns:sid="2047271444642066443" ns:tid="2047271763192000524" translate="no" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="REP" ns:MatchRate="100">
+        <source><bpt id="g0">&lt;b class=&quot;+ topic/ph hi-d/b &quot; id=&quot;b870675830112953&quot;&gt;</bpt>End-of-discharge SOC<ept id="g0">&lt;/g&gt;</ept>:</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="12" ns:sid="2047271444642066444" ns:tid="2047271763192000525" translate="no" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="REP" ns:MatchRate="100">
+        <source>If the battery SOC decreases to the end-of-discharge SOC (for example, 10%), the system forcibly stops discharging to prevent overdischarge.</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="13" ns:sid="2047271444642066445" ns:tid="2047271763192000526" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="56">
+        <source>Operating mode and function configuration</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="14" ns:sid="2047271444642066446" ns:tid="2047271763192000527" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="65">
+        <source><bpt id="g0">&lt;b class=&quot;+ topic/ph hi-d/b &quot; id=&quot;b4426112010137&quot;&gt;</bpt><ph id="f1">&lt;uicontrol class=&quot;+ topic/ph ui-d/uicontrol &quot; id=&quot;uicontrol1891019245456&quot; conref=&quot;en-us_topic_0000207784470567.xml#438333&quot; idp:conrefpath=&quot;200650494000#EN-US_BOOKMAP_0000002298266790#EN-US_TOPIC_0000207784470567&quot;/&gt;</ph> time segment setting error<ept id="g0">&lt;/g&gt;</ept>:</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="15" ns:sid="2047271444642066447" ns:tid="2047271763192000528" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="39">
+        <source>If the <ph id="f0">&lt;uicontrol class=&quot;+ topic/ph ui-d/uicontrol &quot; id=&quot;uicontrol521183695011&quot; conref=&quot;en-us_topic_0000207784470567.xml#438333&quot; idp:conrefpath=&quot;200650494000#EN-US_BOOKMAP_0000002298266790#EN-US_TOPIC_0000207784470567&quot;/&gt;</ph> time segment does not cover the battery charge and discharge window, the system may not be able to trigger actions.</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="16" ns:sid="2047271444642066448" ns:tid="2047271763192000529" translate="no" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="REP" ns:MatchRate="100">
+        <source><bpt id="g0">&lt;b class=&quot;+ topic/ph hi-d/b &quot; id=&quot;b1039873015109&quot;&gt;</bpt><ph id="f1">&lt;uicontrol class=&quot;+ topic/ph ui-d/uicontrol &quot; id=&quot;uicontrol1129611023712&quot; conref=&quot;en-us_topic_0000207634837326.xml#434763&quot; idp:conrefpath=&quot;200650494000#EN-US_BOOKMAP_0000002298266790#EN-US_TOPIC_0000207634837326&quot;/&gt;</ph> disabled<ept id="g0">&lt;/g&gt;</ept>:</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="17" ns:sid="2047271444642066449" ns:tid="2047271763192000530" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="51">
+        <source>In <ph id="f0">&lt;uicontrol class=&quot;+ topic/ph ui-d/uicontrol &quot; id=&quot;uicontrol167054403509&quot; conref=&quot;en-us_topic_0000207784470567.xml#438333&quot; idp:conrefpath=&quot;200650494000#EN-US_BOOKMAP_0000002298266790#EN-US_TOPIC_0000207784470567&quot;/&gt;</ph> mode, if <ph id="f1">&lt;uicontrol class=&quot;+ topic/ph ui-d/uicontrol &quot; id=&quot;uicontrol1523162317478&quot; conref=&quot;en-us_topic_0000207634837326.xml#434763&quot; idp:conrefpath=&quot;200650494000#EN-US_BOOKMAP_0000002298266790#EN-US_TOPIC_0000207634837326&quot;/&gt;</ph> is not manually enabled, the battery cannot be charged from the grid.</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="18" ns:sid="2047271444642066450" ns:tid="2047271763192000531" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="36">
+        <source>Consequently, the battery may be inoperable due to insufficient energy.</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="19" ns:sid="2047271444642066451" ns:tid="2047271763192000532" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="39">
+        <source><bpt id="g0">&lt;b class=&quot;+ topic/ph hi-d/b &quot; id=&quot;b139813013101&quot;&gt;</bpt>Mode conflict<ept id="g0">&lt;/g&gt;</ept>:</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="20" ns:sid="2047271444642066452" ns:tid="2047271763192000533" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="49">
+        <source>If the <ph id="f0">&lt;uicontrol class=&quot;+ topic/ph ui-d/uicontrol &quot; id=&quot;uicontrol13548202832414&quot; conref=&quot;en-us_topic_0000207784470553.xml#135757&quot; idp:usecustomid=&quot;x-wc://file=ZH-CN_TOPIC_0000207784470553.xml#135757&quot; idp:conrefpath=&quot;200650494000#EN-US_BOOKMAP_0000002298266790#EN-US_TOPIC_0000207784470553&quot;/&gt;</ph> mode is set, the battery can only be charged by PV power and cannot be charged from the grid.</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="21" ns:sid="2047271444642066453" ns:tid="2047271763192000534" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="60">
+        <source>If PV power is insufficient, the battery cannot be charged.</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

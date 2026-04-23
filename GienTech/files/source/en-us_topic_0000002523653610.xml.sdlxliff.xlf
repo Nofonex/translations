@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns="neotrans:xliff:export:2.0" version="1.2">
+  <file original="en-us_topic_0000002523653610.xml.sdlxliff" datatype="x-neotrans-export" source-language="en-US" target-language="nl-NL" ns:projectId="2047222835169525761" ns:taskId="2047272237208764418" ns:wfId="2047222835224051714" ns:swfId="" ns:historyWfId="" ns:fileId="2047269827438510082" ns:vendorId="1525463126898159616" ns:vendorSubtype="T">
+    <body>
+      <trans-unit id="1" ns:sid="2047271441840271369" ns:tid="2047271746330898433" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="58">
+        <source>Why Does the Battery Not Supply Power at Night?</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="2" ns:sid="2047271441840271370" ns:tid="2047271746330898434" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Intelligente [planning]" ns:Status="New" ns:Origin="" ns:MatchRate="79">
+        <source>Intelligent scheduling policy</source>
+        <target state="new" state-qualifier="fuzzy-match">Intelligente [planning]</target>
+      </trans-unit>
+      <trans-unit id="3" ns:sid="2047271441840271371" ns:tid="2047271746330898435" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="51">
+        <source>The <ph id="f0">&lt;ph class=&quot;- topic/ph &quot; conref=&quot;en-us_topic_0000001645659009.xml#ph122067484595&quot; id=&quot;ph1959151418587&quot; idp:conrefpath=&quot;200650494000#EN-US_BOOKMAP_0000001596019118#EN-US_TOPIC_0000001645659009&quot; idp:userph=&quot;true&quot;/&gt;</ph> dynamically manages scheduling based on the electricity price curve and load prediction.</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="4" ns:sid="2047271441840271372" ns:tid="2047271746330898436" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="35">
+        <source>When electricity prices are low at night, the battery may automatically charge or enter standby mode to reserve energy for higher-yield scenarios.</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="5" ns:sid="2047271441840271373" ns:tid="2047271746330898437" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="49">
+        <source>SOC (energy) limit</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="6" ns:sid="2047271441840271374" ns:tid="2047271746330898438" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="74">
+        <source><bpt id="g0">&lt;b class=&quot;+ topic/ph hi-d/b &quot; id=&quot;b15536644237&quot;&gt;</bpt>Backup power SOC protection mechanism<ept id="g0">&lt;/g&gt;</ept>:</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="7" ns:sid="2047271441840271375" ns:tid="2047271746330898439" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="40">
+        <source>To ensure the power supply capability in the event of unexpected power outages, the system sets the backup power SOC for peak shaving (for example, 20%) or off-grid backup power SOC (for example, 5%).</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="8" ns:sid="2047271441840271376" ns:tid="2047271746330898440" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="49">
+        <source>If the battery SOC is lower than this threshold at night, the system prevents the battery from discharging.</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="9" ns:sid="2047271441840271377" ns:tid="2047271746330898441" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="SOC bij einde ontladen" ns:Status="New" ns:Origin="" ns:MatchRate="93">
+        <source><bpt id="g0">&lt;b class=&quot;+ topic/ph hi-d/b &quot; id=&quot;b1353614441733&quot;&gt;</bpt>End-of-discharge SOC<ept id="g0">&lt;/g&gt;</ept>:</source>
+        <target state="new" state-qualifier="fuzzy-match">SOC bij einde ontladen</target>
+      </trans-unit>
+      <trans-unit id="10" ns:sid="2047271441840271378" ns:tid="2047271746330898442" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="47">
+        <source>If the battery SOC decreases to the end-of-discharge SOC (for example, 10%), the system forcibly stops discharging to prevent overdischarge.</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="11" ns:sid="2047271441840271379" ns:tid="2047271746330898443" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="56">
+        <source>Operating mode and configuration restrictions</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="12" ns:sid="2047271441840271380" ns:tid="2047271746330898444" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="49">
+        <source><bpt id="g0">&lt;b class=&quot;+ topic/ph hi-d/b &quot; id=&quot;b16717430246&quot;&gt;</bpt>Incorrect time segment configuration in <ph id="f1">&lt;uicontrol class=&quot;+ topic/ph ui-d/uicontrol &quot; id=&quot;uicontrol1891019245456&quot; conref=&quot;en-us_topic_0000207784470567.xml#438333&quot; idp:conrefpath=&quot;200650494000#EN-US_BOOKMAP_0000002298266790#EN-US_TOPIC_0000207784470567&quot;/&gt;</ph> mode<ept id="g0">&lt;/g&gt;</ept>:</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="13" ns:sid="2047271441840271381" ns:tid="2047271746330898445" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="45">
+        <source>If nighttime is not set as the discharge time segment, the battery does not discharge by default.</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="14" ns:sid="2047271441840271382" ns:tid="2047271746330898446" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="45">
+        <source>For example, if the discharge period only spans 14:00–24:00, the battery does not supply power after midnight.</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="15" ns:sid="2047271441840271383" ns:tid="2047271746330898447" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Uitschakelen" ns:Status="New" ns:Origin="" ns:MatchRate="84">
+        <source><bpt id="g0">&lt;b class=&quot;+ topic/ph hi-d/b &quot; id=&quot;b271714306420&quot;&gt;</bpt><ph id="f1">&lt;uicontrol class=&quot;+ topic/ph ui-d/uicontrol &quot; id=&quot;uicontrol1129611023712&quot; conref=&quot;en-us_topic_0000207634837326.xml#434763&quot; idp:conrefpath=&quot;200650494000#EN-US_BOOKMAP_0000002298266790#EN-US_TOPIC_0000207634837326&quot;/&gt;</ph> disabled<ept id="g0">&lt;/g&gt;</ept>:</source>
+        <target state="new" state-qualifier="fuzzy-match">Uitschakelen</target>
+      </trans-unit>
+      <trans-unit id="16" ns:sid="2047271441840271384" ns:tid="2047271746330898448" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="49">
+        <source>In <ph id="f0">&lt;uicontrol class=&quot;+ topic/ph ui-d/uicontrol &quot; id=&quot;uicontrol979352118509&quot; conref=&quot;en-us_topic_0000207784470567.xml#438333&quot; idp:conrefpath=&quot;200650494000#EN-US_BOOKMAP_0000002298266790#EN-US_TOPIC_0000207784470567&quot;/&gt;</ph> mode, if <ph id="f1">&lt;uicontrol class=&quot;+ topic/ph ui-d/uicontrol &quot; id=&quot;uicontrol279716331479&quot; conref=&quot;en-us_topic_0000207634837326.xml#434763&quot; idp:conrefpath=&quot;200650494000#EN-US_BOOKMAP_0000002298266790#EN-US_TOPIC_0000207634837326&quot;/&gt;</ph> is not manually enabled, the battery cannot charge from the grid at night.</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="17" ns:sid="2047271441840271385" ns:tid="2047271746330898449" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="39">
+        <source>Consequently, the battery may not discharge due to insufficient energy.</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns="neotrans:xliff:export:2.0" version="1.2">
+  <file original="en-us_topic_0000002572517823.xml.sdlxliff" datatype="x-neotrans-export" source-language="en-US" target-language="nl-NL" ns:projectId="2047222835169525761" ns:taskId="2047272237208764418" ns:wfId="2047222835224051714" ns:swfId="" ns:historyWfId="" ns:fileId="2047269827547561987" ns:vendorId="1525463126898159616" ns:vendorSubtype="T">
+    <body>
+      <trans-unit id="1" ns:sid="2047271451315204097" ns:tid="2047271835438886914" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="39">
+        <source>When is the Cheapest Time of the Week to Charge?</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="2" ns:sid="2047271451315204098" ns:tid="2047271835438886915" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="65">
+        <source><bpt id="g0">&lt;b class=&quot;+ topic/ph hi-d/b &quot; id=&quot;b3800192313415&quot;&gt;</bpt>Core of cost-effectiveness<ept id="g0">&lt;/g&gt;</ept>:</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="3" ns:sid="2047271451315204099" ns:tid="2047271835438886916" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="35">
+        <source>Use the off-peak electricity price at night + Green Power Preferred to minimize electricity costs.</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="4" ns:sid="2047271451315204100" ns:tid="2047271835438886917" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="53">
+        <source>Scheduled charging settings (cost-saving period)</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="5" ns:sid="2047271451315204101" ns:tid="2047271835438886918" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="74">
+        <source><bpt id="g0">&lt;b class=&quot;+ topic/ph hi-d/b &quot; id=&quot;b1942815541126&quot;&gt;</bpt>Off-peak hours at night<ept id="g0">&lt;/g&gt;</ept>:</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="6" ns:sid="2047271451315204102" ns:tid="2047271835438886919" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="31">
+        <source>0:00–8:00 (preferred because the electricity price is the lowest)</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="7" ns:sid="2047271451315204103" ns:tid="2047271835438886920" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="39">
+        <source><bpt id="g0">&lt;b class=&quot;+ topic/ph hi-d/b &quot; id=&quot;b967443282510&quot;&gt;</bpt>Shoulder price at noon<ept id="g0">&lt;/g&gt;</ept>:</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="8" ns:sid="2047271451315204104" ns:tid="2047271835438886921" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="43">
+        <source>11:00–14:00 (sufficient PV power, high proportion of green power)</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="9" ns:sid="2047271451315204105" ns:tid="2047271835438886922" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="59">
+        <source>Green Power Preferred mode (reduce electricity purchased from the grid)</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="10" ns:sid="2047271451315204106" ns:tid="2047271835438886923" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Voorkeur voor groene stroom" ns:Status="New" ns:Origin="" ns:MatchRate="84">
+        <source><bpt id="g0">&lt;b class=&quot;+ topic/ph hi-d/b &quot; id=&quot;b13836236122514&quot;&gt;</bpt>Enable Green Power Preferred<ept id="g0">&lt;/g&gt;</ept>:</source>
+        <target state="new" state-qualifier="fuzzy-match">Voorkeur voor groene stroom</target>
+      </trans-unit>
+      <trans-unit id="11" ns:sid="2047271451315204107" ns:tid="2047271835438886924" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="64">
+        <source>Surplus green power is preferentially used for charging.</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="12" ns:sid="2047271451315204108" ns:tid="2047271835438886925" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Vermogen wordt ingekocht van het net..." ns:Status="New" ns:Origin="" ns:MatchRate="78">
+        <source><bpt id="g0">&lt;b class=&quot;+ topic/ph hi-d/b &quot; id=&quot;b12904132133711&quot;&gt;</bpt>Set power purchased from grid<ept id="g0">&lt;/g&gt;</ept>:</source>
+        <target state="new" state-qualifier="fuzzy-match">Vermogen wordt ingekocht van het net...</target>
+      </trans-unit>
+      <trans-unit id="13" ns:sid="2047271451315204109" ns:tid="2047271835438886926" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="51">
+        <source>Set the maximum power (for example, 2 kW) obtained from the grid based on the home energy consumption.</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="14" ns:sid="2047271451315204110" ns:tid="2047271835438886927" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="52">
+        <source>Green power is preferentially consumed.</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="15" ns:sid="2047271451315204111" ns:tid="2047271835438886928" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="49">
+        <source><bpt id="g0">&lt;b class=&quot;+ topic/ph hi-d/b &quot; id=&quot;b20471314405&quot;&gt;</bpt>Adjust appliance priority (multi-device scenario)<ept id="g0">&lt;/g&gt;</ept>:</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="16" ns:sid="2047271451315204112" ns:tid="2047271835438886929" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="44">
+        <source>When green power is insufficient, high-priority devices are powered first.</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="17" ns:sid="2047271451315204113" ns:tid="2047271835438886930" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="53">
+        <source>When the power is insufficient, low-priority devices are power-limited.</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

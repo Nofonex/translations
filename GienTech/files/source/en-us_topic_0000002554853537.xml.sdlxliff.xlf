@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns="neotrans:xliff:export:2.0" version="1.2">
+  <file original="en-us_topic_0000002554853537.xml.sdlxliff" datatype="x-neotrans-export" source-language="en-US" target-language="nl-NL" ns:projectId="2047222835169525761" ns:taskId="2047272237208764418" ns:wfId="2047222835224051714" ns:swfId="" ns:historyWfId="" ns:fileId="2047269827526590466" ns:vendorId="1525463126898159616" ns:vendorSubtype="T">
+    <body>
+      <trans-unit id="1" ns:sid="2047271450304376834" ns:tid="2047271815876653057" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="39">
+        <source>Why Is the PV Output Low When the Irradiance Is Good at Noon?</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="2" ns:sid="2047271450304376835" ns:tid="2047271815876653058" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="65">
+        <source>Power limit policy</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="3" ns:sid="2047271450304376836" ns:tid="2047271815876653059" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Beperkte teruglevering" ns:Status="New" ns:Origin="" ns:MatchRate="91">
+        <source><bpt id="g0">&lt;b class=&quot;+ topic/ph hi-d/b &quot; id=&quot;b33871936685&quot;&gt;</bpt>Limited feed-in<ept id="g0">&lt;/g&gt;</ept>:</source>
+        <target state="new" state-qualifier="fuzzy-match">Beperkte teruglevering</target>
+      </trans-unit>
+      <trans-unit id="4" ns:sid="2047271450304376837" ns:tid="2047271815876653060" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="49">
+        <source>The system may have a <ph id="f0">&lt;uicontrol class=&quot;+ topic/ph ui-d/uicontrol &quot; id=&quot;uicontrol181460121618&quot; conref=&quot;en-us_topic_0000207634602764.xml#388057&quot; idp:usecustomid=&quot;x-wc://file=ZH-CN_TOPIC_0000207634602764.xml#388057&quot; idp:conrefpath=&quot;200650494000#EN-US_BOOKMAP_0000002298266790#EN-US_TOPIC_0000207634602764&quot;/&gt;</ph> threshold set.</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="5" ns:sid="2047271450304376838" ns:tid="2047271815876653061" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="49">
+        <source>When the PV output exceeds the threshold, the inverter actively reduces the output power.</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="6" ns:sid="2047271450304376839" ns:tid="2047271815876653062" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="49">
+        <source>Even if irradiance is sufficient, the energy yield will be limited.</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="7" ns:sid="2047271450304376840" ns:tid="2047271815876653063" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Geen teruglevering" ns:Status="New" ns:Origin="" ns:MatchRate="89">
+        <source><bpt id="g0">&lt;b class=&quot;+ topic/ph hi-d/b &quot; id=&quot;b193872036588&quot;&gt;</bpt>Zero feed-in<ept id="g0">&lt;/g&gt;</ept>:</source>
+        <target state="new" state-qualifier="fuzzy-match">Geen teruglevering</target>
+      </trans-unit>
+      <trans-unit id="8" ns:sid="2047271450304376841" ns:tid="2047271815876653064" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="38">
+        <source>If the grid connection point power is forcibly set to zero (grid feed-in is prohibited), the PV power is used first to supply local loads, and the remainder may be curtailed by the inverter, causing the energy yield to decline.</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="9" ns:sid="2047271450304376842" ns:tid="2047271815876653065" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="32">
+        <source>Environmental and equipment factors</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="10" ns:sid="2047271450304376843" ns:tid="2047271815876653066" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="49">
+        <source><bpt id="g0">&lt;b class=&quot;+ topic/ph hi-d/b &quot; id=&quot;b3387036685&quot;&gt;</bpt>Irradiance fluctuation<ept id="g0">&lt;/g&gt;</ept>:</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="11" ns:sid="2047271450304376844" ns:tid="2047271815876653067" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="21">
+        <source>Momentary cloud shading or weather changes at noon may cause irradiance fluctuations and unstable PV current output (for example, a sudden change in irradiance at constant voltage causes a drop in current).</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="12" ns:sid="2047271450304376845" ns:tid="2047271815876653068" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="49">
+        <source>Environmental shading:</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="13" ns:sid="2047271450304376846" ns:tid="2047271815876653069" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="29">
+        <source>PV modules are shaded by trees, building shadows, or dust accumulation, reducing the photoelectric conversion efficiency.</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="14" ns:sid="2047271450304376847" ns:tid="2047271815876653070" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="65">
+        <source><bpt id="g0">&lt;b class=&quot;+ topic/ph hi-d/b &quot; id=&quot;b193881336485&quot;&gt;</bpt>Temperature impact<ept id="g0">&lt;/g&gt;</ept>:</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="15" ns:sid="2047271450304376848" ns:tid="2047271815876653071" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="38">
+        <source>High temperatures at noon may reduce PV module efficiency, further affecting the actual energy yield.</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="16" ns:sid="2047271450304376849" ns:tid="2047271815876653072" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Systeemstatus" ns:Status="New" ns:Origin="" ns:MatchRate="79">
+        <source>Abnormal system status:</source>
+        <target state="new" state-qualifier="fuzzy-match">Systeemstatus</target>
+      </trans-unit>
+      <trans-unit id="17" ns:sid="2047271450304376850" ns:tid="2047271815876653073" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="34">
+        <source>The inverter has unhandled alarms (such as alarms related to overtemperature and PV module faults) that affect power generation capacity.</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="18" ns:sid="2047271450304376851" ns:tid="2047271815876653074" translate="no" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="REP" ns:MatchRate="100">
+        <source>Intelligent scheduling policy</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="19" ns:sid="2047271450304376852" ns:tid="2047271815876653075" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="33">
+        <source>The <ph id="f0">&lt;ph class=&quot;- topic/ph &quot; conref=&quot;en-us_topic_0000001645659009.xml#ph122067484595&quot; id=&quot;ph1959151418587&quot; idp:conrefpath=&quot;200650494000#EN-US_BOOKMAP_0000001596019118#EN-US_TOPIC_0000001645659009&quot; idp:userph=&quot;true&quot;/&gt;</ph> may prioritize feeding PV power directly into the grid during high electricity price periods at noon based on the time-of-use electricity price policy, rather than using all of it for power generation (if the returns from selling electricity are higher).</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

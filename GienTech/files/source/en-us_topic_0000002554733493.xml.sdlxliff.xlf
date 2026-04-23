@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns="neotrans:xliff:export:2.0" version="1.2">
+  <file original="en-us_topic_0000002554733493.xml.sdlxliff" datatype="x-neotrans-export" source-language="en-US" target-language="nl-NL" ns:projectId="2047222835169525761" ns:taskId="2047272237208764418" ns:wfId="2047222835224051714" ns:swfId="" ns:historyWfId="" ns:fileId="2047269827493036036" ns:vendorId="1525463126898159616" ns:vendorSubtype="T">
+    <body>
+      <trans-unit id="1" ns:sid="2047271449377435649" ns:tid="2047271789393817601" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="65">
+        <source>Why Is the Battery Not Fully Charged When the Electricity Price Is Low?</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="2" ns:sid="2047271449377435650" ns:tid="2047271789393817602" translate="no" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="REP" ns:MatchRate="100">
+        <source>Operating mode restrictions</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="3" ns:sid="2047271449377435651" ns:tid="2047271789393817603" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="0">
+        <source><bpt id="g0">&lt;b class=&quot;+ topic/ph hi-d/b &quot; id=&quot;b432213197268&quot;&gt;</bpt><ph id="f1">&lt;uicontrol class=&quot;+ topic/ph ui-d/uicontrol &quot; id=&quot;uicontrol13548202832414&quot; conref=&quot;en-us_topic_0000207784470553.xml#135757&quot; idp:conrefpath=&quot;200650494000#EN-US_BOOKMAP_0000002298266790#EN-US_TOPIC_0000207784470553&quot;/&gt;</ph><ept id="g0">&lt;/g&gt;</ept>:</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="4" ns:sid="2047271449377435652" ns:tid="2047271789393817604" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="52">
+        <source>If this mode is selected, the system allows only surplus PV power to charge the battery and prohibits charging from the grid.</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="5" ns:sid="2047271449377435653" ns:tid="2047271789393817605" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="49">
+        <source>Therefore, the battery cannot obtain power from the grid even during low electricity price periods.</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="6" ns:sid="2047271449377435654" ns:tid="2047271789393817606" translate="no" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="REP" ns:MatchRate="100">
+        <source><bpt id="g0">&lt;b class=&quot;+ topic/ph hi-d/b &quot; id=&quot;b18322111916264&quot;&gt;</bpt><ph id="f1">&lt;uicontrol class=&quot;+ topic/ph ui-d/uicontrol &quot; id=&quot;uicontrol1891019245456&quot; conref=&quot;en-us_topic_0000207784470567.xml#438333&quot; idp:conrefpath=&quot;200650494000#EN-US_BOOKMAP_0000002298266790#EN-US_TOPIC_0000207784470567&quot;/&gt;</ph><ept id="g0">&lt;/g&gt;</ept>:</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="7" ns:sid="2047271449377435655" ns:tid="2047271789393817607" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="53">
+        <source>In this mode, you need to manually set the low electricity price period as the charging period.</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="8" ns:sid="2047271449377435656" ns:tid="2047271789393817608" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="39">
+        <source>If the period is incorrectly set, the charging function will fail.</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="9" ns:sid="2047271449377435657" ns:tid="2047271789393817609" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="50">
+        <source>If the corresponding time period is not added or the time period is incorrectly set, the system cannot perform charging during low electricity price periods.</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="10" ns:sid="2047271449377435658" ns:tid="2047271789393817610" translate="no" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="REP" ns:MatchRate="100">
+        <source>Function switch status</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="11" ns:sid="2047271449377435659" ns:tid="2047271789393817611" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="49">
+        <source><bpt id="g0">&lt;b class=&quot;+ topic/ph hi-d/b &quot; id=&quot;b10322819142615&quot;&gt;</bpt>Grid charging not enabled<ept id="g0">&lt;/g&gt;</ept>:</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="12" ns:sid="2047271449377435660" ns:tid="2047271789393817612" translate="no" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="REP" ns:MatchRate="100">
+        <source>The <ph id="f0">&lt;uicontrol class=&quot;+ topic/ph ui-d/uicontrol &quot; id=&quot;uicontrol1129611023712&quot; conref=&quot;en-us_topic_0000207634837326.xml#434763&quot; idp:usecustomid=&quot;x-wc://file=ZH-CN_TOPIC_0000207634837326.xml#434763&quot; idp:conrefpath=&quot;200650494000#EN-US_BOOKMAP_0000002298266790#EN-US_TOPIC_0000207634837326&quot;/&gt;</ph> function is disabled by default.</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="13" ns:sid="2047271449377435661" ns:tid="2047271789393817613" translate="no" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="REP" ns:MatchRate="100">
+        <source>You need to manually enable it to charge the battery at a low electricity price.</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="14" ns:sid="2047271449377435662" ns:tid="2047271789393817614" translate="no" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="REP" ns:MatchRate="100">
+        <source>System parameter settings</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="15" ns:sid="2047271449377435663" ns:tid="2047271789393817615" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="65">
+        <source>SOC restrictions</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="16" ns:sid="2047271449377435664" ns:tid="2047271789393817616" translate="no" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="REP" ns:MatchRate="100">
+        <source>The <ph id="f0">&lt;uicontrol class=&quot;+ topic/ph ui-d/uicontrol &quot; id=&quot;uicontrol158578277463&quot; conref=&quot;en-us_topic_0000207635068088.xml#144641&quot; idp:conrefpath=&quot;200650494000#EN-US_BOOKMAP_0000002298267098#EN-US_TOPIC_0000207635068088&quot;/&gt;</ph> is set too low (for example, 80%).</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="17" ns:sid="2047271449377435665" ns:tid="2047271789393817617" translate="no" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="REP" ns:MatchRate="100">
+        <source>When the threshold is reached, charging stops.</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="18" ns:sid="2047271449377435666" ns:tid="2047271789393817618" translate="no" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="REP" ns:MatchRate="100">
+        <source>Reserve the <ph id="f0">&lt;uicontrol class=&quot;+ topic/ph ui-d/uicontrol &quot; id=&quot;uicontrol18815162434613&quot; conref=&quot;en-us_topic_0000207784935935.xml#460689&quot; idp:conrefpath=&quot;200650494000#EN-US_BOOKMAP_0000002298267098#EN-US_TOPIC_0000207784935935&quot;/&gt;</ph> for peak shaving, stopping charging in advance.</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="19" ns:sid="2047271449377435667" ns:tid="2047271789393817619" translate="no" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="REP" ns:MatchRate="100">
+        <source>Power limit</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="20" ns:sid="2047271449377435668" ns:tid="2047271789393817620" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="49">
+        <source>The <ph id="f0">&lt;uicontrol class=&quot;+ topic/ph ui-d/uicontrol &quot; id=&quot;uicontrol11236145664215&quot; conref=&quot;en-us_topic_0000207784738903.xml#141707&quot; idp:usecustomid=&quot;x-wc://file=ZH-CN_TOPIC_0000207784738903.xml#141707&quot; idp:conrefpath=&quot;200650494000#EN-US_BOOKMAP_0000002298267098#EN-US_TOPIC_0000207784738903&quot;/&gt;</ph> parameter is set to an excessively low value.</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="21" ns:sid="2047271449377435669" ns:tid="2047271789393817621" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="56">
+        <source>The <bpt id="g0">&lt;uicontrol class=&quot;+ topic/ph ui-d/uicontrol &quot; id=&quot;uicontrol12962466434&quot;&gt;</bpt>Maximum charge power<ept id="g0">&lt;/g&gt;</ept> parameter of the battery is set to an excessively low value.</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="22" ns:sid="2047271449377435670" ns:tid="2047271789393817622" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="57">
+        <source>The <ph id="f0">&lt;uicontrol class=&quot;+ topic/ph ui-d/uicontrol &quot; id=&quot;uicontrol15469169194016&quot; conref=&quot;en-us_topic_0000207634837332.xml#450677&quot; idp:usecustomid=&quot;x-wc://file=ZH-CN_TOPIC_0000207634837332.xml#450677&quot; idp:conrefpath=&quot;200650494000#EN-US_BOOKMAP_0000002298266790#EN-US_TOPIC_0000207634837332&quot;/&gt;</ph> function is also added to limit the maximum power purchased from the grid.</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="23" ns:sid="2047271449377435671" ns:tid="2047271789393817623" translate="no" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="REP" ns:MatchRate="100">
+        <source>Intelligent scheduling policy</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="24" ns:sid="2047271449377435672" ns:tid="2047271789393817624" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="49">
+        <source><bpt id="g0">&lt;b class=&quot;+ topic/ph hi-d/b &quot; id=&quot;b16323161992614&quot;&gt;</bpt>Load demand first<ept id="g0">&lt;/g&gt;</ept>:</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="25" ns:sid="2047271449377435673" ns:tid="2047271789393817625" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="41">
+        <source>The <ph id="f0">&lt;ph class=&quot;- topic/ph &quot; conref=&quot;en-us_topic_0000001645659009.xml#ph122067484595&quot; id=&quot;ph1959151418587&quot; idp:conrefpath=&quot;200650494000#EN-US_BOOKMAP_0000001596019118#EN-US_TOPIC_0000001645659009&quot; idp:userph=&quot;true&quot;/&gt;</ph> dynamically adjusts the charging policy based on the real-time load.</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="26" ns:sid="2047271449377435674" ns:tid="2047271789393817626" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="65">
+        <source><bpt id="g0">&lt;b class=&quot;+ topic/ph hi-d/b &quot; id=&quot;b7323141922615&quot;&gt;</bpt>Economic optimization<ept id="g0">&lt;/g&gt;</ept>:</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="27" ns:sid="2047271449377435675" ns:tid="2047271789393817627" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="34">
+        <source>The system may reserve capacity to cope with unexpected surge in electricity prices.</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns="neotrans:xliff:export:2.0" version="1.2">
+  <file original="en-us_topic_0000002554815819.xml.sdlxliff" datatype="x-neotrans-export" source-language="en-US" target-language="nl-NL" ns:projectId="2047222835169525761" ns:taskId="2047272237208764418" ns:wfId="2047222835224051714" ns:swfId="" ns:historyWfId="" ns:fileId="2047269827518201858" ns:vendorId="1525463126898159616" ns:vendorSubtype="T">
+    <body>
+      <trans-unit id="1" ns:sid="2047271450618949633" ns:tid="2047271806456246273" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Functiebeschrijving" ns:Status="New" ns:Origin="100" ns:MatchRate="100">
+        <source>Function Description</source>
+        <target state="new" state-qualifier="tm-suggestion">Functiebeschrijving</target>
+      </trans-unit>
+      <trans-unit id="2" ns:sid="2047271450618949634" ns:tid="2047271806456246274" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="34">
+        <source><ph id="f0">&lt;uicontrol class=&quot;+ topic/ph ui-d/uicontrol &quot; id=&quot;uicontrol1062111102459&quot; conref=&quot;en-us_topic_0000207663920538.xml#581290&quot; idp:usecustomid=&quot;x-wc://file=ZH-CN_TOPIC_0000207663920538.xml#581290&quot; idp:conrefpath=&quot;200650494000#EN-US_BOOKMAP_0000002332266381#EN-US_TOPIC_0000207663920538&quot;/&gt;</ph> is an intelligent assistant for interpreting the real-time operating status of a plant.</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="3" ns:sid="2047271450618949635" ns:tid="2047271806456246275" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="40">
+        <source>It helps you intuitively understand the plant's scheduling policies and operation logic through multi-dimensional data analysis.</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="4" ns:sid="2047271450618949636" ns:tid="2047271806456246276" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Dit zijn de belangrijkste functies:" ns:Status="New" ns:Origin="100" ns:MatchRate="100">
+        <source>The main functions are as follows:</source>
+        <target state="new" state-qualifier="tm-suggestion">Dit zijn de belangrijkste functies:</target>
+      </trans-unit>
+      <trans-unit id="5" ns:sid="2047271450618949637" ns:tid="2047271806456246277" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Bedrijfsmodus" ns:Status="New" ns:Origin="" ns:MatchRate="79">
+        <source>Operating mode interpretation</source>
+        <target state="new" state-qualifier="fuzzy-match">Bedrijfsmodus</target>
+      </trans-unit>
+      <trans-unit id="6" ns:sid="2047271450618949638" ns:tid="2047271806456246278" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="40">
+        <source>Analyzes the energy consumption/generation curves, battery charge and discharge status, and grid transaction data in real time.</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="7" ns:sid="2047271450618949639" ns:tid="2047271806456246279" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="30">
+        <source>Intelligently analyzes the economic and reliability considerations of the current scheduling policy.</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="8" ns:sid="2047271450618949640" ns:tid="2047271806456246280" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="49">
+        <source>Device behavior clarification</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="9" ns:sid="2047271450618949641" ns:tid="2047271806456246281" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="40">
+        <source>Explains the trigger conditions and optimization objectives for charge and discharge actions of batteries.</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="10" ns:sid="2047271450618949642" ns:tid="2047271806456246282" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="42">
+        <source>Allows you to query the basis for the operating policy during a specified period.</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="11" ns:sid="2047271450618949643" ns:tid="2047271806456246283" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Toepassingsbereik" ns:Status="New" ns:Origin="100" ns:MatchRate="100">
+        <source>Applicable Scope</source>
+        <target state="new" state-qualifier="tm-suggestion">Toepassingsbereik</target>
+      </trans-unit>
+      <trans-unit id="12" ns:sid="2047271450618949644" ns:tid="2047271806456246284" translate="no" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="REP" ns:MatchRate="100">
+        <source><bpt id="g0">&lt;b class=&quot;+ topic/ph hi-d/b &quot; id=&quot;b6881631145214&quot;&gt;</bpt>Plant type<ept id="g0">&lt;/g&gt;</ept>:</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="13" ns:sid="2047271450618949645" ns:tid="2047271806456246285" translate="no" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="REP" ns:MatchRate="100">
+        <source>This function applies only to the residential plant scenarios.</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="14" ns:sid="2047271450618949646" ns:tid="2047271806456246286" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Apparaattype:" ns:Status="New" ns:Origin="100" ns:MatchRate="100">
+        <source>Device type:</source>
+        <target state="new" state-qualifier="tm-suggestion">Apparaattype:</target>
+      </trans-unit>
+      <trans-unit id="15" ns:sid="2047271450618949647" ns:tid="2047271806456246287" translate="no" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="REP" ns:MatchRate="100">
+        <source><ph id="f0">&lt;ph class=&quot;- topic/ph &quot; conref=&quot;en-us_topic_0000001645659009.xml#ph828945519592&quot; id=&quot;ph157181719580&quot; idp:conrefpath=&quot;200650494000#EN-US_BOOKMAP_0000001596019118#EN-US_TOPIC_0000001645659009&quot; idp:userph=&quot;true&quot;/&gt;</ph> networking + Huawei charger<bpt id="g1">&lt;idp:filter class=&quot;- topic/filter &quot; id=&quot;filter1866602216238&quot; hwFeature=&quot;Temp&quot;&gt;</bpt>, PV&amp;ESS networking + Huawei charger<ept id="g1">&lt;/g&gt;</ept></source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="16" ns:sid="2047271450618949648" ns:tid="2047271806456246288" translate="no" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="REP" ns:MatchRate="100">
+        <source><bpt id="g0">&lt;b class=&quot;+ topic/ph hi-d/b &quot; id=&quot;b48818318529&quot;&gt;</bpt>User permission<ept id="g0">&lt;/g&gt;</ept>: available only to owners.</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="17" ns:sid="2047271450618949649" ns:tid="2047271806456246289" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Configuratievereisten" ns:Status="New" ns:Origin="100" ns:MatchRate="100">
+        <source>Configuration Requirements</source>
+        <target state="new" state-qualifier="tm-suggestion">Configuratievereisten</target>
+      </trans-unit>
+      <trans-unit id="18" ns:sid="2047271450618949650" ns:tid="2047271806456246290" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="van de omvormer moet zijn ingeschakeld." ns:Status="New" ns:Origin="" ns:MatchRate="79">
+        <source>The <ph id="f0">&lt;uicontrol class=&quot;+ topic/ph ui-d/uicontrol &quot; id=&quot;uicontrol59701787117&quot; conref=&quot;en-us_topic_0000207813707691.xml#556644&quot; idp:conrefpath=&quot;200650494000#EN-US_BOOKMAP_0000002332266381#EN-US_TOPIC_0000207813707691&quot;/&gt;</ph> must be enabled.</source>
+        <target state="new" state-qualifier="fuzzy-match">van de omvormer moet zijn ingeschakeld.</target>
+      </trans-unit>
+      <trans-unit id="19" ns:sid="2047271450618949651" ns:tid="2047271806456246291" translate="no" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="REP" ns:MatchRate="100">
+        <source>The <ph id="f0">&lt;uicontrol class=&quot;+ topic/ph ui-d/uicontrol &quot; id=&quot;uicontrol9277648111318&quot; conref=&quot;en-us_topic_0000207663920538.xml#573474&quot; idp:conrefpath=&quot;200650494000#EN-US_BOOKMAP_0000002332266381#EN-US_TOPIC_0000207663920538&quot;/&gt;</ph> function must be enabled.</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="20" ns:sid="2047271450618949652" ns:tid="2047271806456246292" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Gebruik" ns:Status="New" ns:Origin="100" ns:MatchRate="100">
+        <source>Usage</source>
+        <target state="new" state-qualifier="tm-suggestion">Gebruik</target>
+      </trans-unit>
+      <trans-unit id="21" ns:sid="2047271450618949653" ns:tid="2047271806456246293" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="65">
+        <source>Entry 1:</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="22" ns:sid="2047271450618949654" ns:tid="2047271806456246294" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="51">
+        <source>As shown in <ph id="f0">&lt;xref class=&quot;- topic/xref &quot; id=&quot;xref733845333616&quot; href=&quot;#fig8356239193614&quot; idp:producemode_text=&quot;auto&quot; idp:xrefpath=&quot;200650494000#EN-US_BOOKMAP_0000002523775882#en-us_topic_0000002554815819&quot; AutoGenerateText=&quot;true&quot;/&gt;</ph>, tap the description at the top of the home screen of the app to view the detailed interpretation.</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="23" ns:sid="2047271450618949655" ns:tid="2047271806456246295" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Ingang 2" ns:Status="New" ns:Origin="100" ns:MatchRate="100">
+        <source>Entry 2</source>
+        <target state="new" state-qualifier="tm-suggestion">Ingang 2</target>
+      </trans-unit>
+      <trans-unit id="24" ns:sid="2047271450618949656" ns:tid="2047271806456246296" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Ingang 2" ns:Status="New" ns:Origin="" ns:MatchRate="89">
+        <source>Entry 2:</source>
+        <target state="new" state-qualifier="fuzzy-match">Ingang 2</target>
+      </trans-unit>
+      <trans-unit id="25" ns:sid="2047271450618949657" ns:tid="2047271806456246297" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="49">
+        <source>Enter <ph id="f0">&lt;parmvalue class=&quot;+ topic/keyword pr-d/parmvalue &quot; id=&quot;parmvalue126211912143813&quot;&gt;What&amp;apos;s Happening&lt;/parmvalue&gt;</ph> in the Smart PV Assistant, as shown in <ph id="f1">&lt;xref class=&quot;- topic/xref &quot; id=&quot;xref86211112143813&quot; href=&quot;#fig196211712103815&quot; idp:producemode_text=&quot;auto&quot; idp:xrefpath=&quot;200650494000#EN-US_BOOKMAP_0000002523775882#en-us_topic_0000002554815819&quot; AutoGenerateText=&quot;true&quot;/&gt;</ph>.</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="26" ns:sid="2047271450618949658" ns:tid="2047271806456246298" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="26">
+        <source>The chart and detailed interpretation will be displayed.</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="27" ns:sid="2047271450618949659" ns:tid="2047271806456246299" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Ingang 1" ns:Status="New" ns:Origin="100" ns:MatchRate="100">
+        <source>Entry 1</source>
+        <target state="new" state-qualifier="tm-suggestion">Ingang 1</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

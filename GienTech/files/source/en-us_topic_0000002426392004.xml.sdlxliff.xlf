@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns="neotrans:xliff:export:2.0" version="1.2">
+  <file original="en-us_topic_0000002426392004.xml.sdlxliff" datatype="x-neotrans-export" source-language="en-US" target-language="nl-NL" ns:projectId="2047222835169525761" ns:taskId="2047272237208764418" ns:wfId="2047222835224051714" ns:swfId="" ns:historyWfId="" ns:fileId="2047269827409149954" ns:vendorId="1525463126898159616" ns:vendorSubtype="T">
+    <body>
+      <trans-unit id="1" ns:sid="2047271442586857473" ns:tid="2047271724025589761" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Slimme PV-assistent" ns:Status="New" ns:Origin="100" ns:MatchRate="100">
+        <source>Smart PV Assistant</source>
+        <target state="new" state-qualifier="tm-suggestion">Slimme PV-assistent</target>
+      </trans-unit>
+      <trans-unit id="2" ns:sid="2047271442586857474" ns:tid="2047271724025589762" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Overzicht" ns:Status="New" ns:Origin="100" ns:MatchRate="100">
+        <source>Overview</source>
+        <target state="new" state-qualifier="tm-suggestion">Overzicht</target>
+      </trans-unit>
+      <trans-unit id="3" ns:sid="2047271442586857475" ns:tid="2047271724025589763" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="39">
+        <source>Smart PV Assistant has learned a vast amount of solar energy knowledge.</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="4" ns:sid="2047271442586857476" ns:tid="2047271724025589764" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="27">
+        <source>Based on the large model and user scenarios, it is able to provide high-quality Q&amp;A services to solve usage problems and improve energy utilization, and provide users with more professional and thoughtful services, achieving more intelligent and efficient experience.</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="5" ns:sid="2047271442586857477" ns:tid="2047271724025589765" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Gebruiksinstructies" ns:Status="New" ns:Origin="100" ns:MatchRate="100">
+        <source>Usage Instruction</source>
+        <target state="new" state-qualifier="tm-suggestion">Gebruiksinstructies</target>
+      </trans-unit>
+      <trans-unit id="6" ns:sid="2047271442586857478" ns:tid="2047271724025589766" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="40">
+        <source>After Smart PV Assistant is enabled, the floating bubble (<ph id="f0">&lt;image class=&quot;- topic/image &quot; id=&quot;image15741172813387&quot; otherprops=&quot;1&quot; placement=&quot;inline&quot; href=&quot;en-us_image_0000002463247237.png&quot; idp:imageUrl=&quot;icon_Entrance (2).png&quot; idp:imageSize=&quot;40,40&quot; width=&quot;20.0000pt&quot; height=&quot;20.0000pt&quot;/&gt;</ph>) is displayed on any screen of the app.</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="7" ns:sid="2047271442586857479" ns:tid="2047271724025589767" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="39">
+        <source>Tap the floating bubble to access the home screen of Smart PV Assistant for Q&amp;A.</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="8" ns:sid="2047271442586857480" ns:tid="2047271724025589768" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="36">
+        <source>Enter your question in the dialog box, for example, <bpt id="g0">&lt;wintitle class=&quot;+ topic/keyword ui-d/wintitle &quot; id=&quot;wintitle17929126115611&quot;&gt;</bpt>Charge the ESS during the day and discharge it at night<ept id="g0">&lt;/g&gt;</ept>.</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="9" ns:sid="2047271442586857481" ns:tid="2047271724025589769" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="32">
+        <source>Tap <ph id="f0">&lt;image class=&quot;- topic/image &quot; id=&quot;image1343956185615&quot; otherprops=&quot;1&quot; placement=&quot;inline&quot; href=&quot;en-us_image_0000002429650514.png&quot; idp:imageUrl=&quot;icon_Send_Activate.png&quot; idp:imageSize=&quot;96,96&quot; width=&quot;20.0000pt&quot; height=&quot;20.0000pt&quot;/&gt;</ph> to send the question.</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="10" ns:sid="2047271442586857482" ns:tid="2047271724025589770" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="46">
+        <source>A message indicating that the system is thinking will be displayed.</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="11" ns:sid="2047271442586857483" ns:tid="2047271724025589771" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="25">
+        <source>After analysis, high-quality content will be output.</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="12" ns:sid="2047271442586857484" ns:tid="2047271724025589772" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="37">
+        <source>If <ph id="f0">&lt;image class=&quot;- topic/image &quot; id=&quot;image1806517298&quot; otherprops=&quot;1&quot; placement=&quot;inline&quot; href=&quot;en-us_image_0000002429819628.png&quot; idp:imageUrl=&quot;icon_magic@3x.png&quot; idp:imageSize=&quot;80,85&quot; width=&quot;20.0000pt&quot; height=&quot;21.2500pt&quot;/&gt;</ph> is displayed in the info area on some screens, you can tap the text next to the icon to perform quick Q&amp;A.</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="13" ns:sid="2047271442586857485" ns:tid="2047271724025589773" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="37">
+        <source>At the top of the Smart PV Assistant screen, you can tap <ph id="f0">&lt;image class=&quot;- topic/image &quot; id=&quot;image74052451369&quot; otherprops=&quot;1&quot; placement=&quot;inline&quot; href=&quot;en-us_image_0000002463350345.png&quot; idp:imageUrl=&quot;dp_new_dialogue_lined.png&quot; idp:imageSize=&quot;30,30&quot;/&gt;</ph> to create a new session<bpt id="g1">&lt;idp:filter class=&quot;- topic/filter &quot; id=&quot;filter20634172832812&quot; hwFeature=&quot;Temp&quot;&gt;</bpt> and tap <ph id="f2">&lt;image class=&quot;- topic/image &quot; id=&quot;image8860194833814&quot; otherprops=&quot;1&quot; placement=&quot;inline&quot; href=&quot;en-us_image_0000002429832688.png&quot; idp:imageUrl=&quot;dp_history_information_lined.png&quot; idp:imageSize=&quot;30,30&quot;/&gt;</ph> to view historical Q&amp;A records<ept id="g1">&lt;/g&gt;</ept>.</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="14" ns:sid="2047271442586857486" ns:tid="2047271724025589774" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="20">
+        <source>Under the answer generated by the Smart PV Assistant, there are buttons for copying (<ph id="f0">&lt;image class=&quot;- topic/image &quot; id=&quot;image491164865717&quot; otherprops=&quot;1&quot; placement=&quot;inline&quot; href=&quot;en-us_image_0000002463343565.png&quot; idp:imageUrl=&quot;ic_UIicon_arrow.clockwise_line@2x (3).png&quot; idp:imageSize=&quot;30,30&quot;/&gt;</ph>), giving likes on (<ph id="f1">&lt;image class=&quot;- topic/image &quot; id=&quot;image125153925712&quot; otherprops=&quot;1&quot; placement=&quot;inline&quot; href=&quot;en-us_image_0000002463343557.png&quot; idp:imageUrl=&quot;ic_UIicon_arrow.clockwise_line@2x (1).png&quot; idp:imageSize=&quot;56,56&quot; width=&quot;20.0000pt&quot; height=&quot;20.0000pt&quot;/&gt;</ph>), giving dislikes on (<ph id="f2">&lt;image class=&quot;- topic/image &quot; id=&quot;image29391756115520&quot; otherprops=&quot;1&quot; placement=&quot;inline&quot; href=&quot;en-us_image_0000002429824204.png&quot; idp:imageUrl=&quot;ic_UIicon_arrow.clockwise_line@2x.png&quot; idp:imageSize=&quot;56,56&quot; width=&quot;20.0000pt&quot; height=&quot;20.0000pt&quot;/&gt;</ph>), and complaining about (<ph id="f3">&lt;image class=&quot;- topic/image &quot; id=&quot;image18659225135718&quot; otherprops=&quot;1&quot; placement=&quot;inline&quot; href=&quot;en-us_image_0000002429824832.png&quot; idp:imageUrl=&quot;ic_UIicon_arrow.clockwise_line@2x (3).png&quot; idp:imageSize=&quot;56,56&quot; width=&quot;20.0000pt&quot; height=&quot;20.0000pt&quot;/&gt;</ph>) the answer.</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="15" ns:sid="2047271442586857487" ns:tid="2047271724025589775" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="35">
+        <source>Touch and hold the floating bubble.</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="16" ns:sid="2047271442586857488" ns:tid="2047271724025589776" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="71">
+        <source><bpt id="g0">&lt;uicontrol class=&quot;+ topic/ph ui-d/uicontrol &quot; id=&quot;uicontrol189931798291&quot;&gt;</bpt>Pin to Home Only<ept id="g0">&lt;/g&gt;</ept> then is displayed.</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="17" ns:sid="2047271442586857489" ns:tid="2047271724025589777" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="53">
+        <source>By default, this function is disabled, and the floating bubble is visible on any screen.</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="18" ns:sid="2047271442586857490" ns:tid="2047271724025589778" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="46">
+        <source>After this function is enabled, the floating bubble is visible only on the home screen of the app.</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="19" ns:sid="2047271442586857491" ns:tid="2047271724025589779" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="FAQ&apos;s" ns:Status="New" ns:Origin="100" ns:MatchRate="100">
+        <source>FAQs</source>
+        <target state="new" state-qualifier="tm-suggestion">FAQ's</target>
+      </trans-unit>
+      <trans-unit id="20" ns:sid="2047271442586857492" ns:tid="2047271724025589780" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="47">
+        <source>What should I do if the reply is inaccurate or no reply is provided?</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="21" ns:sid="2047271442586857493" ns:tid="2047271724025589781" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="30">
+        <source>If you encounter any of the preceding issues, please go to <bpt id="g0">&lt;menucascade class=&quot;+ topic/ph ui-d/menucascade &quot; id=&quot;menucascade1364015273916&quot;&gt;</bpt><ph id="f1">&lt;uicontrol class=&quot;+ topic/ph ui-d/uicontrol &quot; id=&quot;uicontrol16401521395&quot; conref=&quot;en-us_topic_0000207634837332.xml#450311&quot; idp:usecustomid=&quot;x-wc://file=ZH-CN_TOPIC_0000207634837332.xml#450311&quot; idp:conrefpath=&quot;200650494000#EN-US_BOOKMAP_0000002298266790#EN-US_TOPIC_0000207634837332&quot;/&gt;</ph><ph id="f2">&lt;uicontrol class=&quot;+ topic/ph ui-d/uicontrol &quot; id=&quot;uicontrol1247611171394&quot; conref=&quot;en-us_topic_0000207784470551.xml#135283&quot; idp:usecustomid=&quot;x-wc://file=ZH-CN_TOPIC_0000207784470551.xml#135283&quot; idp:conrefpath=&quot;200650494000#EN-US_BOOKMAP_0000002298266790#EN-US_TOPIC_0000207784470551&quot;/&gt;</ph><ept id="g0">&lt;/g&gt;</ept> and submit your feedback.</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="22" ns:sid="2047271442586857494" ns:tid="2047271724025589782" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="44">
+        <source>This will help us to continue to improve our services.</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

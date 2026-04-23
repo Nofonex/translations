@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns="neotrans:xliff:export:2.0" version="1.2">
+  <file original="en-us_topic_0000002561403103.xml.sdlxliff" datatype="x-neotrans-export" source-language="en-US" target-language="nl-NL" ns:projectId="2047222835169525761" ns:taskId="2047272237208764418" ns:wfId="2047222835224051714" ns:swfId="" ns:historyWfId="" ns:fileId="2047269827539173377" ns:vendorId="1525463126898159616" ns:vendorSubtype="T">
+    <body>
+      <trans-unit id="1" ns:sid="2047271451508142106" ns:tid="2047271826949615618" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Procedure" ns:Status="New" ns:Origin="ICE" ns:MatchRate="101">
+        <source>Procedure</source>
+        <target state="new" state-qualifier="exact-match">Procedure</target>
+      </trans-unit>
+      <trans-unit id="2" ns:sid="2047271451508142107" ns:tid="2047271826949615619" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Gepland opladen" ns:Status="New" ns:Origin="100" ns:MatchRate="100">
+        <source>Scheduled charging</source>
+        <target state="new" state-qualifier="tm-suggestion">Gepland opladen</target>
+      </trans-unit>
+      <trans-unit id="3" ns:sid="2047271451508142108" ns:tid="2047271826949615620" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="49">
+        <source>Create a charging plan:</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="4" ns:sid="2047271451508142109" ns:tid="2047271826949615621" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="28">
+        <source>Ask Smart PV Assistant <bpt id="g0">&lt;uicontrol class=&quot;+ topic/ph ui-d/uicontrol &quot; id=&quot;uicontrol1527591410912&quot;&gt;</bpt>When should I charge next time to save money?<ept id="g0">&lt;/g&gt;</ept> and Smart PV Assistant will recommend the optimal charging period.</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="5" ns:sid="2047271451508142110" ns:tid="2047271826949615622" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="27">
+        <source>Select your charging time from the recommended period, and tap the <ph id="f0">&lt;uicontrol class=&quot;+ topic/ph ui-d/uicontrol &quot; id=&quot;uicontrol175601320175211&quot; conref=&quot;en-us_topic_0000207784470575.xml#493300&quot; idp:usecustomid=&quot;x-wc://file=ZH-CN_TOPIC_0000207784470575.xml#493300&quot; idp:conrefpath=&quot;200650494000#EN-US_BOOKMAP_0000002298266790#EN-US_TOPIC_0000207784470575&quot;/&gt;</ph> button or reply <ph id="f1">&lt;uicontrol class=&quot;+ topic/ph ui-d/uicontrol &quot; id=&quot;uicontrol145943923511&quot; conref=&quot;en-us_topic_0000207784470575.xml#493300&quot; idp:conrefpath=&quot;200650494000#EN-US_BOOKMAP_0000002298266790#EN-US_TOPIC_0000207784470575&quot;/&gt;</ph> to Smart PV Assistant.</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="6" ns:sid="2047271451508142111" ns:tid="2047271826949615623" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="39">
+        <source>Smart PV Assistant will create a charging plan based on your selection.</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="7" ns:sid="2047271451508142112" ns:tid="2047271826949615624" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Begin met opladen" ns:Status="New" ns:Origin="" ns:MatchRate="95">
+        <source>Start charging:</source>
+        <target state="new" state-qualifier="fuzzy-match">Begin met opladen</target>
+      </trans-unit>
+      <trans-unit id="8" ns:sid="2047271451508142113" ns:tid="2047271826949615625" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Plaats de laadaansluiting volledig in de oplader en de laadpoort van het voertuig." ns:Status="New" ns:Origin="" ns:MatchRate="83">
+        <source>Insert the charging connector completely into the charger and the vehicle.</source>
+        <target state="new" state-qualifier="fuzzy-match">Plaats de laadaansluiting volledig in de oplader en de laadpoort van het voertuig.</target>
+      </trans-unit>
+      <trans-unit id="9" ns:sid="2047271451508142114" ns:tid="2047271826949615626" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Tik op &lt;g0&gt;&lt;f1/&gt;&lt;/g0&gt; op het scherm van de oplader." ns:Status="New" ns:Origin="100" ns:MatchRate="100">
+        <source>On the charger screen, tap <bpt id="g0">&lt;menucascade class=&quot;+ topic/ph ui-d/menucascade &quot; id=&quot;menucascade159212551782&quot;&gt;</bpt><ph id="f1">&lt;uicontrol class=&quot;+ topic/ph ui-d/uicontrol &quot; conref=&quot;en-us_topic_0000001625060950.xml#uicontrol428811&quot; idp:conrefpath=&quot;200650494000#EN-US_BOOKMAP_0000001673220809#EN-US_TOPIC_0000001625060950&quot; id=&quot;uicontrol192145516817&quot;/&gt;</ph><ept id="g0">&lt;/g&gt;</ept>.</source>
+        <target state="new" state-qualifier="tm-suggestion">Tik op <bpt id="g0">&lt;menucascade class=&quot;+ topic/ph ui-d/menucascade &quot; id=&quot;menucascade159212551782&quot;&gt;</bpt><ph id="f1">&lt;uicontrol class=&quot;+ topic/ph ui-d/uicontrol &quot; conref=&quot;en-us_topic_0000001625060950.xml#uicontrol428811&quot; idp:conrefpath=&quot;200650494000#EN-US_BOOKMAP_0000001673220809#EN-US_TOPIC_0000001625060950&quot; id=&quot;uicontrol192145516817&quot;/&gt;</ph><ept id="g0">&lt;/g&gt;</ept> op het scherm van de oplader.</target>
+      </trans-unit>
+      <trans-unit id="10" ns:sid="2047271451508142115" ns:tid="2047271826949615627" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Tik op &lt;f0/&gt;." ns:Status="New" ns:Origin="ICE" ns:MatchRate="101">
+        <source>Tap <ph id="f0">&lt;uicontrol class=&quot;+ topic/ph ui-d/uicontrol &quot; conref=&quot;en-us_topic_0000001625060950.xml#uicontrol256163&quot; idp:conrefpath=&quot;200650494000#EN-US_BOOKMAP_0000001673220809#EN-US_TOPIC_0000001625060950&quot; id=&quot;uicontrol0922195511818&quot;/&gt;</ph>.</source>
+        <target state="new" state-qualifier="exact-match">Tik op <ph id="f0">&lt;uicontrol class=&quot;+ topic/ph ui-d/uicontrol &quot; conref=&quot;en-us_topic_0000001625060950.xml#uicontrol256163&quot; idp:conrefpath=&quot;200650494000#EN-US_BOOKMAP_0000001673220809#EN-US_TOPIC_0000001625060950&quot; id=&quot;uicontrol0922195511818&quot;/&gt;</ph>.</target>
+      </trans-unit>
+      <trans-unit id="11" ns:sid="2047271451508142116" ns:tid="2047271826949615628" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Als de indicator op de oplader cyclisch blauw knippert (4 s aan en 1 s uit), bevindt de oplader zich in de geplande wachtstand voor opladen." ns:Status="New" ns:Origin="ICE" ns:MatchRate="101">
+        <source>If the indicator on the charger turns blue on and off cyclically (on for 4s and off for 1s), the charger is in the scheduled charging waiting state.</source>
+        <target state="new" state-qualifier="exact-match">Als de indicator op de oplader cyclisch blauw knippert (4 s aan en 1 s uit), bevindt de oplader zich in de geplande wachtstand voor opladen.</target>
+      </trans-unit>
+      <trans-unit id="12" ns:sid="2047271451508142117" ns:tid="2047271826949615629" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Opladen begint automatisch op het geplande tijdstip" ns:Status="New" ns:Origin="" ns:MatchRate="79">
+        <source>Charging will automatically start at the specified time.</source>
+        <target state="new" state-qualifier="fuzzy-match">Opladen begint automatisch op het geplande tijdstip</target>
+      </trans-unit>
+      <trans-unit id="13" ns:sid="2047271451508142118" ns:tid="2047271826949615630" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="39">
+        <source>To use the smart suggestions for scheduled charging, the plant must have been running for more than seven days.</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="14" ns:sid="2047271451508142119" ns:tid="2047271826949615631" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="35">
+        <source>The system will analyze historical running data accordingly and provide recommended policies.</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="15" ns:sid="2047271451508142120" ns:tid="2047271826949615632" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="40">
+        <source>The savings are intelligently estimated based on the charging records, PV+battery running status, and electricity price trend.</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="16" ns:sid="2047271451508142121" ns:tid="2047271826949615633" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="32">
+        <source>The actual savings are affected by weather and electricity consumption.</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="17" ns:sid="2047271451508142122" ns:tid="2047271826949615634" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="37">
+        <source>The recommended time is set based on historical charging duration and does not guarantee a full charge.</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="18" ns:sid="2047271451508142123" ns:tid="2047271826949615635" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="34">
+        <source>It is recommended that you flexibly adjust the scheduled charging based on your actual requirements, to achieve the best experience.</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="19" ns:sid="2047271451508142124" ns:tid="2047271826949615636" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Snel laden" ns:Status="New" ns:Origin="" ns:MatchRate="98">
+        <source>Fast Charging</source>
+        <target state="new" state-qualifier="fuzzy-match">Snel laden</target>
+      </trans-unit>
+      <trans-unit id="20" ns:sid="2047271451508142125" ns:tid="2047271826949615637" translate="no" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="REP" ns:MatchRate="100">
+        <source>Insert the charging connector completely into the charger and the vehicle.</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="21" ns:sid="2047271451508142126" ns:tid="2047271826949615638" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="45">
+        <source>Send an instruction to Smart PV Assistant, for example, tap <ph id="f0">&lt;parmvalue class=&quot;+ topic/keyword pr-d/parmvalue &quot; id=&quot;parmvalue16734193143420&quot;&gt;Charge my car&lt;/parmvalue&gt;</ph>.</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="22" ns:sid="2047271451508142127" ns:tid="2047271826949615639" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="41">
+        <source>After Smart PV Assistant responds with the charging plan, tap <ph id="f0">&lt;uicontrol class=&quot;+ topic/ph ui-d/uicontrol &quot; id=&quot;uicontrol65691238756&quot; conref=&quot;en-us_topic_0000207784273627.xml#136461&quot; idp:conrefpath=&quot;200650494000#EN-US_BOOKMAP_0000002298266790#EN-US_TOPIC_0000207784273627&quot;/&gt;</ph> to start charging.</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="23" ns:sid="2047271451508142128" ns:tid="2047271826949615640" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Opladen stoppen" ns:Status="New" ns:Origin="100" ns:MatchRate="100">
+        <source>Stopping Charging</source>
+        <target state="new" state-qualifier="tm-suggestion">Opladen stoppen</target>
+      </trans-unit>
+      <trans-unit id="24" ns:sid="2047271451508142129" ns:tid="2047271826949615641" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Druk in de app op &lt;f0/&gt; en blijf ingedrukt houden om het opladen te stoppen." ns:Status="New" ns:Origin="100" ns:MatchRate="100">
+        <source>Press and hold <ph id="f0">&lt;image class=&quot;- topic/image &quot; id=&quot;image10352152810449&quot; otherprops=&quot;1&quot; placement=&quot;inline&quot; href=&quot;en-us_image_0000002571549935.png&quot; idp:imageUrl=&quot;&#20851;&#38381;&#32972;&#26223;.png&quot; idp:imageSize=&quot;118,118&quot; width=&quot;40.0000pt&quot; height=&quot;40.0000pt&quot;/&gt;</ph> on the app to stop charging.</source>
+        <target state="new" state-qualifier="tm-suggestion">Druk in de app op <ph id="f0">&lt;image class=&quot;- topic/image &quot; id=&quot;image10352152810449&quot; otherprops=&quot;1&quot; placement=&quot;inline&quot; href=&quot;en-us_image_0000002571549935.png&quot; idp:imageUrl=&quot;&#20851;&#38381;&#32972;&#26223;.png&quot; idp:imageSize=&quot;118,118&quot; width=&quot;40.0000pt&quot; height=&quot;40.0000pt&quot;/&gt;</ph> en blijf ingedrukt houden om het opladen te stoppen.</target>
+      </trans-unit>
+      <trans-unit id="25" ns:sid="2047271451508142130" ns:tid="2047271826949615642" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="U kunt ook de RFID-kaart bij het swipe-gedeelte houden om het opladen te stoppen." ns:Status="New" ns:Origin="" ns:MatchRate="81">
+        <source>Swipe the RFID card in the swiping area to stop charging.</source>
+        <target state="new" state-qualifier="fuzzy-match">U kunt ook de RFID-kaart bij het swipe-gedeelte houden om het opladen te stoppen.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

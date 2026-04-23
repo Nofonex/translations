@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns="neotrans:xliff:export:2.0" version="1.2">
+  <file original="en-us_topic_0000002523813598.xml.sdlxliff" datatype="x-neotrans-export" source-language="en-US" target-language="nl-NL" ns:projectId="2047222835169525761" ns:taskId="2047272237208764418" ns:wfId="2047222835224051714" ns:swfId="" ns:historyWfId="" ns:fileId="2047269827442704386" ns:vendorId="1525463126898159616" ns:vendorSubtype="T">
+    <body>
+      <trans-unit id="1" ns:sid="2047271443421523970" ns:tid="2047271751364063233" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="51">
+        <source>Why Can't the Battery Meet the Load Requirements When the Electricity Price Is High?</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="2" ns:sid="2047271443421523971" ns:tid="2047271751364063234" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Actief-vermogensbegrenzing" ns:Status="New" ns:Origin="" ns:MatchRate="79">
+        <source>Power limit</source>
+        <target state="new" state-qualifier="fuzzy-match">Actief-vermogensbegrenzing</target>
+      </trans-unit>
+      <trans-unit id="3" ns:sid="2047271443421523972" ns:tid="2047271751364063235" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="60">
+        <source>The <bpt id="g0">&lt;uicontrol class=&quot;+ topic/ph ui-d/uicontrol &quot; id=&quot;uicontrol4455295474&quot;&gt;</bpt>maximum discharge power<ept id="g0">&lt;/g&gt;</ept> of the battery is lower than the load demand.</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="4" ns:sid="2047271443421523973" ns:tid="2047271751364063236" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="25">
+        <source>For example, the load suddenly increases to 8 kW, but the battery supports only 5 kW of discharge.</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="5" ns:sid="2047271443421523974" ns:tid="2047271751364063237" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="44">
+        <source>The system responds to load fluctuations in real time.</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="6" ns:sid="2047271443421523975" ns:tid="2047271751364063238" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="38">
+        <source>When high-power devices are started simultaneously, the power supply capability of the battery may be exceeded.</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="7" ns:sid="2047271443421523976" ns:tid="2047271751364063239" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="49">
+        <source>SOC threshold settings</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="8" ns:sid="2047271443421523977" ns:tid="2047271751364063240" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="37">
+        <source>If the end-of-discharge SOC is set too high (for example, 50%), the available capacity during high electricity price periods decreases.</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="9" ns:sid="2047271443421523978" ns:tid="2047271751364063241" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="37">
+        <source>To ensure the power supply capability in the event of a power outage, the system forcibly reserves the backup power SOC (usually 5% to 20%)</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="10" ns:sid="2047271443421523979" ns:tid="2047271751364063242" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="49">
+        <source>Economic policy</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="11" ns:sid="2047271443421523980" ns:tid="2047271751364063243" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="37">
+        <source>If the electricity feed-in price remains higher than the electricity purchase price, the system may prioritize selling electricity to the grid instead of supplying power to local loads.</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="12" ns:sid="2047271443421523981" ns:tid="2047271751364063244" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="26">
+        <source>The AI algorithm reserves some battery capacity to cope with potentially higher electricity prices.</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="13" ns:sid="2047271443421523982" ns:tid="2047271751364063245" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Fout bij voorspelling" ns:Status="New" ns:Origin="100" ns:MatchRate="100">
+        <source>Forecast error</source>
+        <target state="new" state-qualifier="tm-suggestion">Fout bij voorspelling</target>
+      </trans-unit>
+      <trans-unit id="14" ns:sid="2047271443421523983" ns:tid="2047271751364063246" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="32">
+        <source>Load forecast based on historical data deviates from the actual energy consumption pattern (for example, high-power devices such as air conditioners start unexpectedly at the same time).</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+      <trans-unit id="15" ns:sid="2047271443421523984" ns:tid="2047271751364063247" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="" ns:Status="New" ns:Origin="" ns:MatchRate="26">
+        <source>Factors such as sudden weather changes cause the actual energy consumption demand to exceed the forecast range.</source>
+        <target state="new" state-qualifier="fuzzy-match"/>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

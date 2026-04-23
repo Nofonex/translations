@@ -1,0 +1,10 @@
+{
+  "name": "Naam van het project",
+  "description": "Korte omschrijving",
+  "source_language": "en",
+  "target_languages": ["nl", "de"],
+  "format": "xliff",
+  "status": "active",
+  "created": "YYYY-MM-DD",
+  "contact": ""
+}
