@@ -1,6 +1,6 @@
 """
 validate_xliff.py
-Controleert XLIFF-bestanden in de repo op ontbrekende vertalingen.
+Controleert XLIFF- en SDL XLIFF-bestanden in de repo op ontbrekende vertalingen.
 Gebruik: python validate_xliff.py <projectnaam>
          python validate_xliff.py  (controleert alle projecten)
 """
@@ -19,7 +19,9 @@ BASE_URL = f"https://api.github.com/repos/{REPO}/contents"
 GITHUB_TOKEN = os.getenv("GITHUB_TOKEN", "")
 SKIP = {"scripts", "translation-termbase-en-nl"}
 
-NS = {"xliff": "urn:oasis:names:tc:xliff:document:1.2"}
+# XML namespaces
+NS_XLIFF = "urn:oasis:names:tc:xliff:document:1.2"
+NS_SDL   = "http://sdl.com/FileTypes/SdlXliff/1.0"
 
 headers = {}
 if GITHUB_TOKEN:
@@ -37,7 +39,31 @@ def list_xliff_files(folder_path):
     resp = requests.get(f"{BASE_URL}/{folder_path}", headers=headers)
     if resp.status_code != 200:
         return []
-    return [f for f in resp.json() if f["name"].endswith((".xlf", ".xliff"))]
+    return [
+        f for f in resp.json()
+        if f["name"].endswith((".xlf", ".xliff", ".sdlxliff"))
+    ]
+
+
+def get_mrk_text(element):
+    """Haal tekst op uit <mrk mtype='seg'> of direct uit element."""
+    if element is None:
+        return ""
+    parts = []
+    for mrk in element.findall(f"{{{NS_XLIFF}}}mrk") + element.findall("mrk"):
+        if mrk.get("mtype") == "seg" and mrk.text:
+            parts.append(mrk.text.strip())
+    if parts:
+        return " ".join(parts)
+    return (element.text or "").strip()
+
+
+def is_origin_source(trans_unit, seg_id):
+    """Controleer of een segment origin='source' heeft (= niet vertaald in SDL)."""
+    for seg in trans_unit.findall(f".//{{{NS_SDL}}}seg"):
+        if seg.get("id") == str(seg_id) and seg.get("origin") == "source":
+            return True
+    return False
 
 
 def validate_xliff(content, filename):
@@ -47,12 +73,38 @@ def validate_xliff(content, filename):
     except ET.ParseError as e:
         return [f"XML-fout: {e}"]
 
-    units = root.findall(".//xliff:trans-unit", NS) or root.findall(".//trans-unit")
+    units = (
+        root.findall(f".//{{{NS_XLIFF}}}trans-unit")
+        or root.findall(".//trans-unit")
+    )
+
     for unit in units:
         uid = unit.get("id", "?")
-        target = unit.find("xliff:target", NS) or unit.find("target")
-        if target is None or not (target.text or "").strip():
-            issues.append(f"  ⚠️  trans-unit id='{uid}': doeltekst ontbreekt")
+
+        target = unit.find(f"{{{NS_XLIFF}}}target")
+	if target is None:
+	    target = unit.find("target")
+
+        target_text = get_mrk_text(target)
+
+        if not target_text:
+            issues.append(f"  ⚠️  id='{uid}': doeltekst ontbreekt")
+            continue
+
+        # SDL: controleer of segment niet vertaald is (origin=source)
+        seg_source = unit.find(f"{{{NS_XLIFF}}}seg-source")
+	if seg_source is None:
+	    seg_source = unit.find("seg-source")
+        )
+        if seg_source is not None:
+            for mrk in (
+                seg_source.findall(f"{{{NS_XLIFF}}}mrk")
+                + seg_source.findall("mrk")
+            ):
+                mid = mrk.get("mid")
+                if mid and is_origin_source(unit, mid):
+                    issues.append(f"  ⚠️  id='{uid}': niet vertaald (origin=source)")
+                    break
 
     return issues
 
