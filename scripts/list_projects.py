@@ -10,7 +10,10 @@ import json
 REPO = "Nofonex/translations"
 BASE_URL = f"https://api.github.com/repos/{REPO}/contents"
 # Optioneel: zet je GitHub token hier voor hogere rate limits
-GITHUB_TOKEN = ""
+import os
+from dotenv import load_dotenv
+load_dotenv()
+GITHUB_TOKEN = os.getenv("GITHUB_TOKEN", "")
 
 headers = {}
 if GITHUB_TOKEN:

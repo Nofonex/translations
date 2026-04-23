@@ -12,7 +12,10 @@ import xml.etree.ElementTree as ET
 
 REPO = "Nofonex/translations"
 BASE_URL = f"https://api.github.com/repos/{REPO}/contents"
-GITHUB_TOKEN = ""
+import os
+from dotenv import load_dotenv
+load_dotenv()
+GITHUB_TOKEN = os.getenv("GITHUB_TOKEN", "")
 
 NS = {"xliff": "urn:oasis:names:tc:xliff:document:1.2"}
 
