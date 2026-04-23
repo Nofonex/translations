@@ -5,17 +5,19 @@ Gebruik: python validate_xliff.py <projectnaam>
          python validate_xliff.py  (controleert alle projecten)
 """
 
+import os
 import sys
 import base64
 import requests
 import xml.etree.ElementTree as ET
+from dotenv import load_dotenv
+
+load_dotenv()
 
 REPO = "Nofonex/translations"
 BASE_URL = f"https://api.github.com/repos/{REPO}/contents"
-import os
-from dotenv import load_dotenv
-load_dotenv()
 GITHUB_TOKEN = os.getenv("GITHUB_TOKEN", "")
+SKIP = {"scripts", "translation-termbase-en-nl"}
 
 NS = {"xliff": "urn:oasis:names:tc:xliff:document:1.2"}
 
@@ -65,9 +67,16 @@ def check_project(project_name):
         return
 
     lang_dirs = [d for d in resp.json() if d["type"] == "dir"]
+    if not lang_dirs:
+        print("   Geen taalmappen gevonden in 'translated'.")
+        return
+
     for lang_dir in lang_dirs:
         lang = lang_dir["name"]
         files = list_xliff_files(f"{translated_path}/{lang}")
+        if not files:
+            print(f"   [{lang}] Geen XLIFF-bestanden gevonden.")
+            continue
         for f in files:
             content = fetch_file(f"{translated_path}/{lang}/{f['name']}")
             issues = validate_xliff(content, f["name"])
@@ -87,7 +96,9 @@ if __name__ == "__main__":
         resp.raise_for_status()
         projects = [
             i["name"] for i in resp.json()
-            if i["type"] == "dir" and not i["name"].startswith((".", "_"))
+            if i["type"] == "dir"
+            and not i["name"].startswith((".", "_"))
+            and i["name"] not in SKIP
         ]
         for p in projects:
             check_project(p)
