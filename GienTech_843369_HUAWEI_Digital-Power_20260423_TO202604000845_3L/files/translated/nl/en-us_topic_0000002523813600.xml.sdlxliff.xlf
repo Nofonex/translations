@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns="neotrans:xliff:export:2.0" version="1.2">
+  <file original="en-us_topic_0000002523813600.xml.sdlxliff" datatype="x-neotrans-export" source-language="en-US" target-language="nl-NL" ns:projectId="2047222835169525761" ns:taskId="2047272237208764418" ns:wfId="2047222835224051714" ns:swfId="" ns:historyWfId="" ns:fileId="2047269827446898692" ns:vendorId="1525463126898159616" ns:vendorSubtype="T">
+    <body>
+      <trans-unit id="1" ns:sid="2047271442947567624" ns:tid="2047271755365429250" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Waarom wordt PV-vermogen niet gebruikt om de batterij op te laden?" ns:Status="New" ns:Origin="" ns:MatchRate="65">
+        <source>Why Is PV Power Not Used to Charge the Battery?</source>
+        <target state="new" state-qualifier="fuzzy-match">Waarom wordt PV-vermogen niet gebruikt om de batterij op te laden?</target>
+      </trans-unit>
+      <trans-unit id="2" ns:sid="2047271442947567625" ns:tid="2047271755365429251" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Economische opbrengsten eerst" ns:Status="New" ns:Origin="" ns:MatchRate="39">
+        <source>Economic returns first</source>
+        <target state="new" state-qualifier="fuzzy-match">Economische opbrengsten eerst</target>
+      </trans-unit>
+      <trans-unit id="3" ns:sid="2047271442947567626" ns:tid="2047271755365429252" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Wanneer er PV-vermogen wordt opgewekt en de terugleveringsprijs van elektriciteit (piek-terugleveringsprijs) hoger is dan of dicht in de buurt komt van de netto-opbrengst van het opladen en vervolgens ontladen van de batterij, zal het systeem prioriteit geven aan het rechtstreeks verkopen van het PV-vermogen aan het net." ns:Status="New" ns:Origin="" ns:MatchRate="42">
+        <source>When PV power is generated, if the feed-in electricity price (peak feed-in electricity price) is higher than or close to the net returns from charging and then discharging the battery, the system will prioritize selling the PV power directly to the grid.</source>
+        <target state="new" state-qualifier="fuzzy-match">Wanneer er PV-vermogen wordt opgewekt en de terugleveringsprijs van elektriciteit (piek-terugleveringsprijs) hoger is dan of dicht in de buurt komt van de netto-opbrengst van het opladen en vervolgens ontladen van de batterij, zal het systeem prioriteit geven aan het rechtstreeks verkopen van het PV-vermogen aan het net.</target>
+      </trans-unit>
+      <trans-unit id="4" ns:sid="2047271442947567627" ns:tid="2047271755365429253" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="beperkingen voor laadvenster en modus &lt;uicontrol class=&quot;+ topic/ph ui-d/uicontrol &quot; id=&quot;uicontrol1891019245456&quot; conref=&quot;en-us_topic_0000207784470567.xml#438333&quot; idp:conrefpath=&quot;200650494000#EN-US_BOOKMAP_0000002298266790#EN-US_TOPIC_0000207784470567&quot;/&gt;" ns:Status="New" ns:Origin="" ns:MatchRate="56">
+        <source><ph id="f0">&lt;uicontrol class=&quot;+ topic/ph ui-d/uicontrol &quot; id=&quot;uicontrol1891019245456&quot; conref=&quot;en-us_topic_0000207784470567.xml#438333&quot; idp:conrefpath=&quot;200650494000#EN-US_BOOKMAP_0000002298266790#EN-US_TOPIC_0000207784470567&quot;/&gt;</ph> charging window and <ph id="f1">&lt;uicontrol class=&quot;+ topic/ph ui-d/uicontrol &quot; id=&quot;uicontrol55241626133415&quot; conref=&quot;en-us_topic_0000207635068172.xml#456541&quot; idp:conrefpath=&quot;200650494000#EN-US_BOOKMAP_0000002298267098#EN-US_TOPIC_0000207635068172&quot;/&gt;</ph> mode restrictions</source>
+        <target state="new" state-qualifier="fuzzy-match">beperkingen voor laadvenster en modus <ph id="f0">&lt;uicontrol class=&quot;+ topic/ph ui-d/uicontrol &quot; id=&quot;uicontrol1891019245456&quot; conref=&quot;en-us_topic_0000207784470567.xml#438333&quot; idp:conrefpath=&quot;200650494000#EN-US_BOOKMAP_0000002298266790#EN-US_TOPIC_0000207784470567&quot;/&gt;</ph></target>
+      </trans-unit>
+      <trans-unit id="5" ns:sid="2047271442947567628" ns:tid="2047271755365429254" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Als het laadvenster de PV-opwekkingsperiode niet dekt (bijvoorbeeld de PV-piek ligt rond het middaguur, maar het laadvenster is ingesteld in de vroege ochtend), wordt het PV-vermogen eerst gebruikt om aan de belastingsvraag van de woning te voldoen, waarbij het restant rechtstreeks aan het net wordt verkocht in plaats van opgeslagen." ns:Status="New" ns:Origin="" ns:MatchRate="31">
+        <source>If the charging window does not cover the PV generation period (for example, the PV peak is at noon but the charging window is set in the early morning), the PV power is used first to meet home load demand, with the remainder sold directly to the grid rather than stored.</source>
+        <target state="new" state-qualifier="fuzzy-match">Als het laadvenster de PV-opwekkingsperiode niet dekt (bijvoorbeeld de PV-piek ligt rond het middaguur, maar het laadvenster is ingesteld in de vroege ochtend), wordt het PV-vermogen eerst gebruikt om aan de belastingsvraag van de woning te voldoen, waarbij het restant rechtstreeks aan het net wordt verkocht in plaats van opgeslagen.</target>
+      </trans-unit>
+      <trans-unit id="6" ns:sid="2047271442947567629" ns:tid="2047271755365429255" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Systeemstatus en voorspelling" ns:Status="New" ns:Origin="" ns:MatchRate="65">
+        <source>System status and forecast</source>
+        <target state="new" state-qualifier="fuzzy-match">Systeemstatus en voorspelling</target>
+      </trans-unit>
+      <trans-unit id="7" ns:sid="2047271442947567630" ns:tid="2047271755365429256" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="&lt;b class=&quot;+ topic/ph hi-d/b &quot; id=&quot;b1977617109417&quot;&gt;Hoge SOC&lt;/g&gt;:" ns:Status="New" ns:Origin="" ns:MatchRate="65">
+        <source><bpt id="g0">&lt;b class=&quot;+ topic/ph hi-d/b &quot; id=&quot;b1977617109417&quot;&gt;</bpt>High SOC<ept id="g0">&lt;/g&gt;</ept>:</source>
+        <target state="new" state-qualifier="fuzzy-match"><bpt id="g0">&lt;b class=&quot;+ topic/ph hi-d/b &quot; id=&quot;b1977617109417&quot;&gt;</bpt>Hoge SOC<ept id="g0">&lt;/g&gt;</ept>:</target>
+      </trans-unit>
+      <trans-unit id="8" ns:sid="2047271442947567631" ns:tid="2047271755365429257" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Als de SOC de vooraf ingestelde drempelwaarde voor einde opladen heeft bereikt (bijvoorbeeld 90%), stopt het systeem met opladen om overladen te voorkomen." ns:Status="New" ns:Origin="" ns:MatchRate="52">
+        <source>If the SOC has reached the preset end-of-charge threshold (for example, 90%), the system stops charging to prevent overcharging.</source>
+        <target state="new" state-qualifier="fuzzy-match">Als de SOC de vooraf ingestelde drempelwaarde voor einde opladen heeft bereikt (bijvoorbeeld 90%), stopt het systeem met opladen om overladen te voorkomen.</target>
+      </trans-unit>
+      <trans-unit id="9" ns:sid="2047271442947567632" ns:tid="2047271755365429258" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="In dat geval wordt het PV-vermogen aan het net teruggeleverd of aan belastingen geleverd." ns:Status="New" ns:Origin="" ns:MatchRate="54">
+        <source>In this case, the PV power is fed to the grid or supplied to loads.</source>
+        <target state="new" state-qualifier="fuzzy-match">In dat geval wordt het PV-vermogen aan het net teruggeleverd of aan belastingen geleverd.</target>
+      </trans-unit>
+      <trans-unit id="10" ns:sid="2047271442947567633" ns:tid="2047271755365429259" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Intelligente [planning]" ns:Status="New" ns:Origin="" ns:MatchRate="79">
+        <source><bpt id="g0">&lt;b class=&quot;+ topic/ph hi-d/b &quot; id=&quot;b4442195415911&quot;&gt;</bpt>Intelligent scheduling policy<ept id="g0">&lt;/g&gt;</ept>:</source>
+        <target state="new" state-qualifier="fuzzy-match">Intelligente [planning]</target>
+      </trans-unit>
+      <trans-unit id="11" ns:sid="2047271442947567634" ns:tid="2047271755365429260" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="De &lt;ph class=&quot;- topic/ph &quot; conref=&quot;en-us_topic_0000001645659009.xml#ph122067484595&quot; id=&quot;ph1959151418587&quot; idp:conrefpath=&quot;200650494000#EN-US_BOOKMAP_0000001596019118#EN-US_TOPIC_0000001645659009&quot; idp:userph=&quot;true&quot;/&gt; voorspelt de toekomstige elektriciteitsprijzen en belasting." ns:Status="New" ns:Origin="" ns:MatchRate="48">
+        <source>The <ph id="f0">&lt;ph class=&quot;- topic/ph &quot; conref=&quot;en-us_topic_0000001645659009.xml#ph122067484595&quot; id=&quot;ph1959151418587&quot; idp:conrefpath=&quot;200650494000#EN-US_BOOKMAP_0000001596019118#EN-US_TOPIC_0000001645659009&quot; idp:userph=&quot;true&quot;/&gt;</ph> forecasts the future electricity prices and load.</source>
+        <target state="new" state-qualifier="fuzzy-match">De <ph id="f0">&lt;ph class=&quot;- topic/ph &quot; conref=&quot;en-us_topic_0000001645659009.xml#ph122067484595&quot; id=&quot;ph1959151418587&quot; idp:conrefpath=&quot;200650494000#EN-US_BOOKMAP_0000001596019118#EN-US_TOPIC_0000001645659009&quot; idp:userph=&quot;true&quot;/&gt;</ph> voorspelt de toekomstige elektriciteitsprijzen en belasting.</target>
+      </trans-unit>
+      <trans-unit id="12" ns:sid="2047271442947567635" ns:tid="2047271755365429261" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Als het systeem voorspelt dat de elektriciteitsprijzen later lager zullen zijn of dat de PV-opbrengst overvloediger zal zijn, kan het opladen worden uitgesteld en op een beter moment worden gewacht." ns:Status="New" ns:Origin="" ns:MatchRate="25">
+        <source>If the system forecasts that electricity prices will be lower or PV output will be more abundant later, it may delay charging and wait for a better opportunity.</source>
+        <target state="new" state-qualifier="fuzzy-match">Als het systeem voorspelt dat de elektriciteitsprijzen later lager zullen zijn of dat de PV-opbrengst overvloediger zal zijn, kan het opladen worden uitgesteld en op een beter moment worden gewacht.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns="neotrans:xliff:export:2.0" version="1.2">
+  <file original="en-us_topic_0000002554853539.xml.sdlxliff" datatype="x-neotrans-export" source-language="en-US" target-language="nl-NL" ns:projectId="2047222835169525761" ns:taskId="2047272237208764418" ns:wfId="2047222835224051714" ns:swfId="" ns:historyWfId="" ns:fileId="2047269827530784771" ns:vendorId="1525463126898159616" ns:vendorSubtype="T">
+    <body>
+      <trans-unit id="1" ns:sid="2047271451424256002" ns:tid="2047271821333442562" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Waarom is de energie van de batterij onvoldoende tijdens piekuren in de ochtend?" ns:Status="New" ns:Origin="" ns:MatchRate="51">
+        <source>Why Is the Battery Energy Insufficient During Morning Peak Hours?</source>
+        <target state="new" state-qualifier="fuzzy-match">Waarom is de energie van de batterij onvoldoende tijdens piekuren in de ochtend?</target>
+      </trans-unit>
+      <trans-unit id="2" ns:sid="2047271451424256003" ns:tid="2047271821333442563" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Tijdens piekuren in de ochtend is de vraag naar elektriciteit hoog, maar heeft de PV-opwekking nog niet het hoogtepunt bereikt." ns:Status="New" ns:Origin="" ns:MatchRate="36">
+        <source>During morning peak hours, electricity demand is high, but PV power generation has not yet reached its peak.</source>
+        <target state="new" state-qualifier="fuzzy-match">Tijdens piekuren in de ochtend is de vraag naar elektriciteit hoog, maar heeft de PV-opwekking nog niet het hoogtepunt bereikt.</target>
+      </trans-unit>
+      <trans-unit id="3" ns:sid="2047271451424256004" ns:tid="2047271821333442564" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Daarom steunt het systeem hoofdzakelijk op batterijontlading om aan de belastingsvraag te voldoen." ns:Status="New" ns:Origin="" ns:MatchRate="38">
+        <source>Therefore, the system mainly relies on battery discharge to meet load demand.</source>
+        <target state="new" state-qualifier="fuzzy-match">Daarom steunt het systeem hoofdzakelijk op batterijontlading om aan de belastingsvraag te voldoen.</target>
+      </trans-unit>
+      <trans-unit id="4" ns:sid="2047271451424256005" ns:tid="2047271821333442565" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Beperkingen van het batterijbeleid" ns:Status="New" ns:Origin="" ns:MatchRate="39">
+        <source>Battery policy restrictions</source>
+        <target state="new" state-qualifier="fuzzy-match">Beperkingen van het batterijbeleid</target>
+      </trans-unit>
+      <trans-unit id="5" ns:sid="2047271451424256006" ns:tid="2047271821333442566" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="&lt;b class=&quot;+ topic/ph hi-d/b &quot; id=&quot;b151801755374&quot;&gt;Onjuiste periode-instellingen voor &lt;uicontrol class=&quot;+ topic/ph ui-d/uicontrol &quot; id=&quot;uicontrol1891019245456&quot; conref=&quot;en-us_topic_0000207784470567.xml#438333&quot; idp:conrefpath=&quot;200650494000#EN-US_BOOKMAP_0000002298266790#EN-US_TOPIC_0000207784470567&quot;/&gt;&lt;/g&gt;:" ns:Status="New" ns:Origin="" ns:MatchRate="65">
+        <source><bpt id="g0">&lt;b class=&quot;+ topic/ph hi-d/b &quot; id=&quot;b151801755374&quot;&gt;</bpt>Incorrect <ph id="f1">&lt;uicontrol class=&quot;+ topic/ph ui-d/uicontrol &quot; id=&quot;uicontrol1891019245456&quot; conref=&quot;en-us_topic_0000207784470567.xml#438333&quot; idp:conrefpath=&quot;200650494000#EN-US_BOOKMAP_0000002298266790#EN-US_TOPIC_0000207784470567&quot;/&gt;</ph> period settings<ept id="g0">&lt;/g&gt;</ept>:</source>
+        <target state="new" state-qualifier="fuzzy-match"><bpt id="g0">&lt;b class=&quot;+ topic/ph hi-d/b &quot; id=&quot;b151801755374&quot;&gt;</bpt>Onjuiste periode-instellingen voor <ph id="f1">&lt;uicontrol class=&quot;+ topic/ph ui-d/uicontrol &quot; id=&quot;uicontrol1891019245456&quot; conref=&quot;en-us_topic_0000207784470567.xml#438333&quot; idp:conrefpath=&quot;200650494000#EN-US_BOOKMAP_0000002298266790#EN-US_TOPIC_0000207784470567&quot;/&gt;</ph><ept id="g0">&lt;/g&gt;</ept>:</target>
+      </trans-unit>
+      <trans-unit id="6" ns:sid="2047271451424256007" ns:tid="2047271821333442567" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Als het laadvenster niet is ingesteld voor de nacht (periode met lage elektriciteitsprijzen), laadt het systeem de batterij 's nachts of tijdens periodes met lage elektriciteitsprijzen niet volledig op." ns:Status="New" ns:Origin="" ns:MatchRate="57">
+        <source>If the charging window is not set for nighttime (low electricity price period), the system does not fully charge the battery at night or during low electricity price periods.</source>
+        <target state="new" state-qualifier="fuzzy-match">Als het laadvenster niet is ingesteld voor de nacht (periode met lage elektriciteitsprijzen), laadt het systeem de batterij 's nachts of tijdens periodes met lage elektriciteitsprijzen niet volledig op.</target>
+      </trans-unit>
+      <trans-unit id="7" ns:sid="2047271451424256008" ns:tid="2047271821333442568" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Als gevolg hiervan is de energiereserve van de batterij onvoldoende tijdens piekuren in de ochtend." ns:Status="New" ns:Origin="" ns:MatchRate="49">
+        <source>Consequently, the battery's energy reserve is insufficient during peak morning hours.</source>
+        <target state="new" state-qualifier="fuzzy-match">Als gevolg hiervan is de energiereserve van de batterij onvoldoende tijdens piekuren in de ochtend.</target>
+      </trans-unit>
+      <trans-unit id="8" ns:sid="2047271451424256009" ns:tid="2047271821333442569" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="&lt;b class=&quot;+ topic/ph hi-d/b &quot; id=&quot;b14180135113716&quot;&gt;Conservatieve instelling van SOC-drempelwaarde&lt;/g&gt;:" ns:Status="New" ns:Origin="" ns:MatchRate="43">
+        <source><bpt id="g0">&lt;b class=&quot;+ topic/ph hi-d/b &quot; id=&quot;b14180135113716&quot;&gt;</bpt>Conservative SOC threshold setting<ept id="g0">&lt;/g&gt;</ept>:</source>
+        <target state="new" state-qualifier="fuzzy-match"><bpt id="g0">&lt;b class=&quot;+ topic/ph hi-d/b &quot; id=&quot;b14180135113716&quot;&gt;</bpt>Conservatieve instelling van SOC-drempelwaarde<ept id="g0">&lt;/g&gt;</ept>:</target>
+      </trans-unit>
+      <trans-unit id="9" ns:sid="2047271451424256010" ns:tid="2047271821333442570" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Als de SOC bij einde ontladen te hoog is ingesteld (bijvoorbeeld 50%), neemt de beschikbare capaciteit af." ns:Status="New" ns:Origin="" ns:MatchRate="37">
+        <source>If the end-of-discharge SOC is set too high (for example, 50%), the available capacity decreases.</source>
+        <target state="new" state-qualifier="fuzzy-match">Als de SOC bij einde ontladen te hoog is ingesteld (bijvoorbeeld 50%), neemt de beschikbare capaciteit af.</target>
+      </trans-unit>
+      <trans-unit id="10" ns:sid="2047271451424256011" ns:tid="2047271821333442571" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Als gevolg hiervan raakt de energie van de batterij tijdens piekuren sneller uitgeput dan verwacht." ns:Status="New" ns:Origin="" ns:MatchRate="46">
+        <source>Consequently, the battery's energy is depleted earlier than expected during peak hours.</source>
+        <target state="new" state-qualifier="fuzzy-match">Als gevolg hiervan raakt de energie van de batterij tijdens piekuren sneller uitgeput dan verwacht.</target>
+      </trans-unit>
+      <trans-unit id="11" ns:sid="2047271451424256012" ns:tid="2047271821333442572" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="&lt;b class=&quot;+ topic/ph hi-d/b &quot; id=&quot;b094218107410&quot;&gt;Prioriteitsmodus voor teruglevering&lt;/g&gt;:" ns:Status="New" ns:Origin="" ns:MatchRate="49">
+        <source><bpt id="g0">&lt;b class=&quot;+ topic/ph hi-d/b &quot; id=&quot;b094218107410&quot;&gt;</bpt>Feed-in priority mode<ept id="g0">&lt;/g&gt;</ept>:</source>
+        <target state="new" state-qualifier="fuzzy-match"><bpt id="g0">&lt;b class=&quot;+ topic/ph hi-d/b &quot; id=&quot;b094218107410&quot;&gt;</bpt>Prioriteitsmodus voor teruglevering<ept id="g0">&lt;/g&gt;</ept>:</target>
+      </trans-unit>
+      <trans-unit id="12" ns:sid="2047271451424256013" ns:tid="2047271821333442573" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Als de modus is ingesteld op &lt;uicontrol class=&quot;+ topic/ph ui-d/uicontrol &quot; id=&quot;uicontrol55241626133415&quot; conref=&quot;en-us_topic_0000207635068172.xml#456541&quot; idp:conrefpath=&quot;200650494000#EN-US_BOOKMAP_0000002298267098#EN-US_TOPIC_0000207635068172&quot;/&gt;, wordt PV-vermogen eerst gebruikt om aan de belastingsvereisten van de woning te voldoen, en wordt het resterende vermogen direct verkocht, wat de energiereserve van de batterij beïnvloedt." ns:Status="New" ns:Origin="" ns:MatchRate="44">
+        <source>If the mode is set to <ph id="f0">&lt;uicontrol class=&quot;+ topic/ph ui-d/uicontrol &quot; id=&quot;uicontrol55241626133415&quot; conref=&quot;en-us_topic_0000207635068172.xml#456541&quot; idp:conrefpath=&quot;200650494000#EN-US_BOOKMAP_0000002298267098#EN-US_TOPIC_0000207635068172&quot;/&gt;</ph>, PV power is used first to meet home load requirements, and the remaining power is directly sold, affecting the battery's energy reserve.</source>
+        <target state="new" state-qualifier="fuzzy-match">Als de modus is ingesteld op <ph id="f0">&lt;uicontrol class=&quot;+ topic/ph ui-d/uicontrol &quot; id=&quot;uicontrol55241626133415&quot; conref=&quot;en-us_topic_0000207635068172.xml#456541&quot; idp:conrefpath=&quot;200650494000#EN-US_BOOKMAP_0000002298267098#EN-US_TOPIC_0000207635068172&quot;/&gt;</ph>, wordt PV-vermogen eerst gebruikt om aan de belastingsvereisten van de woning te voldoen, en wordt het resterende vermogen direct verkocht, wat de energiereserve van de batterij beïnvloedt.</target>
+      </trans-unit>
+      <trans-unit id="13" ns:sid="2047271451424256014" ns:tid="2047271821333442574" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Capaciteits- en vermogenslimieten van de batterij" ns:Status="New" ns:Origin="" ns:MatchRate="64">
+        <source>Battery capacity and power limits</source>
+        <target state="new" state-qualifier="fuzzy-match">Capaciteits- en vermogenslimieten van de batterij</target>
+      </trans-unit>
+      <trans-unit id="14" ns:sid="2047271451424256015" ns:tid="2047271821333442575" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Onvoldoende capaciteit" ns:Status="New" ns:Origin="" ns:MatchRate="94">
+        <source><bpt id="g0">&lt;b class=&quot;+ topic/ph hi-d/b &quot; id=&quot;b71808512377&quot;&gt;</bpt>Insufficient capacity<ept id="g0">&lt;/g&gt;</ept>:</source>
+        <target state="new" state-qualifier="fuzzy-match">Onvoldoende capaciteit</target>
+      </trans-unit>
+      <trans-unit id="15" ns:sid="2047271451424256016" ns:tid="2047271821333442576" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Als de totale batterijcapaciteit (kWh) niet kan voldoen aan de belastingsvraag tijdens piekuren, raakt de energie snel uitgeput." ns:Status="New" ns:Origin="" ns:MatchRate="40">
+        <source>If the total battery capacity (kWh) cannot meet the load demand during peak hours, the energy will be quickly depleted.</source>
+        <target state="new" state-qualifier="fuzzy-match">Als de totale batterijcapaciteit (kWh) niet kan voldoen aan de belastingsvraag tijdens piekuren, raakt de energie snel uitgeput.</target>
+      </trans-unit>
+      <trans-unit id="16" ns:sid="2047271451424256017" ns:tid="2047271821333442577" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Als de belasting bijvoorbeeld gedurende 4 uur in piekuren in de ochtend 5 kW bedraagt, is minimaal 20 kWh aan capaciteit vereist." ns:Status="New" ns:Origin="" ns:MatchRate="30">
+        <source>For example, if the load is 5 kW for 4 hours during morning peak hours, at least 20 kWh of capacity is required.</source>
+        <target state="new" state-qualifier="fuzzy-match">Als de belasting bijvoorbeeld gedurende 4 uur in piekuren in de ochtend 5 kW bedraagt, is minimaal 20 kWh aan capaciteit vereist.</target>
+      </trans-unit>
+      <trans-unit id="17" ns:sid="2047271451424256018" ns:tid="2047271821333442578" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Als de batterijcapaciteit slechts 10 kWh bedraagt, is deze onvoldoende." ns:Status="New" ns:Origin="" ns:MatchRate="39">
+        <source>If the battery capacity is only 10 kWh, it is insufficient.</source>
+        <target state="new" state-qualifier="fuzzy-match">Als de batterijcapaciteit slechts 10 kWh bedraagt, is deze onvoldoende.</target>
+      </trans-unit>
+      <trans-unit id="18" ns:sid="2047271451424256019" ns:tid="2047271821333442579" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Onvoldoende groene stroom" ns:Status="New" ns:Origin="" ns:MatchRate="79">
+        <source><bpt id="g0">&lt;b class=&quot;+ topic/ph hi-d/b &quot; id=&quot;b1118145163711&quot;&gt;</bpt>Insufficient power<ept id="g0">&lt;/g&gt;</ept>:</source>
+        <target state="new" state-qualifier="fuzzy-match">Onvoldoende groene stroom</target>
+      </trans-unit>
+      <trans-unit id="19" ns:sid="2047271451424256020" ns:tid="2047271821333442580" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Als het maximale ontlaadvermogen (kW) van de batterij lager is dan de piekbelasting, kan het systeem geen apparaten met plotselinge vermogensvragen ondersteunen (zoals gelijktijdig ingeschakelde airconditioners)." ns:Status="New" ns:Origin="" ns:MatchRate="39">
+        <source>If the maximum discharge power (kW) of the battery is lower than the peak load, the system cannot support devices with sudden high-power demands (such as air conditioners starting simultaneously).</source>
+        <target state="new" state-qualifier="fuzzy-match">Als het maximale ontlaadvermogen (kW) van de batterij lager is dan de piekbelasting, kan het systeem geen apparaten met plotselinge vermogensvragen ondersteunen (zoals gelijktijdig ingeschakelde airconditioners).</target>
+      </trans-unit>
+      <trans-unit id="20" ns:sid="2047271451424256021" ns:tid="2047271821333442581" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Belastingsschommeling en voorspellingsafwijking" ns:Status="New" ns:Origin="" ns:MatchRate="32">
+        <source>Load fluctuation and prediction deviation</source>
+        <target state="new" state-qualifier="fuzzy-match">Belastingsschommeling en voorspellingsafwijking</target>
+      </trans-unit>
+      <trans-unit id="21" ns:sid="2047271451424256022" ns:tid="2047271821333442582" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="&lt;b class=&quot;+ topic/ph hi-d/b &quot; id=&quot;b18181125123710&quot;&gt;Plotselinge belastingspiek&lt;/g&gt;:" ns:Status="New" ns:Origin="" ns:MatchRate="49">
+        <source><bpt id="g0">&lt;b class=&quot;+ topic/ph hi-d/b &quot; id=&quot;b18181125123710&quot;&gt;</bpt>Sudden load peak<ept id="g0">&lt;/g&gt;</ept>:</source>
+        <target state="new" state-qualifier="fuzzy-match"><bpt id="g0">&lt;b class=&quot;+ topic/ph hi-d/b &quot; id=&quot;b18181125123710&quot;&gt;</bpt>Plotselinge belastingspiek<ept id="g0">&lt;/g&gt;</ept>:</target>
+      </trans-unit>
+      <trans-unit id="22" ns:sid="2047271451424256023" ns:tid="2047271821333442583" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Tijdens piekuren in de ochtend en avond is het elektriciteitsverbruik in de woning geconcentreerd (zoals koken en opladen)." ns:Status="New" ns:Origin="" ns:MatchRate="27">
+        <source>During morning and evening peak hours, home electricity consumption is concentrated (such as cooking and charging).</source>
+        <target state="new" state-qualifier="fuzzy-match">Tijdens piekuren in de ochtend en avond is het elektriciteitsverbruik in de woning geconcentreerd (zoals koken en opladen).</target>
+      </trans-unit>
+      <trans-unit id="23" ns:sid="2047271451424256024" ns:tid="2047271821333442584" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Als de belasting plotseling toeneemt tot buiten het voorspelde bereik, kan de batterij mogelijk niet reageren." ns:Status="New" ns:Origin="" ns:MatchRate="35">
+        <source>If the load suddenly increases beyond the predicted range, the battery may not be able to respond.</source>
+        <target state="new" state-qualifier="fuzzy-match">Als de belasting plotseling toeneemt tot buiten het voorspelde bereik, kan de batterij mogelijk niet reageren.</target>
+      </trans-unit>
+      <trans-unit id="24" ns:sid="2047271451424256025" ns:tid="2047271821333442585" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="&lt;b class=&quot;+ topic/ph hi-d/b &quot; id=&quot;b9181357375&quot;&gt;Fout in voorspellingsalgoritme&lt;/g&gt;:" ns:Status="New" ns:Origin="" ns:MatchRate="48">
+        <source><bpt id="g0">&lt;b class=&quot;+ topic/ph hi-d/b &quot; id=&quot;b9181357375&quot;&gt;</bpt>Prediction algorithm error<ept id="g0">&lt;/g&gt;</ept>:</source>
+        <target state="new" state-qualifier="fuzzy-match"><bpt id="g0">&lt;b class=&quot;+ topic/ph hi-d/b &quot; id=&quot;b9181357375&quot;&gt;</bpt>Fout in voorspellingsalgoritme<ept id="g0">&lt;/g&gt;</ept>:</target>
+      </trans-unit>
+      <trans-unit id="25" ns:sid="2047271451424256026" ns:tid="2047271821333442586" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Het systeem plant energie op basis van historische gegevens over elektriciteitsverbruik." ns:Status="New" ns:Origin="" ns:MatchRate="57">
+        <source>The system schedules energy based on historical electricity consumption data.</source>
+        <target state="new" state-qualifier="fuzzy-match">Het systeem plant energie op basis van historische gegevens over elektriciteitsverbruik.</target>
+      </trans-unit>
+      <trans-unit id="26" ns:sid="2047271451424256027" ns:tid="2047271821333442587" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Als het werkelijke elektriciteitsverbruikspatroon verandert (bijvoorbeeld wanneer energie-intensieve apparaten worden toegevoegd), kan de energiereserve van de batterij onvoldoende zijn." ns:Status="New" ns:Origin="" ns:MatchRate="28">
+        <source>If the actual electricity consumption pattern changes (for example, high-energy-consuming devices are added), the battery's energy reserve may be insufficient.</source>
+        <target state="new" state-qualifier="fuzzy-match">Als het werkelijke elektriciteitsverbruikspatroon verandert (bijvoorbeeld wanneer energie-intensieve apparaten worden toegevoegd), kan de energiereserve van de batterij onvoldoende zijn.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

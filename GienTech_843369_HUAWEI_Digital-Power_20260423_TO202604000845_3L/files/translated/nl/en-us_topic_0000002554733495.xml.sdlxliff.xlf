@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns="neotrans:xliff:export:2.0" version="1.2">
+  <file original="en-us_topic_0000002554733495.xml.sdlxliff" datatype="x-neotrans-export" source-language="en-US" target-language="nl-NL" ns:projectId="2047222835169525761" ns:taskId="2047272237208764418" ns:wfId="2047222835224051714" ns:swfId="" ns:historyWfId="" ns:fileId="2047269827501424642" ns:vendorId="1525463126898159616" ns:vendorSubtype="T">
+    <body>
+      <trans-unit id="1" ns:sid="2047271448391774209" ns:tid="2047271794452148225" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Waarom wordt het batterijvermogen niet op dezelfde dag opgebruikt?" ns:Status="New" ns:Origin="" ns:MatchRate="52">
+        <source>Why Is the Battery Power Not Used Up on the Same Day?</source>
+        <target state="new" state-qualifier="fuzzy-match">Waarom wordt het batterijvermogen niet op dezelfde dag opgebruikt?</target>
+      </trans-unit>
+      <trans-unit id="2" ns:sid="2047271448391774210" ns:tid="2047271794452148226" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Economische optimalisatie over verschillende perioden" ns:Status="New" ns:Origin="" ns:MatchRate="39">
+        <source>Cross-period economic optimization</source>
+        <target state="new" state-qualifier="fuzzy-match">Economische optimalisatie over verschillende perioden</target>
+      </trans-unit>
+      <trans-unit id="3" ns:sid="2047271448391774211" ns:tid="2047271794452148227" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="De &lt;ph class=&quot;- topic/ph &quot; conref=&quot;en-us_topic_0000001645659009.xml#ph122067484595&quot; id=&quot;ph1959151418587&quot; idp:conrefpath=&quot;200650494000#EN-US_BOOKMAP_0000001596019118#EN-US_TOPIC_0000001645659009&quot; idp:userph=&quot;true&quot;/&gt; plant dynamisch de laad- en ontlaadcyclus van de batterij op basis van AI-algoritmen die belasting, PV-opbrengst en elektriciteitsprijzen voorspellen." ns:Status="New" ns:Origin="" ns:MatchRate="57">
+        <source>The <ph id="f0">&lt;ph class=&quot;- topic/ph &quot; conref=&quot;en-us_topic_0000001645659009.xml#ph122067484595&quot; id=&quot;ph1959151418587&quot; idp:conrefpath=&quot;200650494000#EN-US_BOOKMAP_0000001596019118#EN-US_TOPIC_0000001645659009&quot; idp:userph=&quot;true&quot;/&gt;</ph> dynamically schedules battery charge and discharge based on AI algorithms that forecast load, PV output, and electricity prices.</source>
+        <target state="new" state-qualifier="fuzzy-match">De <ph id="f0">&lt;ph class=&quot;- topic/ph &quot; conref=&quot;en-us_topic_0000001645659009.xml#ph122067484595&quot; id=&quot;ph1959151418587&quot; idp:conrefpath=&quot;200650494000#EN-US_BOOKMAP_0000001596019118#EN-US_TOPIC_0000001645659009&quot; idp:userph=&quot;true&quot;/&gt;</ph> plant dynamisch de laad- en ontlaadcyclus van de batterij op basis van AI-algoritmen die belasting, PV-opbrengst en elektriciteitsprijzen voorspellen.</target>
+      </trans-unit>
+      <trans-unit id="4" ns:sid="2047271448391774212" ns:tid="2047271794452148228" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Het systeem reserveert enige energie om te ontladen tijdens &lt;b class=&quot;+ topic/ph hi-d/b &quot; id=&quot;b853053116521&quot;&gt;periodes met hogere elektriciteitsprijzen de volgende dag&lt;/g&gt;, om de opbrengst uit energiearbitrage te maximaliseren." ns:Status="New" ns:Origin="" ns:MatchRate="31">
+        <source>The system reserves some energy for discharge during <bpt id="g0">&lt;b class=&quot;+ topic/ph hi-d/b &quot; id=&quot;b853053116521&quot;&gt;</bpt>periods with higher electricity prices on the next day<ept id="g0">&lt;/g&gt;</ept> to maximize the returns from energy arbitrage.</source>
+        <target state="new" state-qualifier="fuzzy-match">Het systeem reserveert enige energie om te ontladen tijdens <bpt id="g0">&lt;b class=&quot;+ topic/ph hi-d/b &quot; id=&quot;b853053116521&quot;&gt;</bpt>periodes met hogere elektriciteitsprijzen de volgende dag<ept id="g0">&lt;/g&gt;</ept>, om de opbrengst uit energiearbitrage te maximaliseren.</target>
+      </trans-unit>
+      <trans-unit id="5" ns:sid="2047271448391774213" ns:tid="2047271794452148229" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Als de batterij op de huidige dag volledig wordt ontladen, kunnen betere arbitragemogelijkheden de volgende dag worden gemist." ns:Status="New" ns:Origin="" ns:MatchRate="43">
+        <source>If the battery is fully discharged on the current day, better arbitrage opportunities on the next day may be missed.</source>
+        <target state="new" state-qualifier="fuzzy-match">Als de batterij op de huidige dag volledig wordt ontladen, kunnen betere arbitragemogelijkheden de volgende dag worden gemist.</target>
+      </trans-unit>
+      <trans-unit id="6" ns:sid="2047271448391774214" ns:tid="2047271794452148230" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Actieve reactie op negatieve elektriciteitsprijzen" ns:Status="New" ns:Origin="" ns:MatchRate="49">
+        <source>Active response to negative electricity prices</source>
+        <target state="new" state-qualifier="fuzzy-match">Actieve reactie op negatieve elektriciteitsprijzen</target>
+      </trans-unit>
+      <trans-unit id="7" ns:sid="2047271448391774215" ns:tid="2047271794452148231" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="&lt;b class=&quot;+ topic/ph hi-d/b &quot; id=&quot;b205301631145211&quot;&gt;Eerst opladen&lt;/g&gt;:" ns:Status="New" ns:Origin="" ns:MatchRate="65">
+        <source><bpt id="g0">&lt;b class=&quot;+ topic/ph hi-d/b &quot; id=&quot;b205301631145211&quot;&gt;</bpt>Charging first<ept id="g0">&lt;/g&gt;</ept>:</source>
+        <target state="new" state-qualifier="fuzzy-match"><bpt id="g0">&lt;b class=&quot;+ topic/ph hi-d/b &quot; id=&quot;b205301631145211&quot;&gt;</bpt>Eerst opladen<ept id="g0">&lt;/g&gt;</ept>:</target>
+      </trans-unit>
+      <trans-unit id="8" ns:sid="2047271448391774216" ns:tid="2047271794452148232" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Wanneer de elektriciteitsprijs negatief is (de inkoopprijs is negatief), koopt het systeem bij voorkeur elektriciteit van het net om op te laden." ns:Status="New" ns:Origin="" ns:MatchRate="58">
+        <source>When the electricity price is negative (the purchase price is negative), the system preferentially purchases electricity from the grid for charging.</source>
+        <target state="new" state-qualifier="fuzzy-match">Wanneer de elektriciteitsprijs negatief is (de inkoopprijs is negatief), koopt het systeem bij voorkeur elektriciteit van het net om op te laden.</target>
+      </trans-unit>
+      <trans-unit id="9" ns:sid="2047271448391774217" ns:tid="2047271794452148233" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="In dit geval bevindt de batterij zich mogelijk in de laadstand in plaats van de ontlaadstand." ns:Status="New" ns:Origin="" ns:MatchRate="39">
+        <source>In this case, the battery may be in the charging state instead of the discharging state.</source>
+        <target state="new" state-qualifier="fuzzy-match">In dit geval bevindt de batterij zich mogelijk in de laadstand in plaats van de ontlaadstand.</target>
+      </trans-unit>
+      <trans-unit id="10" ns:sid="2047271448391774218" ns:tid="2047271794452148234" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="&lt;b class=&quot;+ topic/ph hi-d/b &quot; id=&quot;b1953016313528&quot;&gt;Beleidsaanpassing&lt;/g&gt;:" ns:Status="New" ns:Origin="" ns:MatchRate="49">
+        <source><bpt id="g0">&lt;b class=&quot;+ topic/ph hi-d/b &quot; id=&quot;b1953016313528&quot;&gt;</bpt>Policy adjustment<ept id="g0">&lt;/g&gt;</ept>:</source>
+        <target state="new" state-qualifier="fuzzy-match"><bpt id="g0">&lt;b class=&quot;+ topic/ph hi-d/b &quot; id=&quot;b1953016313528&quot;&gt;</bpt>Beleidsaanpassing<ept id="g0">&lt;/g&gt;</ept>:</target>
+      </trans-unit>
+      <trans-unit id="11" ns:sid="2047271448391774219" ns:tid="2047271794452148235" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Nadat de optimalisatiefunctie voor negatieve tarieven is ingeschakeld, laadt de batterij proactief op tijdens periodes met lage elektriciteitsprijzen (inclusief negatieve elektriciteitsprijzen) om de ontlaadhoeveelheid te verminderen." ns:Status="New" ns:Origin="" ns:MatchRate="40">
+        <source>After the negative rate optimization function is enabled, the battery proactively charges during low electricity price periods (including negative electricity prices) to reduce the discharge amount.</source>
+        <target state="new" state-qualifier="fuzzy-match">Nadat de optimalisatiefunctie voor negatieve tarieven is ingeschakeld, laadt de batterij proactief op tijdens periodes met lage elektriciteitsprijzen (inclusief negatieve elektriciteitsprijzen) om de ontlaadhoeveelheid te verminderen.</target>
+      </trans-unit>
+      <trans-unit id="12" ns:sid="2047271448391774220" ns:tid="2047271794452148236" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="SOC-bescherming en vereisten voor back-upvoeding" ns:Status="New" ns:Origin="" ns:MatchRate="65">
+        <source>SOC protection and backup power requirements</source>
+        <target state="new" state-qualifier="fuzzy-match">SOC-bescherming en vereisten voor back-upvoeding</target>
+      </trans-unit>
+      <trans-unit id="13" ns:sid="2047271448391774221" ns:tid="2047271794452148237" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Het systeem stelt de SOC bij einde ontladen (bijvoorbeeld 50%) in om te voorkomen dat er te diep wordt ontladen en schade aan de batterij ontstaat, en reserveert &lt;uicontrol class=&quot;+ topic/ph ui-d/uicontrol &quot; id=&quot;uicontrol18815162434613&quot; conref=&quot;en-us_topic_0000207784935935.xml#460689&quot; idp:conrefpath=&quot;200650494000#EN-US_BOOKMAP_0000002298267098#EN-US_TOPIC_0000207784935935&quot;/&gt; om onverwachte stroomuitval op te vangen." ns:Status="New" ns:Origin="" ns:MatchRate="37">
+        <source>The system sets the end-of-discharge SOC (for example, 50%) to prevent overdischarge and battery damage, and reserves <ph id="f0">&lt;uicontrol class=&quot;+ topic/ph ui-d/uicontrol &quot; id=&quot;uicontrol18815162434613&quot; conref=&quot;en-us_topic_0000207784935935.xml#460689&quot; idp:conrefpath=&quot;200650494000#EN-US_BOOKMAP_0000002298267098#EN-US_TOPIC_0000207784935935&quot;/&gt;</ph> to cope with unexpected power outages.</source>
+        <target state="new" state-qualifier="fuzzy-match">Het systeem stelt de SOC bij einde ontladen (bijvoorbeeld 50%) in om te voorkomen dat er te diep wordt ontladen en schade aan de batterij ontstaat, en reserveert <ph id="f0">&lt;uicontrol class=&quot;+ topic/ph ui-d/uicontrol &quot; id=&quot;uicontrol18815162434613&quot; conref=&quot;en-us_topic_0000207784935935.xml#460689&quot; idp:conrefpath=&quot;200650494000#EN-US_BOOKMAP_0000002298267098#EN-US_TOPIC_0000207784935935&quot;/&gt;</ph> om onverwachte stroomuitval op te vangen.</target>
+      </trans-unit>
+      <trans-unit id="14" ns:sid="2047271448391774222" ns:tid="2047271794452148238" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="De &lt;ph class=&quot;- topic/ph &quot; conref=&quot;en-us_topic_0000001645659009.xml#ph122067484595&quot; id=&quot;ph15116442102016&quot; idp:conrefpath=&quot;200650494000#EN-US_BOOKMAP_0000001596019118#EN-US_TOPIC_0000001645659009&quot; idp:userph=&quot;true&quot;/&gt; past de ontlaaddrempel dynamisch aan op basis van de vereisten voor de back-upvoeding." ns:Status="New" ns:Origin="" ns:MatchRate="41">
+        <source>The <ph id="f0">&lt;ph class=&quot;- topic/ph &quot; conref=&quot;en-us_topic_0000001645659009.xml#ph122067484595&quot; id=&quot;ph15116442102016&quot; idp:conrefpath=&quot;200650494000#EN-US_BOOKMAP_0000001596019118#EN-US_TOPIC_0000001645659009&quot; idp:userph=&quot;true&quot;/&gt;</ph> dynamically adjusts the discharge threshold based on the power backup requirements.</source>
+        <target state="new" state-qualifier="fuzzy-match">De <ph id="f0">&lt;ph class=&quot;- topic/ph &quot; conref=&quot;en-us_topic_0000001645659009.xml#ph122067484595&quot; id=&quot;ph15116442102016&quot; idp:conrefpath=&quot;200650494000#EN-US_BOOKMAP_0000001596019118#EN-US_TOPIC_0000001645659009&quot; idp:userph=&quot;true&quot;/&gt;</ph> past de ontlaaddrempel dynamisch aan op basis van de vereisten voor de back-upvoeding.</target>
+      </trans-unit>
+      <trans-unit id="15" ns:sid="2047271448391774223" ns:tid="2047271794452148239" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Afstemming van vermogen en belasting" ns:Status="New" ns:Origin="" ns:MatchRate="65">
+        <source>Power and load matching</source>
+        <target state="new" state-qualifier="fuzzy-match">Afstemming van vermogen en belasting</target>
+      </trans-unit>
+      <trans-unit id="16" ns:sid="2047271448391774224" ns:tid="2047271794452148240" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Als de belastingsvraag lager is dan het ontlaadvermogen van de batterij, past het systeem het ontlaadvermogen dienovereenkomstig aan om energieverspilling te voorkomen." ns:Status="New" ns:Origin="" ns:MatchRate="45">
+        <source>If the load demand is lower than the battery's discharge power, the system adjusts the discharge output accordingly to avoid energy waste.</source>
+        <target state="new" state-qualifier="fuzzy-match">Als de belastingsvraag lager is dan het ontlaadvermogen van de batterij, past het systeem het ontlaadvermogen dienovereenkomstig aan om energieverspilling te voorkomen.</target>
+      </trans-unit>
+      <trans-unit id="17" ns:sid="2047271448391774225" ns:tid="2047271794452148241" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Tijdens periodes met lage belasting levert de batterij bijvoorbeeld slechts een deel van het vermogen, waarbij de resterende lading wordt gereserveerd voor toekomstig gebruik." ns:Status="New" ns:Origin="" ns:MatchRate="42">
+        <source>For example, during light-load periods, the battery supplies only part of the power, with the remaining charge reserved for future use.</source>
+        <target state="new" state-qualifier="fuzzy-match">Tijdens periodes met lage belasting levert de batterij bijvoorbeeld slechts een deel van het vermogen, waarbij de resterende lading wordt gereserveerd voor toekomstig gebruik.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

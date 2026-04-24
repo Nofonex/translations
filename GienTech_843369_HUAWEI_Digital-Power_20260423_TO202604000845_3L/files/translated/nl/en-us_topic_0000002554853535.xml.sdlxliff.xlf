@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns="neotrans:xliff:export:2.0" version="1.2">
+  <file original="en-us_topic_0000002554853535.xml.sdlxliff" datatype="x-neotrans-export" source-language="en-US" target-language="nl-NL" ns:projectId="2047222835169525761" ns:taskId="2047272237208764418" ns:wfId="2047222835224051714" ns:swfId="" ns:historyWfId="" ns:fileId="2047269827522396161" ns:vendorId="1525463126898159616" ns:vendorSubtype="T">
+    <body>
+      <trans-unit id="1" ns:sid="2047271449251606530" ns:tid="2047271810860265473" translate="no" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Waarom levert de batterij 's nachts geen stroom?" ns:Status="New" ns:Origin="REP" ns:MatchRate="100">
+        <source>Why Does the Battery Not Supply Power at Night?</source>
+        <target state="new" state-qualifier="fuzzy-match">Waarom levert de batterij 's nachts geen stroom?</target>
+      </trans-unit>
+      <trans-unit id="2" ns:sid="2047271449251606531" ns:tid="2047271810860265474" translate="no" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Intelligent planningsbeleid (economische optimalisatie)" ns:Status="New" ns:Origin="REP" ns:MatchRate="100">
+        <source>Intelligent scheduling policy (economic optimization)</source>
+        <target state="new" state-qualifier="fuzzy-match">Intelligent planningsbeleid (economische optimalisatie)</target>
+      </trans-unit>
+      <trans-unit id="3" ns:sid="2047271449251606532" ns:tid="2047271810860265475" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Als &lt;ph class=&quot;- topic/ph &quot; conref=&quot;en-us_topic_0000001645659009.xml#ph122067484595&quot; id=&quot;ph1959151418587&quot; idp:conrefpath=&quot;200650494000#EN-US_BOOKMAP_0000001596019118#EN-US_TOPIC_0000001645659009&quot; idp:userph=&quot;true&quot;/&gt; is ingeschakeld, past het systeem het gedrag van de batterij dynamisch aan op basis van de elektriciteitsprijscurve en belastingsvoorspelling." ns:Status="New" ns:Origin="" ns:MatchRate="37">
+        <source>If the <ph id="f0">&lt;ph class=&quot;- topic/ph &quot; conref=&quot;en-us_topic_0000001645659009.xml#ph122067484595&quot; id=&quot;ph1959151418587&quot; idp:conrefpath=&quot;200650494000#EN-US_BOOKMAP_0000001596019118#EN-US_TOPIC_0000001645659009&quot; idp:userph=&quot;true&quot;/&gt;</ph> is enabled, the system dynamically adjusts the battery behavior based on the electricity price curve and load prediction.</source>
+        <target state="new" state-qualifier="fuzzy-match">Als <ph id="f0">&lt;ph class=&quot;- topic/ph &quot; conref=&quot;en-us_topic_0000001645659009.xml#ph122067484595&quot; id=&quot;ph1959151418587&quot; idp:conrefpath=&quot;200650494000#EN-US_BOOKMAP_0000001596019118#EN-US_TOPIC_0000001645659009&quot; idp:userph=&quot;true&quot;/&gt;</ph> is ingeschakeld, past het systeem het gedrag van de batterij dynamisch aan op basis van de elektriciteitsprijscurve en belastingsvoorspelling.</target>
+      </trans-unit>
+      <trans-unit id="4" ns:sid="2047271449251606533" ns:tid="2047271810860265476" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="De nacht is meestal een periode met lage elektriciteitsprijzen." ns:Status="New" ns:Origin="" ns:MatchRate="39">
+        <source>Nighttime is usually a low electricity price period.</source>
+        <target state="new" state-qualifier="fuzzy-match">De nacht is meestal een periode met lage elektriciteitsprijzen.</target>
+      </trans-unit>
+      <trans-unit id="5" ns:sid="2047271449251606534" ns:tid="2047271810860265477" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Gedurende deze tijd wordt de batterij bij voorkeur opgeladen (vanaf het net of het PV-systeem) in plaats van ontladen, zodat deze elektriciteit kan leveren tijdens periodes met hoge elektriciteitsprijzen overdag om een hogere opbrengst te behalen." ns:Status="New" ns:Origin="" ns:MatchRate="40">
+        <source>During this time, the battery is preferentially charged (from the grid or PV system) instead of discharging, so that it can release electricity during high electricity price periods in the daytime to obtain higher returns.</source>
+        <target state="new" state-qualifier="fuzzy-match">Gedurende deze tijd wordt de batterij bij voorkeur opgeladen (vanaf het net of het PV-systeem) in plaats van ontladen, zodat deze elektriciteit kan leveren tijdens periodes met hoge elektriciteitsprijzen overdag om een hogere opbrengst te behalen.</target>
+      </trans-unit>
+      <trans-unit id="6" ns:sid="2047271449251606535" ns:tid="2047271810860265478" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Economische optimalisatie (laag opladen en hoog ontladen)" ns:Status="New" ns:Origin="" ns:MatchRate="43">
+        <source>Economic optimization (low-charging and high-discharging)</source>
+        <target state="new" state-qualifier="fuzzy-match">Economische optimalisatie (laag opladen en hoog ontladen)</target>
+      </trans-unit>
+      <trans-unit id="7" ns:sid="2047271449251606536" ns:tid="2047271810860265479" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Het systeem voert arbitrage uit door op te laden bij lage elektriciteitsprijzen en te ontladen bij hoge elektriciteitsprijzen." ns:Status="New" ns:Origin="" ns:MatchRate="41">
+        <source>The system implements arbitrage by charging at low electricity prices and discharging at high electricity prices.</source>
+        <target state="new" state-qualifier="fuzzy-match">Het systeem voert arbitrage uit door op te laden bij lage elektriciteitsprijzen en te ontladen bij hoge elektriciteitsprijzen.</target>
+      </trans-unit>
+      <trans-unit id="8" ns:sid="2047271449251606537" ns:tid="2047271810860265480" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="De 's nachts geladen energie wordt gereserveerd voor ontlading tijdens periodes met hoge elektriciteitsprijzen de volgende dag om de opbrengst te maximaliseren." ns:Status="New" ns:Origin="" ns:MatchRate="38">
+        <source>The energy charged at night is reserved for discharge during high electricity price periods the next day to maximize returns.</source>
+        <target state="new" state-qualifier="fuzzy-match">De 's nachts geladen energie wordt gereserveerd voor ontlading tijdens periodes met hoge elektriciteitsprijzen de volgende dag om de opbrengst te maximaliseren.</target>
+      </trans-unit>
+      <trans-unit id="9" ns:sid="2047271449251606538" ns:tid="2047271810860265481" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Als de batterij 's nachts ontlaadt, kan de kans op hogere elektriciteitsprijzen overdag worden gemist." ns:Status="New" ns:Origin="" ns:MatchRate="33">
+        <source>If the battery discharges at night, the opportunity for higher electricity prices during the day may be missed.</source>
+        <target state="new" state-qualifier="fuzzy-match">Als de batterij 's nachts ontlaadt, kan de kans op hogere elektriciteitsprijzen overdag worden gemist.</target>
+      </trans-unit>
+      <trans-unit id="10" ns:sid="2047271449251606539" ns:tid="2047271810860265482" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Tijdsperiodebeperkingen in de modus &lt;uicontrol class=&quot;+ topic/ph ui-d/uicontrol &quot; id=&quot;uicontrol1891019245456&quot; conref=&quot;en-us_topic_0000207784470567.xml#438333&quot; idp:conrefpath=&quot;200650494000#EN-US_BOOKMAP_0000002298266790#EN-US_TOPIC_0000207784470567&quot;/&gt;" ns:Status="New" ns:Origin="" ns:MatchRate="35">
+        <source>Time period restrictions in <ph id="f0">&lt;uicontrol class=&quot;+ topic/ph ui-d/uicontrol &quot; id=&quot;uicontrol1891019245456&quot; conref=&quot;en-us_topic_0000207784470567.xml#438333&quot; idp:conrefpath=&quot;200650494000#EN-US_BOOKMAP_0000002298266790#EN-US_TOPIC_0000207784470567&quot;/&gt;</ph> mode</source>
+        <target state="new" state-qualifier="fuzzy-match">Tijdsperiodebeperkingen in de modus <ph id="f0">&lt;uicontrol class=&quot;+ topic/ph ui-d/uicontrol &quot; id=&quot;uicontrol1891019245456&quot; conref=&quot;en-us_topic_0000207784470567.xml#438333&quot; idp:conrefpath=&quot;200650494000#EN-US_BOOKMAP_0000002298266790#EN-US_TOPIC_0000207784470567&quot;/&gt;</ph></target>
+      </trans-unit>
+      <trans-unit id="11" ns:sid="2047271449251606540" ns:tid="2047271810860265483" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="In de modus &lt;uicontrol class=&quot;+ topic/ph ui-d/uicontrol &quot; id=&quot;uicontrol158810276493&quot; conref=&quot;en-us_topic_0000207784470567.xml#438333&quot; idp:conrefpath=&quot;200650494000#EN-US_BOOKMAP_0000002298266790#EN-US_TOPIC_0000207784470567&quot;/&gt; moet u de ontlaadtijdsperiode handmatig instellen (bijvoorbeeld tijdens periodes met hoge elektriciteitsprijzen)." ns:Status="New" ns:Origin="" ns:MatchRate="45">
+        <source>In <ph id="f0">&lt;uicontrol class=&quot;+ topic/ph ui-d/uicontrol &quot; id=&quot;uicontrol158810276493&quot; conref=&quot;en-us_topic_0000207784470567.xml#438333&quot; idp:conrefpath=&quot;200650494000#EN-US_BOOKMAP_0000002298266790#EN-US_TOPIC_0000207784470567&quot;/&gt;</ph> mode, you need to manually set the discharge time period (for example, during high electricity price periods).</source>
+        <target state="new" state-qualifier="fuzzy-match">In de modus <ph id="f0">&lt;uicontrol class=&quot;+ topic/ph ui-d/uicontrol &quot; id=&quot;uicontrol158810276493&quot; conref=&quot;en-us_topic_0000207784470567.xml#438333&quot; idp:conrefpath=&quot;200650494000#EN-US_BOOKMAP_0000002298266790#EN-US_TOPIC_0000207784470567&quot;/&gt;</ph> moet u de ontlaadtijdsperiode handmatig instellen (bijvoorbeeld tijdens periodes met hoge elektriciteitsprijzen).</target>
+      </trans-unit>
+      <trans-unit id="12" ns:sid="2047271449251606541" ns:tid="2047271810860265484" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Als het ontlaadvenster 's nachts niet is geconfigureerd, wordt de batterij standaard niet ontladen." ns:Status="New" ns:Origin="" ns:MatchRate="43">
+        <source>If the discharge window is not configured at night, the battery does not discharge by default.</source>
+        <target state="new" state-qualifier="fuzzy-match">Als het ontlaadvenster 's nachts niet is geconfigureerd, wordt de batterij standaard niet ontladen.</target>
+      </trans-unit>
+      <trans-unit id="13" ns:sid="2047271449251606542" ns:tid="2047271810860265485" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="SOC back-upvoeding" ns:Status="New" ns:Origin="" ns:MatchRate="84">
+        <source>Backup power SOC policy</source>
+        <target state="new" state-qualifier="fuzzy-match">SOC back-upvoeding</target>
+      </trans-unit>
+      <trans-unit id="14" ns:sid="2047271449251606543" ns:tid="2047271810860265486" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Het systeem stelt de SOC back-upvoeding in (bijvoorbeeld 5% tot 20%) om de stroomvoorziening bij stroomuitval te waarborgen." ns:Status="New" ns:Origin="" ns:MatchRate="41">
+        <source>The system sets the backup power SOC (for example, 5% to 20%) to ensure the power supply capability in the event of a power outage.</source>
+        <target state="new" state-qualifier="fuzzy-match">Het systeem stelt de SOC back-upvoeding in (bijvoorbeeld 5% tot 20%) om de stroomvoorziening bij stroomuitval te waarborgen.</target>
+      </trans-unit>
+      <trans-unit id="15" ns:sid="2047271449251606544" ns:tid="2047271810860265487" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Als de SOC van de batterij 's nachts lager is dan de drempel voor einde ontladen, stopt het systeem het ontladen geforceerd." ns:Status="New" ns:Origin="" ns:MatchRate="48">
+        <source>If the SOC of the battery is lower than the end-of-discharge threshold at night, the system forcibly stops discharging.</source>
+        <target state="new" state-qualifier="fuzzy-match">Als de SOC van de batterij 's nachts lager is dan de drempel voor einde ontladen, stopt het systeem het ontladen geforceerd.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

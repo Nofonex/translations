@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns="neotrans:xliff:export:2.0" version="1.2">
+  <file original="en-us_topic_0000002567052643.xml.sdlxliff" datatype="x-neotrans-export" source-language="en-US" target-language="nl-NL" ns:projectId="2047222835169525761" ns:taskId="2047272237208764418" ns:wfId="2047222835224051714" ns:swfId="" ns:historyWfId="" ns:fileId="2047269827543367682" ns:vendorId="1525463126898159616" ns:vendorSubtype="T">
+    <body>
+      <trans-unit id="1" ns:sid="2047271450207907841" ns:tid="2047271831131336705" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Waarom is de energie van de batterij onvoldoende tijdens piekuren in de avond?" ns:Status="New" ns:Origin="" ns:MatchRate="51">
+        <source>Why Is the Battery's Energy Insufficient During Evening Peak Hours?</source>
+        <target state="new" state-qualifier="fuzzy-match">Waarom is de energie van de batterij onvoldoende tijdens piekuren in de avond?</target>
+      </trans-unit>
+      <trans-unit id="2" ns:sid="2047271450207907842" ns:tid="2047271831131336706" translate="no" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Belastingsfluctuatie en afwijking van de voorspelling" ns:Status="New" ns:Origin="REP" ns:MatchRate="100">
+        <source>Load fluctuation and prediction deviation</source>
+        <target state="new" state-qualifier="fuzzy-match">Belastingsfluctuatie en afwijking van de voorspelling</target>
+      </trans-unit>
+      <trans-unit id="3" ns:sid="2047271450207907843" ns:tid="2047271831131336707" translate="no" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="&lt;b class=&quot;+ topic/ph hi-d/b &quot; id=&quot;b13997595819572&quot;&gt;Plotselinge belastingspiek&lt;/g&gt;:" ns:Status="New" ns:Origin="REP" ns:MatchRate="100">
+        <source><bpt id="g0">&lt;b class=&quot;+ topic/ph hi-d/b &quot; id=&quot;b13997595819572&quot;&gt;</bpt>Sudden load peak<ept id="g0">&lt;/g&gt;</ept>:</source>
+        <target state="new" state-qualifier="fuzzy-match"><bpt id="g0">&lt;b class=&quot;+ topic/ph hi-d/b &quot; id=&quot;b13997595819572&quot;&gt;</bpt>Plotselinge belastingspiek<ept id="g0">&lt;/g&gt;</ept>:</target>
+      </trans-unit>
+      <trans-unit id="4" ns:sid="2047271450207907844" ns:tid="2047271831131336708" translate="no" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Tijdens de ochtend- en avondspitsuren is het thuiselectriciteitsverbruik geconcentreerd (bijv. koken en opladen)." ns:Status="New" ns:Origin="REP" ns:MatchRate="100">
+        <source>During morning and evening peak hours, home electricity consumption is concentrated (such as cooking and charging).</source>
+        <target state="new" state-qualifier="fuzzy-match">Tijdens de ochtend- en avondspitsuren is het thuiselectriciteitsverbruik geconcentreerd (bijv. koken en opladen).</target>
+      </trans-unit>
+      <trans-unit id="5" ns:sid="2047271450207907845" ns:tid="2047271831131336709" translate="no" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Als de belasting plotseling boven het voorspelde bereik stijgt, reageert de batterij mogelijk niet." ns:Status="New" ns:Origin="REP" ns:MatchRate="100">
+        <source>If the load suddenly increases beyond the predicted range, the battery may not be able to respond.</source>
+        <target state="new" state-qualifier="fuzzy-match">Als de belasting plotseling boven het voorspelde bereik stijgt, reageert de batterij mogelijk niet.</target>
+      </trans-unit>
+      <trans-unit id="6" ns:sid="2047271450207907846" ns:tid="2047271831131336710" translate="no" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="&lt;b class=&quot;+ topic/ph hi-d/b &quot; id=&quot;b21444610589574&quot;&gt;Voorspellingsalgoritme-fout&lt;/g&gt;:" ns:Status="New" ns:Origin="REP" ns:MatchRate="100">
+        <source><bpt id="g0">&lt;b class=&quot;+ topic/ph hi-d/b &quot; id=&quot;b21444610589574&quot;&gt;</bpt>Prediction algorithm error<ept id="g0">&lt;/g&gt;</ept>:</source>
+        <target state="new" state-qualifier="fuzzy-match"><bpt id="g0">&lt;b class=&quot;+ topic/ph hi-d/b &quot; id=&quot;b21444610589574&quot;&gt;</bpt>Voorspellingsalgoritme-fout<ept id="g0">&lt;/g&gt;</ept>:</target>
+      </trans-unit>
+      <trans-unit id="7" ns:sid="2047271450207907847" ns:tid="2047271831131336711" translate="no" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Het systeem plant energie op basis van historische verbruiksgegevens." ns:Status="New" ns:Origin="REP" ns:MatchRate="100">
+        <source>The system schedules energy based on historical electricity consumption data.</source>
+        <target state="new" state-qualifier="fuzzy-match">Het systeem plant energie op basis van historische verbruiksgegevens.</target>
+      </trans-unit>
+      <trans-unit id="8" ns:sid="2047271450207907848" ns:tid="2047271831131336712" translate="no" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Als het werkelijke verbruikspatroon verandert (bijv. door toevoeging van energieverslindende apparaten), kan de energiereserve van de batterij onvoldoende zijn." ns:Status="New" ns:Origin="REP" ns:MatchRate="100">
+        <source>If the actual electricity consumption pattern changes (for example, high-energy-consuming devices are added), the battery's energy reserve may be insufficient.</source>
+        <target state="new" state-qualifier="fuzzy-match">Als het werkelijke verbruikspatroon verandert (bijv. door toevoeging van energieverslindende apparaten), kan de energiereserve van de batterij onvoldoende zijn.</target>
+      </trans-unit>
+      <trans-unit id="9" ns:sid="2047271450207907849" ns:tid="2047271831131336713" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Invloed van elektriciteitsprijsbeleid" ns:Status="New" ns:Origin="" ns:MatchRate="56">
+        <source>Impact of electricity price policies</source>
+        <target state="new" state-qualifier="fuzzy-match">Invloed van elektriciteitsprijsbeleid</target>
+      </trans-unit>
+      <trans-unit id="10" ns:sid="2047271450207907850" ns:tid="2047271831131336714" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Als de terugleveringsprijs van elektriciteit (piekuren) hoger is dan de inkoopprijs van elektriciteit (daluren), kan het systeem ervoor kiezen om elektriciteit direct te verkopen in plaats van deze op te slaan, wat leidt tot onvoldoende batterijenergie." ns:Status="New" ns:Origin="" ns:MatchRate="35">
+        <source>If the feed-in electricity price (peak hours) is higher than the electricity purchase price (off-peak hours), the system may choose to sell electricity directly instead of storing it, resulting in insufficient battery energy.</source>
+        <target state="new" state-qualifier="fuzzy-match">Als de terugleveringsprijs van elektriciteit (piekuren) hoger is dan de inkoopprijs van elektriciteit (daluren), kan het systeem ervoor kiezen om elektriciteit direct te verkopen in plaats van deze op te slaan, wat leidt tot onvoldoende batterijenergie.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns="neotrans:xliff:export:2.0" version="1.2">
+  <file original="en-us_bookmap_0000002555281337.ditamap.sdlxliff" datatype="x-neotrans-export" source-language="en-US" target-language="nl-NL" ns:projectId="2047222835169525761" ns:taskId="2047272237208764418" ns:wfId="2047222835224051714" ns:swfId="" ns:historyWfId="" ns:fileId="2047269827404955650" ns:vendorId="1525463126898159616" ns:vendorSubtype="T">
+    <body>
+      <trans-unit id="1" ns:sid="2047271440959467522" ns:tid="2047271716568117249" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Oplaadsuggesties - AI - Tentoonstellingsvereisten" ns:Status="New" ns:Origin="" ns:MatchRate="35">
+        <source>Charging Suggestions - AI - Exhibition Requirements</source>
+        <target state="new" state-qualifier="fuzzy-match">Oplaadsuggesties - AI - Tentoonstellingsvereisten</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
