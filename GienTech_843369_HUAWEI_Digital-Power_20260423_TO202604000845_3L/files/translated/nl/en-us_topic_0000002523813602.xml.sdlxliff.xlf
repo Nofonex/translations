@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns="neotrans:xliff:export:2.0" version="1.2">
+  <file original="en-us_topic_0000002523813602.xml.sdlxliff" datatype="x-neotrans-export" source-language="en-US" target-language="nl-NL" ns:projectId="2047222835169525761" ns:taskId="2047272237208764418" ns:wfId="2047222835224051714" ns:swfId="" ns:historyWfId="" ns:fileId="2047269827455287297" ns:vendorId="1525463126898159616" ns:vendorSubtype="T">
+    <body>
+      <trans-unit id="1" ns:sid="2047271443740291073" ns:tid="2047271758616014849" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Waarom is de batterij niet opgeladen?" ns:Status="New" ns:Origin="" ns:MatchRate="84">
+        <source>Why Is the Battery Not Charged at Noon?</source>
+        <target state="new" state-qualifier="fuzzy-match">Waarom is de batterij niet opgeladen?</target>
+      </trans-unit>
+      <trans-unit id="2" ns:sid="2047271443740291074" ns:tid="2047271758616014850" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="De batterij is vol" ns:Status="New" ns:Origin="" ns:MatchRate="39">
+        <source>The battery is full</source>
+        <target state="new" state-qualifier="fuzzy-match">De batterij is vol</target>
+      </trans-unit>
+      <trans-unit id="3" ns:sid="2047271443740291075" ns:tid="2047271758616014851" translate="no" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Als de laadtoestand de vooraf ingestelde eindlaaddrempelwaarde heeft bereikt (bijv. 90%), stopt het systeem met opladen om overopladen te voorkomen." ns:Status="New" ns:Origin="REP" ns:MatchRate="100">
+        <source>If the SOC has reached the preset end-of-charge threshold (for example, 90%), the system stops charging to prevent overcharging.</source>
+        <target state="new" state-qualifier="fuzzy-match">Als de laadtoestand de vooraf ingestelde eindlaaddrempelwaarde heeft bereikt (bijv. 90%), stopt het systeem met opladen om overopladen te voorkomen.</target>
+      </trans-unit>
+      <trans-unit id="4" ns:sid="2047271443740291076" ns:tid="2047271758616014852" translate="no" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="In dat geval wordt het PV-vermogen aan het net geleverd of naar verbruikers gestuurd." ns:Status="New" ns:Origin="REP" ns:MatchRate="100">
+        <source>In this case, the PV power is fed to the grid or supplied to loads.</source>
+        <target state="new" state-qualifier="fuzzy-match">In dat geval wordt het PV-vermogen aan het net geleverd of naar verbruikers gestuurd.</target>
+      </trans-unit>
+      <trans-unit id="5" ns:sid="2047271443740291077" ns:tid="2047271758616014853" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Het intelligente planningsbeleid geeft prioriteit aan de verkoop van elektriciteit" ns:Status="New" ns:Origin="" ns:MatchRate="49">
+        <source>Intelligent scheduling policy prioritizes electricity sales</source>
+        <target state="new" state-qualifier="fuzzy-match">Het intelligente planningsbeleid geeft prioriteit aan de verkoop van elektriciteit</target>
+      </trans-unit>
+      <trans-unit id="6" ns:sid="2047271443740291078" ns:tid="2047271758616014854" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Als de middagperiode een &lt;b class=&quot;+ topic/ph hi-d/b &quot; id=&quot;b1640811811199&quot;&gt;hoge elektriciteitsprijs-venster&lt;/g&gt; is, wordt PV-vermogen bij voorkeur aan het net teruggeleverd (omdat de opbrengsten de netto-opbrengst van het opladen en vervolgens ontladen van de batterij overschrijden)." ns:Status="New" ns:Origin="" ns:MatchRate="39">
+        <source>If the noon period is a <bpt id="g0">&lt;b class=&quot;+ topic/ph hi-d/b &quot; id=&quot;b1640811811199&quot;&gt;</bpt>high electricity price window<ept id="g0">&lt;/g&gt;</ept>, PV power is preferentially fed to the grid (as the revenue exceeds the net revenue from charging and then discharging the battery).</source>
+        <target state="new" state-qualifier="fuzzy-match">Als de middagperiode een <bpt id="g0">&lt;b class=&quot;+ topic/ph hi-d/b &quot; id=&quot;b1640811811199&quot;&gt;</bpt>hoge elektriciteitsprijs-venster<ept id="g0">&lt;/g&gt;</ept> is, wordt PV-vermogen bij voorkeur aan het net teruggeleverd (omdat de opbrengsten de netto-opbrengst van het opladen en vervolgens ontladen van de batterij overschrijden).</target>
+      </trans-unit>
+      <trans-unit id="7" ns:sid="2047271443740291079" ns:tid="2047271758616014855" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Als de elektriciteitsprijs op het middaguur bijvoorbeeld hoog is, kan het systeem elektriciteit direct verkopen in plaats van de batterij op te laden." ns:Status="New" ns:Origin="" ns:MatchRate="43">
+        <source>For example, if the electricity price is high at noon, the system may directly sell electricity instead of charging the battery.</source>
+        <target state="new" state-qualifier="fuzzy-match">Als de elektriciteitsprijs op het middaguur bijvoorbeeld hoog is, kan het systeem elektriciteit direct verkopen in plaats van de batterij op te laden.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

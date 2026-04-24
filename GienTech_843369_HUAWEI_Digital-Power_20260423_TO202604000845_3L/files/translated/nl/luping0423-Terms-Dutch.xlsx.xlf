@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns="neotrans:xliff:export:2.0" version="1.2">
+  <file original="luping0423-Terms-Dutch.xlsx" datatype="x-neotrans-export" source-language="en-US" target-language="nl-NL" ns:projectId="2047222835169525761" ns:taskId="2047272237208764418" ns:wfId="2047222835224051714" ns:swfId="" ns:historyWfId="" ns:fileId="2047222850617147394" ns:vendorId="1525463126898159616" ns:vendorSubtype="T">
+    <body>
+      <trans-unit id="1" ns:sid="2047222852325797889" ns:tid="2047228193071493121" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Energiearbitrage" ns:Status="New" ns:Origin="" ns:MatchRate="65">
+        <source>Energy Arbitrage</source>
+        <target state="new" state-qualifier="fuzzy-match">Energiearbitrage</target>
+      </trans-unit>
+      <trans-unit id="2" ns:sid="2047222852325797890" ns:tid="2047228193071493122" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Smart Charger" ns:Status="New" ns:Origin="" ns:MatchRate="99">
+        <source>Smart Charger</source>
+        <target state="new" state-qualifier="fuzzy-match">Smart Charger</target>
+      </trans-unit>
+      <trans-unit id="3" ns:sid="2047222852325797891" ns:tid="2047228193071493123" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Arbitrage" ns:Status="New" ns:Origin="" ns:MatchRate="98">
+        <source>arbitrage</source>
+        <target state="new" state-qualifier="fuzzy-match">Arbitrage</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns="neotrans:xliff:export:2.0" version="1.2">
+  <file original="en-us_topic_0000002523653608.xml.sdlxliff" datatype="x-neotrans-export" source-language="en-US" target-language="nl-NL" ns:projectId="2047222835169525761" ns:taskId="2047272237208764418" ns:wfId="2047222835224051714" ns:swfId="" ns:historyWfId="" ns:fileId="2047269827434315778" ns:vendorId="1525463126898159616" ns:vendorSubtype="T">
+    <body>
+      <trans-unit id="1" ns:sid="2047271442557497346" ns:tid="2047271741096407041" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Waarom wordt er geen elektriciteit verkocht vanuit de batterij?" ns:Status="New" ns:Origin="" ns:MatchRate="58">
+        <source>Why Is No Electricity Being Sold from the Battery?</source>
+        <target state="new" state-qualifier="fuzzy-match">Waarom wordt er geen elektriciteit verkocht vanuit de batterij?</target>
+      </trans-unit>
+      <trans-unit id="2" ns:sid="2047271442557497347" ns:tid="2047271741096407042" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Functiebeperkingen" ns:Status="New" ns:Origin="" ns:MatchRate="65">
+        <source>Function constraints</source>
+        <target state="new" state-qualifier="fuzzy-match">Functiebeperkingen</target>
+      </trans-unit>
+      <trans-unit id="3" ns:sid="2047271442557497348" ns:tid="2047271741096407043" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="De functie &lt;uicontrol class=&quot;+ topic/ph ui-d/uicontrol &quot; id=&quot;uicontrol350524810366&quot; conref=&quot;en-us_topic_0000207663920538.xml#568815&quot; idp:conrefpath=&quot;200650494000#EN-US_BOOKMAP_0000002332266381#EN-US_TOPIC_0000207663920538&quot;/&gt; is mogelijk niet ingeschakeld." ns:Status="New" ns:Origin="" ns:MatchRate="56">
+        <source>The <ph id="f0">&lt;uicontrol class=&quot;+ topic/ph ui-d/uicontrol &quot; id=&quot;uicontrol350524810366&quot; conref=&quot;en-us_topic_0000207663920538.xml#568815&quot; idp:conrefpath=&quot;200650494000#EN-US_BOOKMAP_0000002332266381#EN-US_TOPIC_0000207663920538&quot;/&gt;</ph> function may not have been enabled.</source>
+        <target state="new" state-qualifier="fuzzy-match">De functie <ph id="f0">&lt;uicontrol class=&quot;+ topic/ph ui-d/uicontrol &quot; id=&quot;uicontrol350524810366&quot; conref=&quot;en-us_topic_0000207663920538.xml#568815&quot; idp:conrefpath=&quot;200650494000#EN-US_BOOKMAP_0000002332266381#EN-US_TOPIC_0000207663920538&quot;/&gt;</ph> is mogelijk niet ingeschakeld.</target>
+      </trans-unit>
+      <trans-unit id="4" ns:sid="2047271442557497349" ns:tid="2047271741096407044" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Als deze functie is uitgeschakeld, zal het systeem niet naar het net ontladen, zelfs niet als aan de voorwaarden voor de verkoop van elektriciteit wordt voldaan." ns:Status="New" ns:Origin="" ns:MatchRate="35">
+        <source>If this function is disabled, the system will not discharge to the grid even if the conditions for selling electricity are met.</source>
+        <target state="new" state-qualifier="fuzzy-match">Als deze functie is uitgeschakeld, zal het systeem niet naar het net ontladen, zelfs niet als aan de voorwaarden voor de verkoop van elektriciteit wordt voldaan.</target>
+      </trans-unit>
+      <trans-unit id="5" ns:sid="2047271442557497350" ns:tid="2047271741096407045" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Economische overwegingen" ns:Status="New" ns:Origin="" ns:MatchRate="49">
+        <source>Economic considerations</source>
+        <target state="new" state-qualifier="fuzzy-match">Economische overwegingen</target>
+      </trans-unit>
+      <trans-unit id="6" ns:sid="2047271442557497351" ns:tid="2047271741096407046" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="De batterij voert intelligente planning uit op basis van economische overwegingen:" ns:Status="New" ns:Origin="" ns:MatchRate="43">
+        <source>The battery performs intelligent scheduling based on economic considerations:</source>
+        <target state="new" state-qualifier="fuzzy-match">De batterij voert intelligente planning uit op basis van economische overwegingen:</target>
+      </trans-unit>
+      <trans-unit id="7" ns:sid="2047271442557497352" ns:tid="2047271741096407047" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="&lt;b class=&quot;+ topic/ph hi-d/b &quot; id=&quot;b973701912161&quot;&gt;Prijsverschil&lt;/g&gt;:" ns:Status="New" ns:Origin="" ns:MatchRate="65">
+        <source><bpt id="g0">&lt;b class=&quot;+ topic/ph hi-d/b &quot; id=&quot;b973701912161&quot;&gt;</bpt>Price difference<ept id="g0">&lt;/g&gt;</ept>:</source>
+        <target state="new" state-qualifier="fuzzy-match"><bpt id="g0">&lt;b class=&quot;+ topic/ph hi-d/b &quot; id=&quot;b973701912161&quot;&gt;</bpt>Prijsverschil<ept id="g0">&lt;/g&gt;</ept>:</target>
+      </trans-unit>
+      <trans-unit id="8" ns:sid="2047271442557497353" ns:tid="2047271741096407048" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Als het verschil tussen de huidige terugleveringsprijs en de inkoopprijs klein is, zijn de opbrengsten van het ontladen van de batterij beperkt." ns:Status="New" ns:Origin="" ns:MatchRate="37">
+        <source>If the difference between the current feed-in price and the purchase price is small, the returns from battery discharge are limited.</source>
+        <target state="new" state-qualifier="fuzzy-match">Als het verschil tussen de huidige terugleveringsprijs en de inkoopprijs klein is, zijn de opbrengsten van het ontladen van de batterij beperkt.</target>
+      </trans-unit>
+      <trans-unit id="9" ns:sid="2047271442557497354" ns:tid="2047271741096407049" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Het systeem kan energie reserveren en deze de volgende dag ontladen tijdens periodes met hogere elektriciteitsprijzen om hogere opbrengsten te behalen." ns:Status="New" ns:Origin="" ns:MatchRate="33">
+        <source>The system may reserve energy and discharge it during higher electricity price periods the next day to obtain greater returns.</source>
+        <target state="new" state-qualifier="fuzzy-match">Het systeem kan energie reserveren en deze de volgende dag ontladen tijdens periodes met hogere elektriciteitsprijzen om hogere opbrengsten te behalen.</target>
+      </trans-unit>
+      <trans-unit id="10" ns:sid="2047271442557497355" ns:tid="2047271741096407050" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="&lt;b class=&quot;+ topic/ph hi-d/b &quot; id=&quot;b167386197169&quot;&gt;Beleid voor maximalisatie van opbrengsten&lt;/g&gt;:" ns:Status="New" ns:Origin="" ns:MatchRate="39">
+        <source><bpt id="g0">&lt;b class=&quot;+ topic/ph hi-d/b &quot; id=&quot;b167386197169&quot;&gt;</bpt>Returns maximization policy<ept id="g0">&lt;/g&gt;</ept>:</source>
+        <target state="new" state-qualifier="fuzzy-match"><bpt id="g0">&lt;b class=&quot;+ topic/ph hi-d/b &quot; id=&quot;b167386197169&quot;&gt;</bpt>Beleid voor maximalisatie van opbrengsten<ept id="g0">&lt;/g&gt;</ept>:</target>
+      </trans-unit>
+      <trans-unit id="11" ns:sid="2047271442557497356" ns:tid="2047271741096407051" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Het systeem voorspelt schommelingen in de elektriciteitsprijs en geeft prioriteit aan ontladen tijdens piekperiodes van elektriciteitsprijzen." ns:Status="New" ns:Origin="" ns:MatchRate="39">
+        <source>The system forecasts electricity price fluctuations and prioritizes discharging during peak electricity price periods.</source>
+        <target state="new" state-qualifier="fuzzy-match">Het systeem voorspelt schommelingen in de elektriciteitsprijs en geeft prioriteit aan ontladen tijdens piekperiodes van elektriciteitsprijzen.</target>
+      </trans-unit>
+      <trans-unit id="12" ns:sid="2047271442557497357" ns:tid="2047271741096407052" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Als de huidige elektriciteitsprijs niet hoog is, kan de batterij in stand-bymodus blijven." ns:Status="New" ns:Origin="" ns:MatchRate="45">
+        <source>If the current electricity price is not high, the battery may remain in standby mode.</source>
+        <target state="new" state-qualifier="fuzzy-match">Als de huidige elektriciteitsprijs niet hoog is, kan de batterij in stand-bymodus blijven.</target>
+      </trans-unit>
+      <trans-unit id="13" ns:sid="2047271442557497358" ns:tid="2047271741096407053" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="SOC-beveiliging" ns:Status="New" ns:Origin="100" ns:MatchRate="100">
+        <source>SOC protection</source>
+        <target state="new" state-qualifier="tm-suggestion">SOC-beveiliging</target>
+      </trans-unit>
+      <trans-unit id="14" ns:sid="2047271442557497359" ns:tid="2047271741096407054" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Als de SOC van de batterij onder de ontlaaddrempel valt (bijvoorbeeld &lt;uicontrol class=&quot;+ topic/ph ui-d/uicontrol &quot; id=&quot;uicontrol334011283219&quot; conref=&quot;en-us_topic_0000207635302606.xml#146751&quot; idp:usecustomid=&quot;x-wc://file=ZH-CN_TOPIC_0000207635302606.xml#146751&quot; idp:conrefpath=&quot;200650494000#EN-US_BOOKMAP_0000002298267098#EN-US_TOPIC_0000207635302606&quot;/&gt; of &lt;uicontrol class=&quot;+ topic/ph ui-d/uicontrol &quot; id=&quot;uicontrol68001436163214&quot; conref=&quot;en-us_topic_0000207784739017.xml#490618&quot; idp:usecustomid=&quot;x-wc://file=ZH-CN_TOPIC_0000207784739017.xml#490618&quot; idp:conrefpath=&quot;200650494000#EN-US_BOOKMAP_0000002298267098#EN-US_TOPIC_0000207784739017&quot;/&gt;), stopt het systeem met ontladen om de stroomvoorziening te waarborgen bij onverwachte storingen." ns:Status="New" ns:Origin="" ns:MatchRate="37">
+        <source>If the battery SOC falls below the end-of-discharge threshold (for example, <ph id="f0">&lt;uicontrol class=&quot;+ topic/ph ui-d/uicontrol &quot; id=&quot;uicontrol334011283219&quot; conref=&quot;en-us_topic_0000207635302606.xml#146751&quot; idp:usecustomid=&quot;x-wc://file=ZH-CN_TOPIC_0000207635302606.xml#146751&quot; idp:conrefpath=&quot;200650494000#EN-US_BOOKMAP_0000002298267098#EN-US_TOPIC_0000207635302606&quot;/&gt;</ph> or <ph id="f1">&lt;uicontrol class=&quot;+ topic/ph ui-d/uicontrol &quot; id=&quot;uicontrol68001436163214&quot; conref=&quot;en-us_topic_0000207784739017.xml#490618&quot; idp:usecustomid=&quot;x-wc://file=ZH-CN_TOPIC_0000207784739017.xml#490618&quot; idp:conrefpath=&quot;200650494000#EN-US_BOOKMAP_0000002298267098#EN-US_TOPIC_0000207784739017&quot;/&gt;</ph>), the system stops discharging to ensure power supply capacity during unexpected outages.</source>
+        <target state="new" state-qualifier="fuzzy-match">Als de SOC van de batterij onder de ontlaaddrempel valt (bijvoorbeeld <ph id="f0">&lt;uicontrol class=&quot;+ topic/ph ui-d/uicontrol &quot; id=&quot;uicontrol334011283219&quot; conref=&quot;en-us_topic_0000207635302606.xml#146751&quot; idp:usecustomid=&quot;x-wc://file=ZH-CN_TOPIC_0000207635302606.xml#146751&quot; idp:conrefpath=&quot;200650494000#EN-US_BOOKMAP_0000002298267098#EN-US_TOPIC_0000207635302606&quot;/&gt;</ph> of <ph id="f1">&lt;uicontrol class=&quot;+ topic/ph ui-d/uicontrol &quot; id=&quot;uicontrol68001436163214&quot; conref=&quot;en-us_topic_0000207784739017.xml#490618&quot; idp:usecustomid=&quot;x-wc://file=ZH-CN_TOPIC_0000207784739017.xml#490618&quot; idp:conrefpath=&quot;200650494000#EN-US_BOOKMAP_0000002298267098#EN-US_TOPIC_0000207784739017&quot;/&gt;</ph>), stopt het systeem met ontladen om de stroomvoorziening te waarborgen bij onverwachte storingen.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

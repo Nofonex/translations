@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns="neotrans:xliff:export:2.0" version="1.2">
+  <file original="en-us_topic_0000002523648820.xml.sdlxliff" datatype="x-neotrans-export" source-language="en-US" target-language="nl-NL" ns:projectId="2047222835169525761" ns:taskId="2047272237208764418" ns:wfId="2047222835224051714" ns:swfId="" ns:historyWfId="" ns:fileId="2047269827413344259" ns:vendorId="1525463126898159616" ns:vendorSubtype="T">
+    <body>
+      <trans-unit id="1" ns:sid="2047271440456151041" ns:tid="2047271727750131713" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Veelgestelde vragen" ns:Status="New" ns:Origin="ICE" ns:MatchRate="101">
+        <source>FAQ</source>
+        <target state="new" state-qualifier="exact-match">Veelgestelde vragen</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

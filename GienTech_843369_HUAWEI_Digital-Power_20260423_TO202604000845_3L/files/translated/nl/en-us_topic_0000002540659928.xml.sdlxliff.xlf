@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns="neotrans:xliff:export:2.0" version="1.2">
+  <file original="en-us_topic_0000002540659928.xml.sdlxliff" datatype="x-neotrans-export" source-language="en-US" target-language="nl-NL" ns:projectId="2047222835169525761" ns:taskId="2047272237208764418" ns:wfId="2047222835224051714" ns:swfId="" ns:historyWfId="" ns:fileId="2047269827467870212" ns:vendorId="1525463126898159616" ns:vendorSubtype="T">
+    <body>
+      <trans-unit id="1" ns:sid="2047271445610950659" ns:tid="2047271774948634625" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Een laadschema annuleren" ns:Status="New" ns:Origin="" ns:MatchRate="49">
+        <source>Canceling a Charging Plan</source>
+        <target state="new" state-qualifier="fuzzy-match">Een laadschema annuleren</target>
+      </trans-unit>
+      <trans-unit id="2" ns:sid="2047271445610950660" ns:tid="2047271774948634626" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="U kunt een laadschema op een van de volgende manieren annuleren:" ns:Status="New" ns:Origin="" ns:MatchRate="65">
+        <source>You can cancel a charging plan in either of the following ways:</source>
+        <target state="new" state-qualifier="fuzzy-match">U kunt een laadschema op een van de volgende manieren annuleren:</target>
+      </trans-unit>
+      <trans-unit id="3" ns:sid="2047271445610950661" ns:tid="2047271774948634627" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Methode 1:" ns:Status="New" ns:Origin="100" ns:MatchRate="100">
+        <source>Method 1:</source>
+        <target state="new" state-qualifier="tm-suggestion">Methode 1:</target>
+      </trans-unit>
+      <trans-unit id="4" ns:sid="2047271445610950662" ns:tid="2047271774948634628" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Slimme PV-assistent" ns:Status="New" ns:Origin="" ns:MatchRate="84">
+        <source>Using Smart PV Assistant</source>
+        <target state="new" state-qualifier="fuzzy-match">Slimme PV-assistent</target>
+      </trans-unit>
+      <trans-unit id="5" ns:sid="2047271445610950663" ns:tid="2047271774948634629" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Stuur een instructie naar de Slimme PV-assistent, bijvoorbeeld &lt;parmvalue class=&quot;+ topic/keyword pr-d/parmvalue &quot; id=&quot;parmvalue71611332256&quot;&gt;Cancel charging&lt;/parmvalue&gt;." ns:Status="New" ns:Origin="" ns:MatchRate="45">
+        <source>Send an instruction to the Smart PV Assistant, for example, <ph id="f0">&lt;parmvalue class=&quot;+ topic/keyword pr-d/parmvalue &quot; id=&quot;parmvalue71611332256&quot;&gt;Cancel charging&lt;/parmvalue&gt;</ph>.</source>
+        <target state="new" state-qualifier="fuzzy-match">Stuur een instructie naar de Slimme PV-assistent, bijvoorbeeld <ph id="f0">&lt;parmvalue class=&quot;+ topic/keyword pr-d/parmvalue &quot; id=&quot;parmvalue71611332256&quot;&gt;Cancel charging&lt;/parmvalue&gt;</ph>.</target>
+      </trans-unit>
+      <trans-unit id="6" ns:sid="2047271445610950664" ns:tid="2047271774948634630" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Het systeem geeft alle laadschema's weer die worden uitgevoerd." ns:Status="New" ns:Origin="" ns:MatchRate="39">
+        <source>The system lists all charging plans that are being executed.</source>
+        <target state="new" state-qualifier="fuzzy-match">Het systeem geeft alle laadschema's weer die worden uitgevoerd.</target>
+      </trans-unit>
+      <trans-unit id="7" ns:sid="2047271445610950665" ns:tid="2047271774948634631" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Tik op &lt;uicontrol class=&quot;+ topic/ph ui-d/uicontrol &quot; id=&quot;uicontrol65691238756&quot; conref=&quot;en-us_topic_0000207784273627.xml#136461&quot; idp:usecustomid=&quot;x-wc://file=ZH-CN_TOPIC_0000207784273627.xml#136461&quot; idp:conrefpath=&quot;200650494000#EN-US_BOOKMAP_0000002298266790#EN-US_TOPIC_0000207784273627&quot;/&gt; om alle schema's in te stellen op &lt;image class=&quot;- topic/image &quot; href=&quot;en-us_image_0000002541069088.png&quot; id=&quot;image74355813620&quot; idp:imageSize=&quot;36,20&quot; idp:imageUrl=&quot;&#24320;&#20851;.png&quot; otherprops=&quot;1&quot; placement=&quot;inline&quot;/&gt; (uitgeschakeld)." ns:Status="New" ns:Origin="" ns:MatchRate="49">
+        <source>Tap <ph id="f0">&lt;uicontrol class=&quot;+ topic/ph ui-d/uicontrol &quot; id=&quot;uicontrol65691238756&quot; conref=&quot;en-us_topic_0000207784273627.xml#136461&quot; idp:usecustomid=&quot;x-wc://file=ZH-CN_TOPIC_0000207784273627.xml#136461&quot; idp:conrefpath=&quot;200650494000#EN-US_BOOKMAP_0000002298266790#EN-US_TOPIC_0000207784273627&quot;/&gt;</ph> to set all plans to <ph id="f1">&lt;image class=&quot;- topic/image &quot; href=&quot;en-us_image_0000002541069088.png&quot; id=&quot;image74355813620&quot; idp:imageSize=&quot;36,20&quot; idp:imageUrl=&quot;&#24320;&#20851;.png&quot; otherprops=&quot;1&quot; placement=&quot;inline&quot;/&gt;</ph> (disabled).</source>
+        <target state="new" state-qualifier="fuzzy-match">Tik op <ph id="f0">&lt;uicontrol class=&quot;+ topic/ph ui-d/uicontrol &quot; id=&quot;uicontrol65691238756&quot; conref=&quot;en-us_topic_0000207784273627.xml#136461&quot; idp:usecustomid=&quot;x-wc://file=ZH-CN_TOPIC_0000207784273627.xml#136461&quot; idp:conrefpath=&quot;200650494000#EN-US_BOOKMAP_0000002298266790#EN-US_TOPIC_0000207784273627&quot;/&gt;</ph> om alle schema's in te stellen op <ph id="f1">&lt;image class=&quot;- topic/image &quot; href=&quot;en-us_image_0000002541069088.png&quot; id=&quot;image74355813620&quot; idp:imageSize=&quot;36,20&quot; idp:imageUrl=&quot;&#24320;&#20851;.png&quot; otherprops=&quot;1&quot; placement=&quot;inline&quot;/&gt;</ph> (uitgeschakeld).</target>
+      </trans-unit>
+      <trans-unit id="8" ns:sid="2047271445610950666" ns:tid="2047271774948634632" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Methode 2:" ns:Status="New" ns:Origin="100" ns:MatchRate="100">
+        <source>Method 2:</source>
+        <target state="new" state-qualifier="tm-suggestion">Methode 2:</target>
+      </trans-unit>
+      <trans-unit id="9" ns:sid="2047271445610950667" ns:tid="2047271774948634633" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Een schema handmatig annuleren in de lijst met geplande schema's" ns:Status="New" ns:Origin="" ns:MatchRate="34">
+        <source>Manually Canceling a Plan in the Scheduled Plan List</source>
+        <target state="new" state-qualifier="fuzzy-match">Een schema handmatig annuleren in de lijst met geplande schema's</target>
+      </trans-unit>
+      <trans-unit id="10" ns:sid="2047271445610950668" ns:tid="2047271774948634634" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Ga naar het bedieningsscherm van de oplader." ns:Status="New" ns:Origin="" ns:MatchRate="56">
+        <source>Access the charger control screen.</source>
+        <target state="new" state-qualifier="fuzzy-match">Ga naar het bedieningsscherm van de oplader.</target>
+      </trans-unit>
+      <trans-unit id="11" ns:sid="2047271445610950669" ns:tid="2047271774948634635" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Selecteer &lt;g0&gt;&lt;g1&gt;:&lt;/g1&gt;&lt;/g0&gt;" ns:Status="New" ns:Origin="100" ns:MatchRate="100">
+        <source>Choose <bpt id="g0">&lt;menucascade class=&quot;+ topic/ph ui-d/menucascade &quot; id=&quot;menucascade158251242185819&quot;&gt;</bpt><bpt id="g1">&lt;uicontrol class=&quot;+ topic/ph ui-d/uicontrol &quot; id=&quot;uicontrol282520428585&quot;&gt;</bpt>:<ept id="g1">&lt;/g&gt;</ept><ept id="g0">&lt;/g&gt;</ept></source>
+        <target state="new" state-qualifier="tm-suggestion">Selecteer <bpt id="g0">&lt;menucascade class=&quot;+ topic/ph ui-d/menucascade &quot; id=&quot;menucascade158251242185819&quot;&gt;</bpt><bpt id="g1">&lt;uicontrol class=&quot;+ topic/ph ui-d/uicontrol &quot; id=&quot;uicontrol282520428585&quot;&gt;</bpt>:<ept id="g1">&lt;/g&gt;</ept><ept id="g0">&lt;/g&gt;</ept></target>
+      </trans-unit>
+      <trans-unit id="12" ns:sid="2047271445610950670" ns:tid="2047271774948634636" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="&lt;g0&gt;
+          &lt;g1&gt; :&lt;/g1&gt;&lt;f2/&gt;&lt;/g0&gt; in de rechterbovenhoek." ns:Status="New" ns:Origin="" ns:MatchRate="97">
+        <source><bpt id="g0">&lt;menucascade class=&quot;+ topic/ph ui-d/menucascade &quot; id=&quot;menucascade158251242185819&quot;&gt;</bpt><bpt id="g1">&lt;uicontrol class=&quot;+ topic/ph ui-d/uicontrol &quot; id=&quot;uicontrol282520428585&quot;&gt;</bpt> :<ept id="g1">&lt;/g&gt;</ept><ph id="f2">&lt;uicontrol class=&quot;+ topic/ph ui-d/uicontrol &quot; id=&quot;uicontrol2574193561812&quot; conref=&quot;en-us_topic_0000001657557081.xml#uicontrol136381&quot; idp:conrefpath=&quot;200650494000#EN-US_BOOKMAP_0000001657876781#EN-US_TOPIC_0000001657557081&quot;/&gt;</ph><ph id="f3">&lt;uicontrol class=&quot;+ topic/ph ui-d/uicontrol &quot; id=&quot;uicontrol1363513149483&quot; conref=&quot;en-us_topic_0000001625060950.xml#uicontrol428811&quot; idp:conrefpath=&quot;200650494000#EN-US_BOOKMAP_0000001673220809#EN-US_TOPIC_0000001625060950&quot;/&gt;</ph><ept id="g0">&lt;/g&gt;</ept> in the upper right corner.</source>
+        <target state="new" state-qualifier="fuzzy-match"><bpt id="g0">&lt;menucascade class=&quot;+ topic/ph ui-d/menucascade &quot; id=&quot;menucascade158251242185819&quot;&gt;</bpt>
+          <bpt id="g1">&lt;uicontrol class=&quot;+ topic/ph ui-d/uicontrol &quot; id=&quot;uicontrol282520428585&quot;&gt;</bpt> :<ept id="g1">&lt;/g&gt;</ept><ph id="f2">&lt;uicontrol class=&quot;+ topic/ph ui-d/uicontrol &quot; id=&quot;uicontrol2574193561812&quot; conref=&quot;en-us_topic_0000001657557081.xml#uicontrol136381&quot; idp:conrefpath=&quot;200650494000#EN-US_BOOKMAP_0000001657876781#EN-US_TOPIC_0000001657557081&quot;/&gt;</ph><ept id="g0">&lt;/g&gt;</ept> in de rechterbovenhoek.</target>
+      </trans-unit>
+      <trans-unit id="13" ns:sid="2047271445610950671" ns:tid="2047271774948634637" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Selecteer een operator." ns:Status="New" ns:Origin="" ns:MatchRate="79">
+        <source>Select an operation mode:</source>
+        <target state="new" state-qualifier="fuzzy-match">Selecteer een operator.</target>
+      </trans-unit>
+      <trans-unit id="14" ns:sid="2047271445610950672" ns:tid="2047271774948634638" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Een gepland schema pauzeren:" ns:Status="New" ns:Origin="" ns:MatchRate="49">
+        <source>Pause a scheduled plan:</source>
+        <target state="new" state-qualifier="fuzzy-match">Een gepland schema pauzeren:</target>
+      </trans-unit>
+      <trans-unit id="15" ns:sid="2047271445610950673" ns:tid="2047271774948634639" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Selecteer het geplande tijdstip dat u wilt stoppen en stel dit in op &lt;image class=&quot;- topic/image &quot; href=&quot;en-us_image_0000002571355145.png&quot; id=&quot;image1675151375620&quot; idp:imageSize=&quot;36,20&quot; idp:imageUrl=&quot;&#24320;&#20851;.png&quot; otherprops=&quot;1&quot; placement=&quot;inline&quot;/&gt; (uitgeschakeld)." ns:Status="New" ns:Origin="" ns:MatchRate="46">
+        <source>Select the scheduled time to be stopped and set it to <ph id="f0">&lt;image class=&quot;- topic/image &quot; href=&quot;en-us_image_0000002571355145.png&quot; id=&quot;image1675151375620&quot; idp:imageSize=&quot;36,20&quot; idp:imageUrl=&quot;&#24320;&#20851;.png&quot; otherprops=&quot;1&quot; placement=&quot;inline&quot;/&gt;</ph> (disabled).</source>
+        <target state="new" state-qualifier="fuzzy-match">Selecteer het geplande tijdstip dat u wilt stoppen en stel dit in op <ph id="f0">&lt;image class=&quot;- topic/image &quot; href=&quot;en-us_image_0000002571355145.png&quot; id=&quot;image1675151375620&quot; idp:imageSize=&quot;36,20&quot; idp:imageUrl=&quot;&#24320;&#20851;.png&quot; otherprops=&quot;1&quot; placement=&quot;inline&quot;/&gt;</ph> (uitgeschakeld).</target>
+      </trans-unit>
+      <trans-unit id="16" ns:sid="2047271445610950674" ns:tid="2047271774948634640" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Een gepland schema verwijderen:" ns:Status="New" ns:Origin="" ns:MatchRate="49">
+        <source>Delete a scheduled plan:</source>
+        <target state="new" state-qualifier="fuzzy-match">Een gepland schema verwijderen:</target>
+      </trans-unit>
+      <trans-unit id="17" ns:sid="2047271445610950675" ns:tid="2047271774948634641" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Selecteer het tijdsschema dat u wilt verwijderen, houd dit vast en veeg naar links. Tik vervolgens op &lt;f0/&gt; om het geplande tijdsschema te verwijderen." ns:Status="New" ns:Origin="100" ns:MatchRate="100">
+        <source>Select a plan you want to delete, press and swipe left, and tap <ph id="f0">&lt;image class=&quot;- topic/image &quot; id=&quot;image191591928142510&quot; otherprops=&quot;1&quot; placement=&quot;inline&quot; href=&quot;en-us_image_0000002571475121.png&quot; idp:imageUrl=&quot;Public_ic_public_delete_filled B@2x.png&quot; idp:imageSize=&quot;80,80&quot; width=&quot;20.0000pt&quot; height=&quot;20.0000pt&quot;/&gt;</ph> to delete the scheduled plan.</source>
+        <target state="new" state-qualifier="tm-suggestion">Selecteer het tijdsschema dat u wilt verwijderen, houd dit vast en veeg naar links. Tik vervolgens op <ph id="f0">&lt;image class=&quot;- topic/image &quot; id=&quot;image191591928142510&quot; otherprops=&quot;1&quot; placement=&quot;inline&quot; href=&quot;en-us_image_0000002571475121.png&quot; idp:imageUrl=&quot;Public_ic_public_delete_filled B@2x.png&quot; idp:imageSize=&quot;80,80&quot; width=&quot;20.0000pt&quot; height=&quot;20.0000pt&quot;/&gt;</ph> om het geplande tijdsschema te verwijderen.</target>
+      </trans-unit>
+      <trans-unit id="18" ns:sid="2047271445610950676" ns:tid="2047271774948634642" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Annuleren via Slimme PV-assistent is geschikter voor snelle bulkhandelingen." ns:Status="New" ns:Origin="" ns:MatchRate="39">
+        <source>Canceling using Smart PV Assistant is more suitable for quick batch operations.</source>
+        <target state="new" state-qualifier="fuzzy-match">Annuleren via Slimme PV-assistent is geschikter voor snelle bulkhandelingen.</target>
+      </trans-unit>
+      <trans-unit id="19" ns:sid="2047271445610950677" ns:tid="2047271774948634643" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="U kunt een afzonderlijk laadschema nauwkeurig beheren in de lijst met geplande schema's." ns:Status="New" ns:Origin="" ns:MatchRate="37">
+        <source>You can accurately control a single charging plan in the scheduled plan list.</source>
+        <target state="new" state-qualifier="fuzzy-match">U kunt een afzonderlijk laadschema nauwkeurig beheren in de lijst met geplande schema's.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

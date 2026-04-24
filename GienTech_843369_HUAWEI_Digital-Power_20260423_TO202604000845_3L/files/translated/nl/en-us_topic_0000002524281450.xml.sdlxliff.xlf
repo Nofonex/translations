@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns="neotrans:xliff:export:2.0" version="1.2">
+  <file original="en-us_topic_0000002524281450.xml.sdlxliff" datatype="x-neotrans-export" source-language="en-US" target-language="nl-NL" ns:projectId="2047222835169525761" ns:taskId="2047272237208764418" ns:wfId="2047222835224051714" ns:swfId="" ns:historyWfId="" ns:fileId="2047269827463675906" ns:vendorId="1525463126898159616" ns:vendorSubtype="T">
+    <body>
+      <trans-unit id="1" ns:sid="2047271445950689281" ns:tid="2047271768728481793" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Functies" ns:Status="New" ns:Origin="100" ns:MatchRate="100">
+        <source>Functions</source>
+        <target state="new" state-qualifier="tm-suggestion">Functies</target>
+      </trans-unit>
+      <trans-unit id="2" ns:sid="2047271445950689282" ns:tid="2047271768728481794" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Op basis van historische laadrecords en toekomstige trends in elektriciteitsprijzen berekent Slimme PV-assistent op intelligente wijze de meest kosteneffectieve oplaadperiode om de elektriciteitskosten te minimaliseren." ns:Status="New" ns:Origin="" ns:MatchRate="39">
+        <source>Based on historical charging records and future electricity price trends, Smart PV Assistant intelligently calculates the most cost-effective charging period to minimize electricity costs.</source>
+        <target state="new" state-qualifier="fuzzy-match">Op basis van historische laadrecords en toekomstige trends in elektriciteitsprijzen berekent Slimme PV-assistent op intelligente wijze de meest kosteneffectieve oplaadperiode om de elektriciteitskosten te minimaliseren.</target>
+      </trans-unit>
+      <trans-unit id="3" ns:sid="2047271445950689283" ns:tid="2047271768728481795" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Dit zijn de belangrijkste functies:" ns:Status="New" ns:Origin="100" ns:MatchRate="100">
+        <source>The main functions are as follows:</source>
+        <target state="new" state-qualifier="tm-suggestion">Dit zijn de belangrijkste functies:</target>
+      </trans-unit>
+      <trans-unit id="4" ns:sid="2047271445950689284" ns:tid="2047271768728481796" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Slim opladen" ns:Status="New" ns:Origin="" ns:MatchRate="79">
+        <source>Smart charging plan</source>
+        <target state="new" state-qualifier="fuzzy-match">Slim opladen</target>
+      </trans-unit>
+      <trans-unit id="5" ns:sid="2047271445950689285" ns:tid="2047271768728481797" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="&lt;b class=&quot;+ topic/ph hi-d/b &quot; id=&quot;b103924812541&quot;&gt;Optimale aanbeveling voor 24 uur&lt;/g&gt;:" ns:Status="New" ns:Origin="" ns:MatchRate="64">
+        <source><bpt id="g0">&lt;b class=&quot;+ topic/ph hi-d/b &quot; id=&quot;b103924812541&quot;&gt;</bpt>24-hour optimal recommendation<ept id="g0">&lt;/g&gt;</ept>:</source>
+        <target state="new" state-qualifier="fuzzy-match"><bpt id="g0">&lt;b class=&quot;+ topic/ph hi-d/b &quot; id=&quot;b103924812541&quot;&gt;</bpt>Optimale aanbeveling voor 24 uur<ept id="g0">&lt;/g&gt;</ept>:</target>
+      </trans-unit>
+      <trans-unit id="6" ns:sid="2047271445950689286" ns:tid="2047271768728481798" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Vraag &lt;parmvalue class=&quot;+ topic/keyword pr-d/parmvalue &quot; id=&quot;parmvalue3379734164114&quot;&gt;When should I charge next time to save money?&lt;/parmvalue&gt; om de twee meest kosteneffectieve oplaadperiodes binnen de komende 24 uur te verkrijgen." ns:Status="New" ns:Origin="" ns:MatchRate="31">
+        <source>Ask <ph id="f0">&lt;parmvalue class=&quot;+ topic/keyword pr-d/parmvalue &quot; id=&quot;parmvalue3379734164114&quot;&gt;When should I charge next time to save money?&lt;/parmvalue&gt;</ph> to obtain the two most cost-effective charging periods within the next 24 hours.</source>
+        <target state="new" state-qualifier="fuzzy-match">Vraag <ph id="f0">&lt;parmvalue class=&quot;+ topic/keyword pr-d/parmvalue &quot; id=&quot;parmvalue3379734164114&quot;&gt;When should I charge next time to save money?&lt;/parmvalue&gt;</ph> om de twee meest kosteneffectieve oplaadperiodes binnen de komende 24 uur te verkrijgen.</target>
+      </trans-unit>
+      <trans-unit id="7" ns:sid="2047271445950689287" ns:tid="2047271768728481799" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="&lt;b class=&quot;+ topic/ph hi-d/b &quot; id=&quot;b664016512544&quot;&gt;Optimale aanbeveling voor de week&lt;/g&gt;:" ns:Status="New" ns:Origin="" ns:MatchRate="49">
+        <source><bpt id="g0">&lt;b class=&quot;+ topic/ph hi-d/b &quot; id=&quot;b664016512544&quot;&gt;</bpt>Weekly optimal recommendation<ept id="g0">&lt;/g&gt;</ept>:</source>
+        <target state="new" state-qualifier="fuzzy-match"><bpt id="g0">&lt;b class=&quot;+ topic/ph hi-d/b &quot; id=&quot;b664016512544&quot;&gt;</bpt>Optimale aanbeveling voor de week<ept id="g0">&lt;/g&gt;</ept>:</target>
+      </trans-unit>
+      <trans-unit id="8" ns:sid="2047271445950689288" ns:tid="2047271768728481800" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Vraag &lt;parmvalue class=&quot;+ topic/keyword pr-d/parmvalue &quot; id=&quot;parmvalue149316373413&quot;&gt;When is the cheapest time of the week to charge?&lt;/parmvalue&gt; om de meest kosteneffectieve oplaadperiode voor de week te verkrijgen." ns:Status="New" ns:Origin="" ns:MatchRate="28">
+        <source>Ask <ph id="f0">&lt;parmvalue class=&quot;+ topic/keyword pr-d/parmvalue &quot; id=&quot;parmvalue149316373413&quot;&gt;When is the cheapest time of the week to charge?&lt;/parmvalue&gt;</ph> to obtain the most cost-effective charging period for the week.</source>
+        <target state="new" state-qualifier="fuzzy-match">Vraag <ph id="f0">&lt;parmvalue class=&quot;+ topic/keyword pr-d/parmvalue &quot; id=&quot;parmvalue149316373413&quot;&gt;When is the cheapest time of the week to charge?&lt;/parmvalue&gt;</ph> om de meest kosteneffectieve oplaadperiode voor de week te verkrijgen.</target>
+      </trans-unit>
+      <trans-unit id="9" ns:sid="2047271445950689289" ns:tid="2047271768728481801" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Schema&#160;EEN" ns:Status="New" ns:Origin="" ns:MatchRate="78">
+        <source><bpt id="g0">&lt;b class=&quot;+ topic/ph hi-d/b &quot; id=&quot;b141521032544&quot;&gt;</bpt>One-tap scheduling<ept id="g0">&lt;/g&gt;</ept>:</source>
+        <target state="new" state-qualifier="fuzzy-match">Schema EEN</target>
+      </trans-unit>
+      <trans-unit id="10" ns:sid="2047271445950689290" ns:tid="2047271768728481802" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="U kunt direct de door Slimme PV-assistent aanbevolen tijdsperiode selecteren om te plannen." ns:Status="New" ns:Origin="" ns:MatchRate="34">
+        <source>You can directly select the time period recommended by Smart PV Assistant for scheduling.</source>
+        <target state="new" state-qualifier="fuzzy-match">U kunt direct de door Slimme PV-assistent aanbevolen tijdsperiode selecteren om te plannen.</target>
+      </trans-unit>
+      <trans-unit id="11" ns:sid="2047271445950689291" ns:tid="2047271768728481803" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Snel laden" ns:Status="New" ns:Origin="" ns:MatchRate="79">
+        <source>Instant fast charging</source>
+        <target state="new" state-qualifier="fuzzy-match">Snel laden</target>
+      </trans-unit>
+      <trans-unit id="12" ns:sid="2047271445950689292" ns:tid="2047271768728481804" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Nadat de oplader is aangesloten op het voertuig, tikt u op &lt;parmvalue class=&quot;+ topic/keyword pr-d/parmvalue &quot; id=&quot;parmvalue2094814210148&quot;&gt;Charge my car&lt;/parmvalue&gt; om direct met opladen te beginnen." ns:Status="New" ns:Origin="" ns:MatchRate="68">
+        <source>After the charger is connected to the vehicle, tap <ph id="f0">&lt;parmvalue class=&quot;+ topic/keyword pr-d/parmvalue &quot; id=&quot;parmvalue2094814210148&quot;&gt;Charge my car&lt;/parmvalue&gt;</ph> to start charging immediately.</source>
+        <target state="new" state-qualifier="fuzzy-match">Nadat de oplader is aangesloten op het voertuig, tikt u op <ph id="f0">&lt;parmvalue class=&quot;+ topic/keyword pr-d/parmvalue &quot; id=&quot;parmvalue2094814210148&quot;&gt;Charge my car&lt;/parmvalue&gt;</ph> om direct met opladen te beginnen.</target>
+      </trans-unit>
+      <trans-unit id="13" ns:sid="2047271445950689293" ns:tid="2047271768728481805" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Herinnering voor oplaadsuggestie" ns:Status="New" ns:Origin="" ns:MatchRate="49">
+        <source>Charging suggestion reminder</source>
+        <target state="new" state-qualifier="fuzzy-match">Herinnering voor oplaadsuggestie</target>
+      </trans-unit>
+      <trans-unit id="14" ns:sid="2047271445950689294" ns:tid="2047271768728481806" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Nadat het opladen succesvol is ingepland, kunt u de herinneringsfunctie inschakelen." ns:Status="New" ns:Origin="" ns:MatchRate="55">
+        <source>After the charging is successfully scheduled, you can enable the reminder function.</source>
+        <target state="new" state-qualifier="fuzzy-match">Nadat het opladen succesvol is ingepland, kunt u de herinneringsfunctie inschakelen.</target>
+      </trans-unit>
+      <trans-unit id="15" ns:sid="2047271445950689295" ns:tid="2047271768728481807" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Het systeem stuurt u automatisch een melding 30 minuten voordat het opladen begint, zodat u de door u geplande optimale oplaadperiode niet mist." ns:Status="New" ns:Origin="" ns:MatchRate="34">
+        <source>The system will automatically send you a notification 30 minutes before the charging starts to ensure that you do not miss the optimal charging period you have scheduled.</source>
+        <target state="new" state-qualifier="fuzzy-match">Het systeem stuurt u automatisch een melding 30 minuten voordat het opladen begint, zodat u de door u geplande optimale oplaadperiode niet mist.</target>
+      </trans-unit>
+      <trans-unit id="16" ns:sid="2047271445950689296" ns:tid="2047271768728481808" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Toepassingsbereik" ns:Status="New" ns:Origin="100" ns:MatchRate="100">
+        <source>Applicable Scope</source>
+        <target state="new" state-qualifier="tm-suggestion">Toepassingsbereik</target>
+      </trans-unit>
+      <trans-unit id="17" ns:sid="2047271445950689297" ns:tid="2047271768728481809" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Type installatie" ns:Status="New" ns:Origin="" ns:MatchRate="87">
+        <source><bpt id="g0">&lt;b class=&quot;+ topic/ph hi-d/b &quot; id=&quot;b6881631145214&quot;&gt;</bpt>Plant type<ept id="g0">&lt;/g&gt;</ept>:</source>
+        <target state="new" state-qualifier="fuzzy-match">Type installatie</target>
+      </trans-unit>
+      <trans-unit id="18" ns:sid="2047271445950689298" ns:tid="2047271768728481810" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Deze functie is alleen van toepassing op -installaties." ns:Status="New" ns:Origin="" ns:MatchRate="78">
+        <source>This function applies only to the residential plant scenarios.</source>
+        <target state="new" state-qualifier="fuzzy-match">Deze functie is alleen van toepassing op -installaties.</target>
+      </trans-unit>
+      <trans-unit id="19" ns:sid="2047271445950689299" ns:tid="2047271768728481811" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Apparaattype:" ns:Status="New" ns:Origin="100" ns:MatchRate="100">
+        <source>Device type:</source>
+        <target state="new" state-qualifier="tm-suggestion">Apparaattype:</target>
+      </trans-unit>
+      <trans-unit id="20" ns:sid="2047271445950689300" ns:tid="2047271768728481812" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="netwerk + Huawei oplader&lt;idp:filter class=&quot;- topic/filter &quot; id=&quot;filter1866602216238&quot; hwFeature=&quot;Temp&quot;&gt;, PV&amp;ESS-netwerk + Huawei oplader&lt;/g&gt;" ns:Status="New" ns:Origin="" ns:MatchRate="49">
+        <source><ph id="f0">&lt;ph class=&quot;- topic/ph &quot; conref=&quot;en-us_topic_0000001645659009.xml#ph828945519592&quot; id=&quot;ph157181719580&quot; idp:conrefpath=&quot;200650494000#EN-US_BOOKMAP_0000001596019118#EN-US_TOPIC_0000001645659009&quot; idp:userph=&quot;true&quot;/&gt;</ph> networking + Huawei charger<bpt id="g1">&lt;idp:filter class=&quot;- topic/filter &quot; id=&quot;filter1866602216238&quot; hwFeature=&quot;Temp&quot;&gt;</bpt>, PV&amp;ESS networking + Huawei charger<ept id="g1">&lt;/g&gt;</ept></source>
+        <target state="new" state-qualifier="fuzzy-match">netwerk + Huawei oplader<bpt id="g1">&lt;idp:filter class=&quot;- topic/filter &quot; id=&quot;filter1866602216238&quot; hwFeature=&quot;Temp&quot;&gt;</bpt>, PV&amp;ESS-netwerk + Huawei oplader<ept id="g1">&lt;/g&gt;</ept></target>
+      </trans-unit>
+      <trans-unit id="21" ns:sid="2047271445950689301" ns:tid="2047271768728481813" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="&lt;b class=&quot;+ topic/ph hi-d/b &quot; id=&quot;b48818318529&quot;&gt;Gebruikerstoestemming&lt;/g&gt;: alleen beschikbaar voor eigenaren." ns:Status="New" ns:Origin="" ns:MatchRate="51">
+        <source><bpt id="g0">&lt;b class=&quot;+ topic/ph hi-d/b &quot; id=&quot;b48818318529&quot;&gt;</bpt>User permission<ept id="g0">&lt;/g&gt;</ept>: available only to owners.</source>
+        <target state="new" state-qualifier="fuzzy-match"><bpt id="g0">&lt;b class=&quot;+ topic/ph hi-d/b &quot; id=&quot;b48818318529&quot;&gt;</bpt>Gebruikerstoestemming<ept id="g0">&lt;/g&gt;</ept>: alleen beschikbaar voor eigenaren.</target>
+      </trans-unit>
+      <trans-unit id="22" ns:sid="2047271445950689302" ns:tid="2047271768728481814" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Configuratievereisten" ns:Status="New" ns:Origin="100" ns:MatchRate="100">
+        <source>Configuration Requirements</source>
+        <target state="new" state-qualifier="tm-suggestion">Configuratievereisten</target>
+      </trans-unit>
+      <trans-unit id="23" ns:sid="2047271445950689303" ns:tid="2047271768728481815" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="moet zijn ingeschakeld." ns:Status="New" ns:Origin="" ns:MatchRate="74">
+        <source><ph id="f0">&lt;uicontrol class=&quot;+ topic/ph ui-d/uicontrol &quot; id=&quot;uicontrol59701787117&quot; conref=&quot;en-us_topic_0000207813707691.xml#556644&quot; idp:conrefpath=&quot;200650494000#EN-US_BOOKMAP_0000002332266381#EN-US_TOPIC_0000207813707691&quot;/&gt;</ph> must be enabled.</source>
+        <target state="new" state-qualifier="fuzzy-match">moet zijn ingeschakeld.</target>
+      </trans-unit>
+      <trans-unit id="24" ns:sid="2047271445950689304" ns:tid="2047271768728481816" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="Deze functie moet ingeschakeld zijn." ns:Status="New" ns:Origin="" ns:MatchRate="86">
+        <source>The <ph id="f0">&lt;uicontrol class=&quot;+ topic/ph ui-d/uicontrol &quot; id=&quot;uicontrol9277648111318&quot; conref=&quot;en-us_topic_0000207663920538.xml#573474&quot; idp:usecustomid=&quot;x-wc://file=ZH-CN_TOPIC_0000207663920538.xml#573474&quot; idp:conrefpath=&quot;200650494000#EN-US_BOOKMAP_0000002332266381#EN-US_TOPIC_0000207663920538&quot;/&gt;</ph> function must be enabled.</source>
+        <target state="new" state-qualifier="fuzzy-match">Deze functie moet ingeschakeld zijn.</target>
+      </trans-unit>
+      <trans-unit id="25" ns:sid="2047271445950689305" ns:tid="2047271768728481817" translate="yes" ns:wfId="2047222835224051714" ns:wfName="T" ns:originTarget="De functie voor meldingen van belangrijke gebeurtenissen van de oplader moet zijn ingeschakeld in &lt;uicontrol class=&quot;+ topic/ph ui-d/uicontrol &quot; id=&quot;uicontrol620502614555&quot; conref=&quot;en-us_topic_0000207784273625.xml#135997&quot; idp:usecustomid=&quot;x-wc://file=ZH-CN_TOPIC_0000207784273625.xml#135997&quot; idp:conrefpath=&quot;200650494000#EN-US_BOOKMAP_0000002298266790#EN-US_TOPIC_0000207784273625&quot;/&gt;." ns:Status="New" ns:Origin="" ns:MatchRate="46">
+        <source>The key event notification function of the charger must be enabled in <ph id="f0">&lt;uicontrol class=&quot;+ topic/ph ui-d/uicontrol &quot; id=&quot;uicontrol620502614555&quot; conref=&quot;en-us_topic_0000207784273625.xml#135997&quot; idp:usecustomid=&quot;x-wc://file=ZH-CN_TOPIC_0000207784273625.xml#135997&quot; idp:conrefpath=&quot;200650494000#EN-US_BOOKMAP_0000002298266790#EN-US_TOPIC_0000207784273625&quot;/&gt;</ph>.</source>
+        <target state="new" state-qualifier="fuzzy-match">De functie voor meldingen van belangrijke gebeurtenissen van de oplader moet zijn ingeschakeld in <ph id="f0">&lt;uicontrol class=&quot;+ topic/ph ui-d/uicontrol &quot; id=&quot;uicontrol620502614555&quot; conref=&quot;en-us_topic_0000207784273625.xml#135997&quot; idp:usecustomid=&quot;x-wc://file=ZH-CN_TOPIC_0000207784273625.xml#135997&quot; idp:conrefpath=&quot;200650494000#EN-US_BOOKMAP_0000002298266790#EN-US_TOPIC_0000207784273625&quot;/&gt;</ph>.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
